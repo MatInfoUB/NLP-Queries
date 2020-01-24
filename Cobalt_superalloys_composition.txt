@@ -1,0 +1,2019 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Berthod, P
+   Gomis, JP
+AF Berthod, Patrice
+   Gomis, Jean-Paul
+TI Improvement of the high temperature oxidation of TaC-strengthened
+   Co(Cr)-based cast superalloys by the addition of nickel
+SO CORROSION ENGINEERING SCIENCE AND TECHNOLOGY
+AB In this work, nickel is added in substitution to cobalt in the composition of a cast cobalt-based chromium-rich superalloy designed to obtain a double-phased {fcc matrix + TaC} microstructure. Two nickel amounts were tested, 13 and 26 wt-%Ni, for 25 wt-%Cr, 0.4 wt-%C and 6 wt-%Ta, the rest being cobalt. The obtained as-cast microstructures are not different from the starting alloy's one, contrarily to the hardness which became lower. The oxidation tests at 1200 degrees C for 170 h demonstrated a significant improvement of the alloy's behaviour, especially for an addition of 26 wt-%Ni. This seems to be attributed to an easier Cr diffusion towards the oxidation front as suggested by the observed Cr contents in extreme surface as well as by the lower Cr concentration gradients. In addition, the TaC seemed to be morphologically more stable in the presence of nickel in the alloys than in the absence of Ni.
+SN 1478-422X
+EI 1743-2782
+DI 10.1080/1478422X.2019.1699261
+EA DEC 2019
+UT WOS:000500624100001
+ER
+
+PT J
+AU Reynolds, TD
+   Collins, DM
+   Soor, NK
+   Street, SR
+   Warnken, N
+   Mignanelli, PM
+   Hardy, MC
+   Evans, HE
+   Taylor, MP
+AF Reynolds, T. D.
+   Collins, D. M.
+   Soor, N. K.
+   Street, S. R.
+   Warnken, N.
+   Mignanelli, P. M.
+   Hardy, M. C.
+   Evans, H. E.
+   Taylor, M. P.
+TI Identifying heating rate dependent oxidation reactions on a nickel-based
+   superalloy using synchrotron diffraction
+SO ACTA MATERIALIA
+AB Synchrotron grazing incidence X-ray diffraction has been used to newly reveal the heating rate dependent oxidation reactions that develop on a polycrystalline nickel-based superalloy. A continuous layer of precursor oxide was shown to form during the heating stage. Their approximate growth rates, their effect on local surface compositions of the alloy substrate, and their degree of interface planarity are considered critical in determining subsequent oxidation reactions when held for extended thermal exposures. The precursor oxides were predominantly nickel or cobalt based (NiO/CoO and Co3O4/NiCo2O4). Following the fastest heating rates (40 degrees C min(-1) and above), the stable Cr2O3 phase formed, inhibiting Ni or Co diffusion to the surface. At slower heating rates (10-20 degrees C min(-1)), no evidence of the stable Cr2O3 was found, even after 200 h at elevated thermal exposure, instead continued growth of the precursor oxides was observed. Heating at 5 degrees C min(-1) gave rise to an intriguing zone where sufficient precursor and favourable kinetics enabled the formation of a spinel, NiCr2O4, surface layer. Cross sections observed with electron microscopy confirmed this to be planar and continuous. Heating at the slowest tested 2 degrees C min(-1) contrarily gives a non-protective surface layer comprising an outwardly growing NiO/CoO precursor oxide on top of an inwardly growing mixed oxide. The quantities, interfacial morphologies of oxides of the precursor oxide grown and the possible thermodynamic reactions that lead to their formation are discussed. Crown Copyright (C) 2019 Published by Elsevier Ltd on behalf of Acta Materialia Inc. All rights reserved.
+OI Collins, David/0000-0003-2458-9713
+SN 1359-6454
+EI 1873-2453
+PD DEC
+PY 2019
+VL 181
+BP 570
+EP 583
+DI 10.1016/j.actamat.2019.10.019
+UT WOS:000498749300050
+ER
+
+PT J
+AU Lenz, M
+   Wirth, J
+   Englisch, S
+   Rosiwal, J
+   Buchinger, N
+   Weiser, M
+   Virtanen, S
+   Zubiri, BA
+   Spiecker, E
+AF Lenz, Malte
+   Wirth, Janis
+   Englisch, Silvan
+   Rosiwal, Jan
+   Buchinger, Nadine
+   Weiser, Martin
+   Virtanen, Sannakaisa
+   Zubiri, Benjamin Apeleo
+   Spiecker, Erdmann
+TI Correlative Nano-Computed Tomography and Focused Ion-Beam Sectioning: A
+   Case Study on a Co-Base Superalloy Oxide Scale
+SO ADVANCED ENGINEERING MATERIALS
+AB Herein, the capabilities of a correlative tomography approach combining laboratory nano X-ray computed tomography, focused ion-beam sectioning, and energy-dispersive X-ray spectroscopy are utilized for the characterization of multilayered oxide scales of Co-base superalloys regarding their 3D morphology and chemical composition. The combination of complementary 3D imaging techniques allows for a precise and reliable segmentation of the pore space, oxide precipitates, and different phases of the initial material. Such information is instrumental to a microscopic understanding of oxidation in this new class of superalloys and key to improvement of oxidation resistance in the next-generation high-temperature materials.
+SN 1438-1656
+EI 1527-2648
+AR 1900823
+DI 10.1002/adem.201900823
+EA NOV 2019
+UT WOS:000495518800001
+ER
+
+PT J
+AU Sauza, DJ
+   Dunand, DC
+   Seidman, DN
+AF Sauza, Daniel J.
+   Dunand, David C.
+   Seidman, David N.
+TI Microstructural evolution and high-temperature strength of a
+   gamma(f.c.c.)/gamma '(L1(2)) Co-Al-W-Ti-B superalloy
+SO ACTA MATERIALIA
+AB We characterized the microstructural features and mechanical performance of a model Co-5.6Al-5.8W-6.6Ti-0.12B (at.%) alloy consisting of gamma(L1(2))-precipitates in a gamma(f.c.c.)-matrix. Scanning electron microscopy (SEM) was used to follow the isothermal aging of the micro-structure at 900 and 1000 degrees C for 256 h, and 950 degrees C for 1000 h. The compositions of the gamma'(L1(2))-precipitates and gamma(f.c.c.)-matrix were evaluated by atom-probe tomography (APT) for solution-treated and air-cooled conditions, as well as in specimens aged at 950 degrees C for 16 and 100 h. Boron was shown to partition preferentially to the gamma'(L1(2))-precipitates, and profiles taken across the gamma(f.c.c.)-matrix channels in both aged specimens revealed confined segregation of A1 at one of the two gamma(f.c.c.)/gamma'(L1(2)) heterophase interfaces. After aging at 950 degrees C for 16 h, Co-5.6Al-5.8W-6.6Ti-0.12B (at.%) exhibited anomalous flow-strength behavior in the range 625-900 degrees C with a peak yield stress of 822 MPa between 800 and 825 degrees C. Compressive creep tests performed at 850 degrees C demonstrated a creep strength comparable to archival literature results for Co-9Al-9W-0.12B (at.%), despite a smaller gamma'(L1(2))-volume fraction and lack of strengthening borides along the grain boundaries (GBs). The activation energy for creep in the temperature range 800-900 degrees C was 606 kJ mol(-1). The post-creep microstructure consists of rafted gamma'(L1(2))-precipitates perpendicular to the compression axis, consistent with the positive gamma(f.c.c.)/gamma'(L1(2)) lattice parameter misfit character of this class of alloys. Creep failure could occur due to GB embrittlement caused by deleterious Ti-rich (L2(1) or B2) and D0(19) phases formed at the GBs during creep. (C) 2019 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+SN 1359-6454
+EI 1873-2453
+PD AUG 1
+PY 2019
+VL 174
+BP 427
+EP 438
+DI 10.1016/j.actamat.2019.05.058
+UT WOS:000474501300041
+ER
+
+PT J
+AU Tirado, FLR
+   Taylor, S
+   Dunand, DC
+AF Tirado, Fernando L. Reyes
+   Taylor, Spencer
+   Dunand, David C.
+TI Effect of Al, Ti and Cr additions on the gamma-gamma' microstructure of
+   W-free Co-Ta-V-Based superalloys
+SO ACTA MATERIALIA
+AB The recently-discovered metastable gamma'-Co-3(Ta0.76V0.24) phase formed on aging in a Co-6Ta-6V (at.%) ternary alloy is stabilized by partial replacement of Ta and V with Al and Ti. In two alloys with composition Co-6Al-3Ta-3V and Co-5Al-3Ta-3V-1Ti with gamma+gamma' microstructure, the gamma'-precipitates remain stable for up to 168 h at 850 and 900 C, with no precipitation of additional phases. Adding Ni and B and doubling the Ti concentration produces a gamma/gamma' superalloy, Co-10Ni-5Al-3Ta-3V-2Ti-0.04B (at.%), with gamma' precipitates which are stable up to six weeks of aging at 850 degrees C, while slowly coarsening and coalescing from cuboidal to elongated shapes. After one day of aging at 850 degrees C, the gamma' nanoprecipitates have a (Co0.83Ni0.17)(3)(Ta0.42Al0.23Ti0.19V0.15B0.01) composition, with Al and Ti replacing at the same rate both Ta and V in the original metastable Co-3(Ta0.76V0.24) phase. To improve oxidation resistance, 4% Cr is added to the new superalloy, resulting in a somewhat higher volume fraction of finer cuboidal gamma' precipitates after one week of aging at 850 degrees C, but no other deleterious phases. These W-and Mo-free gamma/gamma' superalloys show good creep resistance at 850 degrees C, on par with two other recent Co-base gamma/gamma' superalloys: (i) Co-9W-9Al-8Cr (at.%) which has higher density due to its high W content, and (ii) Co-30Ni-10Al-5Mo-2Nb (at.%) which has lower density (as it is W-free) but contains triple the Ni concentration. (C) 2019 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+RI Dunand, David C/B-7515-2009
+OI Reyes Tirado, Fernando/0000-0003-4594-6185
+SN 1359-6454
+EI 1873-2453
+PD JUN 15
+PY 2019
+VL 172
+BP 44
+EP 54
+DI 10.1016/j.actamat.2019.04.031
+UT WOS:000470946500005
+ER
+
+PT J
+AU Pandey, P
+   Sawant, AK
+   Nithin, B
+   Peng, Z
+   Makineni, SK
+   Gault, B
+   Chattopadhyay, K
+AF Pandey, P.
+   Sawant, A. K.
+   Nithin, B.
+   Peng, Z.
+   Makineni, S. K.
+   Gault, B.
+   Chattopadhyay, K.
+TI On the effect of Re addition on microstructural evolution of a
+   CoNi-based superalloy
+SO ACTA MATERIALIA
+AB In this study, the effect of rhenium (Re) addition on microstructural evolution of a new low-density Co-Ni-Al-Mo-Nb based superalloy is presented. Addition of Re significantly influences the gamma' precipitate morphology, the gamma/gamma' lattice misfit and the gamma/gamma' microstructural stability during long term aging. An addition of 2 at.% Re to a Co-30Ni-10Al-5Mo-2Nb (all in at.%) alloy, aged at 900 degrees C for 50 h, reduces the gamma/gamma' lattice misfit by similar to 40% (from +0.32% to +0.19%, measured at room temperature) and hence alters the gamma' morphology from cuboidal to round-cornered cuboidal precipitates. The composition profiles across the gamma/gamma' interface by atom probe tomography (APT) reveal Re partitions to the gamma phase (K-Re = 0.34) and also results in the partitioning reversal of Mo to the gamma phase (K-Mo = 0.90) from the gamma' precipitate. An inhomogeneous distribution of Gibbsian interfacial excess for the solute Re (Gamma(Re), ranging from 0.8 to 9.6 atom.nm(-2)) has been observed at the gamma/gamma' interface. A coarsening study at 900 degrees C (up to 1000 h) suggests that the coarsening of gamma' precipitates occurs solely by evaporation-condensation (EC) mechanism. This is contrary to that observed in the Co-30Ni-10Al-5Mo-2Nb alloy as well as in some of the Ni-Al based and high mass density Co-Al-W based superalloys, where gamma' precipitates coarsen by coagulation/coalescence mechanism with an extensive alignment of gamma' along <100> directions as a sign of microstructural instability. The gamma' coarsening rate constant (K-r) and gamma/gamma' interfacial energy are estimated to be 1.13 x 10(-27) m(3)/s and 8.4 mJ/m(2), which are comparable and lower than Co-Al-W based superalloys. (C) 2019 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+RI Peng, Zirong/AAG-9378-2019
+OI Peng, Zirong/0000-0001-7844-8313
+SN 1359-6454
+EI 1873-2453
+PD APR 15
+PY 2019
+VL 168
+BP 37
+EP 51
+DI 10.1016/j.actamat.2019.01.046
+UT WOS:000464086500004
+ER
+
+PT J
+AU Sani, SA
+   Arabi, H
+   Kheirandish, S
+   Ebrahimi, G
+AF Sani, Saeed Aliakbari
+   Arabi, Hossein
+   Kheirandish, Shahram
+   Ebrahimi, Golamreza
+TI Investigation on the homogenization treatment and element segregation on
+   the microstructure of a /-cobalt-based superalloy
+SO INTERNATIONAL JOURNAL OF MINERALS METALLURGY AND MATERIALS
+AB The aim of the present study was to investigate the effect of element segregation on the microstructure and phase in a / cobalt- based superalloy. Several samples were prepared from a cast alloy and homogenized at 1300 degrees C for different times, with a maximum of 24 h. A microstructural study of the cast alloy using wavelength-dispersive spectroscopic analysis revealed that elements such as Al, Ti, and Ni segregated mostly within interdendritic regions, whereas W atoms were segregated within dendrite cores. With an increase in homogenization time, segregation decreased and the initial dendritic structure was eliminated. Field-emission scanning electron microscopy micrographs showed that the phases in the cores and interdendritic regions of the as-cast alloy were 392 and 124 nm, respectively. The size difference of was found to be due to the different segregation behaviors of constituent elements during solidification. After homogenization, particularly after 16 h, segregation decreased; thus, the size, chemical composition, and hardness of the precipitated phase was mostly uniform throughout the samples.
+OI Arabi, Hossein/0000-0003-3110-4198; ebrahimi,
+   gholamreza/0000-0003-2549-3246
+SN 1674-4799
+EI 1869-103X
+PD FEB
+PY 2019
+VL 26
+IS 2
+BP 222
+EP 233
+DI 10.1007/s12613-019-1727-7
+UT WOS:000458436000010
+ER
+
+PT J
+AU Sauza, DJ
+   Dunand, DC
+   Noebe, RD
+   Seidman, DN
+AF Sauza, Daniel J.
+   Dunand, David C.
+   Noebe, Ronald D.
+   Seidman, David N.
+TI gamma '-(L1(2)) precipitate evolution during isothermal aging of a
+   Co-Al-W-Ni superalloy
+SO ACTA MATERIALIA
+AB The coarsening kinetics and elemental partitioning behavior of gamma'-(L1(2)) precipitates in a gamma(f.c.c.)-matrix for a model quaternary Co-8.8Al-8.9W-9.9Ni at.% superalloy are investigated utilizing isothermal aging conditions at 650, 800 and 900 degrees C. The gamma'-precipitate mean radius, number density, and volume fraction, at 800 and 900 degrees C, were studied using scanning electron microscopy; the calculated temporal exponents associated with coarsening of gamma'-precipitates display good agreement with model predictions for quasi stationary coarsening. An atom probe tomographic (APT) investigation of the aged gamma/gamma' microstructure at 650 degrees C demonstrates that the compositions and volume fractions of both phases vary continuously up to 4096 h. The aged microstructure at 650 degrees C consists of interconnected nanoscale gamma'-precipitates, corroborated utilizing SEM for the 4096 h aged-specimen. The activation energy for coarsening is estimated for the temperature range 650-900 degrees C to be 283 kJ mol(-1), in reasonable agreement with activation energies for diffusion of Al, W, and Ni in Co, suggesting that coarsening of gamma'-precipitates is limited by bulk-diffusion. APT measurements of specimens aged for 1024 hat 800 and 900 degrees C demonstrate that the isothermal aging temperature has a significant effect on the compositions and partitioning behavior of Co, Al, W and Ni between the gamma- and gamma'-phases. The partitioning ratio of the concentrations between the gamma'- and gamma-phases is largest for W, decreasing linearly from 5.3 +/- 0.1 at 650 degrees C to 2.1 +/- 1.2 at 900 degrees C, and smallest for Co, decreasing from 0.86 +/- 0.01 at 650 degrees C to 0.73 +/- 0.01 at 900 degrees C. (C) 2018 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+RI Dunand, David C/B-7515-2009; Seidman, David/B-6697-2009
+SN 1359-6454
+EI 1873-2453
+PD FEB 1
+PY 2019
+VL 164
+BP 654
+EP 662
+DI 10.1016/j.actamat.2018.11.014
+UT WOS:000456902800056
+ER
+
+PT J
+AU Bocchini, PJ
+   Sudbrack, CK
+   Noebe, RD
+   Seidman, DN
+AF Bocchini, Peter J.
+   Sudbrack, Chantal K.
+   Noebe, Ronald D.
+   Seidman, David N.
+TI Temporal evolution of a model Co-Al-W superalloy aged at 650 degrees C
+   and 750 degrees C
+SO ACTA MATERIALIA
+AB The temporal evolution of a gamma(f.c.c.)/gamma' (L1(2)) Co-8.8Al-73 W superalloy aged at 650 degrees C (10 min-4096 h) and 750 degrees C (10 min-256 h) is studied utilizing atom-probe tomography (APT), scanning electron microscopy, and Vickers microhardness testing. The evolution of the phase compositions, gamma' (L1(2)) volume fraction, and mean precipitate radius, <R2-D(t)>, are determined. Coarsening rate constants and temporal exponents are calculated for <R-D(t)> of the gamma' (L1(2))-nanoprecipitates. The temporal exponents are found to be generally close to 1/p = 1/3 as required for diffusion-limited coarsening. Tungsten solid-solubility is significantly reduced in the gamma(f.c.c.)-matrix at 650 degrees C (0.54 +/- 0.04 at. %) and 750 degrees C (1.35 +/- 0.06 at. %) when compared with aging at 900 degrees C (5.5 at. %). The value of <R-2D(t)> of the gamma' (L1(2))-nanoprecipitates increases with increasing aging time corresponding to an increase in the Vickers microhardness; the peak strength was not, however, achieved for the aging times investigated. The morphology of the gamma' (L1(2))-nanoprecipitates begins as spheroids but transitions to cuboids at longer aging times, with final the gamma' (L1(2)) volume fractions for aging at 650 degrees C and 750 degrees C being phi = 53% and 54%, respectively. The effect of quench-rate (either furnace-cooled, air-cooled, oil quenched, or water quenched) from a supersolvus temperature of 1050 degrees C on the microstructure of the alloy is also investigated. Slow cooling (furnace and air-cooling) is shown to result in a uniform distribution of nanometer sized gamma' (L1(2))-nanoprecipitates, unlike Ni-based superalloys in which the gamma' (L1(2))-nanoprecipitates form in a non-uniform or multimodal distribution. (C) 2018 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+RI Seidman, David/B-6697-2009
+SN 1359-6454
+EI 1873-2453
+PD OCT 15
+PY 2018
+VL 159
+BP 197
+EP 208
+DI 10.1016/j.actamat.2018.08.014
+UT WOS:000445986300018
+ER
+
+PT J
+AU Ozgun, O
+   Dinler, I
+AF Ozgun, Ozgur
+   Dinler, Ilyas
+TI Production and Characterization of WC-Reinforced Co-Based Superalloy
+   Matrix Composites
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+AB Cobalt-based superalloy matrix composite materials were produced through the powder metallurgy technique using element powders at high purity and nano-sized wolfram carbide (WC) reinforcement in this study. An alloy that had the same chemical composition as the Stellite 6 alloy but not containing carbon was selected as the matrix alloy. The powder mixtures obtained as a result of mixing WC reinforcing member and element powders at the determined ratio were shaped by applying 300 MPa of pressure. The green components were sintered under argon atmosphere at 1240 A degrees C for 120 minutes. The densities of the sintered components were determined by the Archimedes' principle. Microstructural characterization was performed via X-ray diffraction analysis, scanning electron microscope examinations, and energy-dispersive spectrometry. Hardness measurements and tensile tests were performed for determining mechanical characteristics. The relative density values of the sintered components increased by increasing the WC reinforcement ratio and they could almost reach the theoretical density. It was determined from the microstructural examinations that the composite materials consisted of fine and equiaxed grains and coarse carbides demonstrating a homogeneous dispersion along the microstructure at the grain boundaries. As it was the case in the density values, the hardness and strength values of the composites increased by increasing the WC ratio.
+SN 1073-5623
+EI 1543-1940
+PD JUL
+PY 2018
+VL 49A
+IS 7
+BP 2977
+EP 2989
+DI 10.1007/s11661-018-4640-1
+UT WOS:000433974400036
+ER
+
+PT J
+AU Tirado, FLR
+   Toinin, JP
+   Dunand, DC
+AF Tirado, Fernando L. Reyes
+   Toinin, Jacques Perrin
+   Dunand, David C.
+TI gamma plus gamma ' microstructures in the Co-Ta-V and Co-Nb-V ternary
+   systems
+SO ACTA MATERIALIA
+AB The Co-Ta-V and Co-Nb-V ternary systems are investigated in a search for L1(2)-ordered gamma' precipitation, based on recent computational predictions of stable gamma+gamma' microstructures. Four alloys with nominal (at. %) composition Co-6Ta-6V, Co-5.4Ta-6.6V-xNi (x = 0 and 10), and Co-6Nb-6V are arc-melted, homogenized at 1250 degrees C, and aged at 900 degrees C for 2,16 and 64 h. Nanometric, cuboidal gamma' precipitates within a fcc-gamma matrix are discovered in the Co-Ta-V system after aging for 2 h, and in the Co-Nb-V system after cooling from homogenization. The compositions of these two new gamma'-phases, as measured via atom probe tomography, are Co-3(Ta0.76V0.24) and Co-3(Nb0.65V0.35), respectively. Upon aging at 900 degrees C, the gamma' precipitates coarsen, dissolve and transform to lamellar C36-Co-3(Ta,V) and needle-shape DO19-CO3(Nb,V), measured as Co-3(Nb0.81V0.19) by APT, respectively. This shows that these ternary gamma' phases are metastable and points to the need for their stabilization via additional alloying elements. (C) 2018 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+RI Dunand, David C/B-7515-2009
+OI Reyes Tirado, Fernando/0000-0003-4594-6185
+SN 1359-6454
+EI 1873-2453
+PD JUN 1
+PY 2018
+VL 151
+BP 137
+EP 148
+DI 10.1016/j.actamat.2018.03.057
+UT WOS:000432760300013
+ER
+
+PT J
+AU Weiser, M
+   Eggeler, YM
+   Spiecker, E
+   Virtanen, S
+AF Weiser, Martin
+   Eggeler, Yolita M.
+   Spiecker, Erdmann
+   Virtanen, Sannakaisa
+TI Early stages of scale formation during oxidation of gamma/gamma'
+   strengthened single crystal ternary Co-base superalloy at 900 degrees C
+SO CORROSION SCIENCE
+AB A study on the individual role of gamma and gamma'-phase during the scale formation on Co-9Al-9W (at.%) at 900 degrees C was conducted. High-accuracy thermogravimetric analysis was used to locate changes in the kinetics of scale growth. Compositions of three separated layers within the scale have been elucidated in detail. The results demonstrate the substantial impact of the two-phase microstructure on the initiation of oxidation for the appearance of the scale. Examination of STEM-EDX elemental mappings of the internal oxidation front during the early stages of scale growth can explain the origin of isolated Al2O3 precipitates instead of a closed protective layer.
+RI Virtanen, Sannakaisa/N-3699-2015
+OI Virtanen, Sannakaisa/0000-0002-7179-7593; Weiser,
+   Martin/0000-0002-9448-5787
+SN 0010-938X
+EI 1879-0496
+PD MAY 1
+PY 2018
+VL 135
+BP 78
+EP 86
+DI 10.1016/j.corsci.2018.02.020
+UT WOS:000429513700007
+ER
+
+PT J
+AU Chang, YJ
+   Yeh, AC
+AF Chang, Yao-Jen
+   Yeh, An-Chou
+TI The formation of cellular precipitate and its effect on the tensile
+   properties of a precipitation strengthened high entropy alloy
+SO MATERIALS CHEMISTRY AND PHYSICS
+AB In this work, a precipitation strengthened high entropy alloy was subjected to thermo-mechanical process in order to homogenize the grain microstructure. Tensile tests from room temperature to 1000 degrees C were conducted; microstructures were observed by scanning electron microscope and transmission electron microscope. Formation of cellular precipitate along grain boundaries was observed and could be related to hot tensile ductility drop at 750 degrees C (1023 K). Experimental analysis has indicated that driving force for the formation of cellular precipitates could be resulted from the chemical instability of supersaturation after annealing and migration of grain boundaries, and this phenomenon could be suppressed either through alloy design to increase gamma-prime solvus, and to hinder the migration of grain boundaries. This study serves as a guideline to design composition and thermo-mechanical process for precipitation strengthened high entropy alloys. (C) 2017 Elsevier B.V. All rights reserved.
+SN 0254-0584
+EI 1879-3312
+PD MAY 1
+PY 2018
+VL 210
+SI SI
+BP 111
+EP 119
+DI 10.1016/j.matchemphys.2017.09.057
+UT WOS:000429762200016
+ER
+
+PT J
+AU Zhang, K
+   Liu, JL
+   Bao, BB
+   Xu, H
+AF Zhang, Kai
+   Liu, Jinglei
+   Bao, Binbin
+   Xu, Hong
+TI A novel spinel coating on cobalt-based Superalloy GH605 via an in-situ
+   oxidation approach
+SO SURFACE AND INTERFACE ANALYSIS
+AB Cr-Mn-O spinel coating was prepared on the surface of cobalt-based superalloy GH605 via an in-situ oxidation method in H2O-H-2 environment. The composition, morphology, and chemical value state of the oxide spinel coatings were investigated by SEM, EDS, XRD, Raman spectra, and XPS. It indicated that the morphology of coating varied with oxidation temperature, and granular surface appeared when oxidation temperature increased to 1100 degrees C. The formed Cr-Mn-O spinel coating was composed of Cr2O3 and MnCr2O4, and the thickness increased significantly with oxidation temperature. In the coating, Cr element existed in the state of Cr3+ ions and Cr6+ ions, while Mn element only existed in the form of Mn2+ ions.
+SN 0142-2421
+EI 1096-9918
+PD APR
+PY 2018
+VL 50
+IS 4
+BP 448
+EP 456
+DI 10.1002/sia.6389
+UT WOS:000427018800006
+ER
+
+PT J
+AU Zhang, Y
+   Wang, Q
+   Dong, HG
+   Dong, C
+   Zhang, HY
+   Sun, XF
+AF Zhang Yu
+   Wang Qing
+   Dong Honggang
+   Dong Chuang
+   Zhang Hongyu
+   Sun Xiaofeng
+TI Nickel-Based Single-Crystal Superalloys (Ni, Co)-Al-(Ta, Ti)-(Cr, Mo, W)
+   Designed by Cluster-Plus-Glue-Atom Model and Their 1000 h Long-Term
+   Ageing Behavior at 900 degrees C
+SO ACTA METALLURGICA SINICA
+AB It has been pointed out recently that the compositions of industrial alloys are originated from cluster-plus-glue-atom structure units in solid solutions. Specifically for nickel-based superalloys, after properly grouping the alloying elements into Al, Ni-like ((Ni) over bar, including Ni, Co, Fe, Re, Ru and Ir), gamma '- forming Cr-like ((Cr) over bar (gamma '), including Ta, Ti, V, Nb), and gamma-forming Cr-like ((Cr) over bar;(gamma), including Cr, Mo and W), the optimal formula for single-crystal superalloys has been established [Al-(Ni) over bar (12)] (Al-1(Cr) over bar (gamma ')(0.5)(Cr) over bar (gamma)(1.5)). In this work, the first generation single-crystal superalloys were investigated on the basis of the proposed formula, by using (Ni) over bar=(Ni and Co), (Cr) over bar (gamma ')=(Ta and Ti), and (Cr) over bar (gamma)=(Cr, Mo and W). Two series of alloys were designed, formulated respectively as group A: [Al-Ni11Co1] (Al1TaxTi0.5-xCr1W0.25Mo0.25), with x=0, 0.25 and 0.5 (the corresponding mass fractions of Ta and Ti are respectively 0Ta-2.65Ti, 4.82Ta-1.26Ti and 9,32Ta-0Ti), and group B: [Al-Ni12-yCo gamma](Al1Ta0.25Ti0.25Cr1W0.25MO0.25), with y=1.5, 1.75, 2 and 2.5 (the corresponding mass fractions of Co are respectively 9.43Co, 11Co, 12.57Co and 15.71Co). The single-crystal superalloys were prepared using selector technique. And then they underwent the following tests of incipient melting, standard heat treatment and 1000 h long term ageing at 900 degrees C. It is found that: (1) In group A, with increasing Ta content (decreasing Ti), all the incipient melting temperatures are increased to above 1330 degrees C, and to the highest value is between 1335 degrees C and 1340 degrees C for alloy 9.32Ta-0Ti; the gamma(')gamma(') lattice negative misfits after standard heat treatment are reduced from -0.262% (0Ta-2.65Ti) to -0.247% (9.32Ta-0Ti); the gamma(') coarsening tendency after long-term ageing is deduced, and alloy 9.32Ta-0Ti has the lowest coarsening rate (K=5.6x10(-5) mu(3)/h). (2) In group B, the Co content does not influence the incipient melting temperature (always above 1330 degrees C) and the coarsening rate of gamma(') after long-term ageing. The major role of Co is to increase the mean size of the gamma(') precipitates to about 0.55 pm and the gamma(') volume fraction to about 69% after the standard heat treatment. These two groups of alloys have their gamma(') coarsening rates approaching the level of third-generation single-crystal superalloys (K approximate to(2.08 similar to 3.82)*10(-5) mu m(3)/h).
+SN 0412-1961
+PD APR
+PY 2018
+VL 54
+IS 4
+BP 591
+EP 602
+DI 10.11900/0412.1961.2017.00334
+UT WOS:000433006500013
+ER
+
+PT J
+AU Chen, XY
+   Li, YX
+   Huang, L
+   Zou, D
+   Wu, EX
+   Liu, YJ
+   Xie, YY
+   Yao, R
+   Liao, SY
+   Wang, GR
+   Zheng, F
+AF Chen, Xiaoyu
+   Li, Yongxia
+   Huang, Lan
+   Zou, Dan
+   Wu, Enxi
+   Liu, Yanjun
+   Xie, Yuanyan
+   Yao, Rui
+   Liao, Songyi
+   Wang, Guangrong
+   Zheng, Feng
+TI Effects of Precipitant and pH on Coprecipitation of Nanosized Co-Cr-V
+   Alloy Powders
+SO MATERIALS
+AB Nanosized Co-Cr-V alloy powders were synthesized via coprecipitation method. Effects of precipitants ((NH4)(2)C2O4<bold>H</bold>2O and Na2CO3) and pH were investigated by X-ray diffraction (XRD), Zeta potential analyzer, thermogravimetry-differential scanning calorimetry (TG-DSC), inductively coupled plasma-atomic emission spectrometry (ICP-AES) and scanning electron microscopy (SEM). Co-Cr-V alloy powders were consisted of major face-centered cubic Co (fcc Co) and minor hexagonal close-packed Co (hcp Co). Grain sizes of precursors and Co-Cr-V alloy powders were increased with pH value (7-10) within the ranges of 3 similar to 39 and 39 similar to 66 nm, respectively. Rod-like or granular Co-Cr-V alloy particles were assembled by interconnected nanograins. At pH = 7, Na2CO3 precipitant was found to be beneficial to maintain the desirable composition of Co-Cr-V powders. It was also found that lower pH favors the maintenance of pre-designed composition, while grain coarsens at higher pH. Effects of variation for precipitant and pH on the morphology and composition of Co-Cr-V alloy powder were discussed in detail and relevant mechanism was further proposed.
+OI Zheng, Feng/0000-0003-1807-7949
+SN 1996-1944
+PD OCT
+PY 2017
+VL 10
+IS 10
+AR 1108
+DI 10.3390/ma10101108
+UT WOS:000414639000003
+ER
+
+PT J
+AU Bocchini, PJ
+   Sudbrack, CK
+   Noebe, RD
+   Dunand, DC
+   Seidman, DN
+AF Bocchini, Peter J.
+   Sudbrack, Chantal K.
+   Noebe, Ronald D.
+   Dunand, David C.
+   Seidman, David N.
+TI Effects of titanium substitutions for aluminum and tungsten in
+   Co-10Ni-9Al-9W (at%) superalloys
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+AB Polycrystalline Co-10Ni-(9 - x)Al-(9 - x)W-2xTi at% (x = 0, 1, 2, 3, 4) alloys with gamma(f.c.c.) plus gamma'(L1(2)) microstructures are investigated, where the gamma'(L1(2))-formers Al and W are replaced with Ti. Upon aging, the initially cuboidal gamma'(L1(2))-precipitates grow and develop a rounded morphology. After 256 h of aging at 1000 degrees C, the precipitates in the 6 and 8 at% Ti alloys coalesce and develop an irregular, elongated morphology. After 1000 h of aging, replacement of W and Al with Ti increases both the mean radius, < R >, and volume fraction, phi, of the gamma'(L1(2))-phase from < R > = 463 nm and phi = 8% for 2 at% Ti to < R > = 722 nm and phi = 52% for 8 at% Ti. Composition measurements of the gamma(f.c.c.)-matrix and gamma'(L1(2))-precipitates demonstrate that Ti substitutes for W and Al in the gamma'(L1(2))-precipitates, increases the partitioning of W to gamma'(L1(2)), and changes the partitioning behavior of Al from a mild gamma'(L1(2))-former to a mild gamma(f.c.c.)-former. The grain boundaries in the aged alloys exhibit W-rich precipitates, most likely mu(Co7W6)-type, which do not destabilize the gamma(f.c.c.) plus gamma'(L1(2)) microstructure within the grains. Four important benefits accrue from replacing W and Al with Ti: (i) the alloys' mass density decrease; (ii) the gamma'(L1(2))-solvus temperature increases; (iii) the gamma'(L1(2)) volume fraction formed during aging at 1273 K (1000 degrees C) increases; and (iv) the 0.2% offset flow stress increases.
+RI Dunand, David C/B-7515-2009; Seidman, David/B-6697-2009
+SN 0921-5093
+EI 1873-4936
+PD SEP 29
+PY 2017
+VL 705
+BP 122
+EP 132
+DI 10.1016/j.msea.2017.08.034
+UT WOS:000413135700016
+ER
+
+PT J
+AU Xu, YT
+   Xia, RL
+   Sha, QZ
+   Xia, TD
+AF Xu Yangtao
+   Xia Rongli
+   Sha Qizhen
+   Xia Tiandong
+TI Phase Composition and Cracking Behavior on TIG Cladding Layer of
+   Co-8.8Al-9.8W-0.2B Superalloy Based on JMatPro Software
+SO RARE METAL MATERIALS AND ENGINEERING
+AB Co-Al-W superalloy is a novel cobalt-based superalloy with the precipitation strengthening phase of ternary compound gamma-Co-3(Al,W). In order to study the cracking behavior of Co-8.8A1-9.8W-0.2B cladding layer on 304 stainless steel with TIG welding, the phase composition and relative contents at different positions of the cladding layer were investigated by thermodynamic simulation calculation of JMatPro software and experimental verification. The results show that the phase composition is the same at different positions of the cladding layer, but the content of those phases are not alike. Combining phase composition and contents of the cladding layer, the surface cracks of cladding layer are mainly hot cracks, which come from the integrated effect of the thermal stress, the phase transformation stress and the Laves phase.
+SN 1002-185X
+PD SEP
+PY 2017
+VL 46
+IS 9
+BP 2459
+EP 2464
+UT WOS:000435226100022
+ER
+
+PT J
+AU Coakley, J
+   Lass, EA
+   Ma, D
+   Frost, M
+   Stone, HJ
+   Seidman, DN
+   Dunand, DC
+AF Coakley, James
+   Lass, Eric A.
+   Ma, Dong
+   Frost, Matthew
+   Stone, Howard J.
+   Seidman, David N.
+   Dunand, David C.
+TI Lattice parameter misfit evolution during creep of a cobalt-based
+   superalloy single crystal with cuboidal and rafted gamma-prime
+   microstructures
+SO ACTA MATERIALIA
+AB A [h00] oriented Co-based superalloy single crystal was crept under tension at 940 degrees C/100 MPa, resulting in a P-type raft morphology with extensive particle coalescence along the [h00] loading direction. However, particle coalescence was also observed in two perpendicular directions on the (h00) plane, normal to the loading axis. Tensile creep experiments were performed with in-situ neutron diffraction at 800 degrees C/500 MPa on this initially rafted gamma' microstructure, and for comparison at (i) 900 degrees C/260 MPa, and at (ii) 750 degrees C/875 MPa, both with initially cuboidal gamma' microstructures. The alloy was shown to exhibit a positive lattice parameter misfit, and during the first hour of creep at 900 degrees C/260 MPa, the lattice parameter evolution indicated changes in phase composition associated with gamma' dissolution as the alloy achieved phase equilibrium at 900 degrees C. For all three in-situ creep measurements, there was a significant divergence of the gamma' and gamma lattice parameters as creep proceeded. The lattice parameter misfit values between the precipitates and the matrix approached their unconstrained values during creep, and were notably large compared to those of Ni-based superalloys. This is indicative of a loss of coherency at the precipitate/matrix interfaces. Such a loss of coherency at the precipitate/matrix interfaces will likely degrade certain mechanical properties such as fatigue resistance, as has been shown for the Ni-based superalloys. (C) 2017 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+RI Ma, Dong/G-5198-2011; Dunand, David C/B-7515-2009; Seidman,
+   David/B-6697-2009; Lass, Eric/AAE-9593-2019
+OI Ma, Dong/0000-0003-3154-2454; Lass, Eric/0000-0003-1428-3585; Frost,
+   Matthew/0000-0001-6821-170X; Coakley, James/0000-0001-8721-0438
+SN 1359-6454
+EI 1873-2453
+PD SEP 1
+PY 2017
+VL 136
+BP 118
+EP 125
+DI 10.1016/j.actamat.2017.06.025
+UT WOS:000407665300011
+ER
+
+PT J
+AU Bocchini, PJ
+   Sudbrack, CK
+   Sauza, DJ
+   Noebe, RD
+   Seidman, DN
+   Dunand, DC
+AF Bocchini, Peter J.
+   Sudbrack, Chantal K.
+   Sauza, Daniel J.
+   Noebe, Ronald D.
+   Seidman, David N.
+   Dunand, David C.
+TI Effect of tungsten concentration on microstructures of
+   Co-10Ni-6Al-(0,2,4,6) W-6Ti (at%) cobalt-based superalloys
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+AB The effects of reducing the W concentration (and concomitantly mass density) of Co-10Ni-6A1-xW-6Ti at% Co-based superalloys, with a gamma(f.c.c.) plus gamma'(L1(2)) microstructure, is investigated for a series of alloys with W concentrations of 6 at% (baseline alloy), 4 and 2 at% (W-reduced) and 0 at% (W-free). The gamma'(L1(2)) solvus temperature decreases strongly (by 46 degrees C per 1 at% reduction in W), while the liquidus and solvus temperatures decrease mildly (3-5 degrees C per 1 at% W reduction) as measured by differential scanning calorimetry. Scanning electron microscopy was used to image phase formation in all alloys. When aging at 900 or 1000 degrees C for 256 h, the W reduction does not result in the appearance of additional phases within the grains beyond the gamma(f.c.c.) and gamma'(L1(2)) phases present in the original alloy. Grain-boundary precipitates are present for all alloy compositions: W-rich or W-free precipitates after aging at 1000 degrees C, and coarsened gamma'(L1(2)) precipitates after aging at 900 degrees C. The composition of grain boundary precipitates were measured with energy-dispersive X-ray spectroscopy. Vickers microhardness values decrease with decreasing W content, due to a reduction in gamma'(L1(2)) precipitation and 'reduced solid-solution strengthening.
+RI Seidman, David/B-6697-2009; Dunand, David C/B-7515-2009
+SN 0921-5093
+EI 1873-4936
+PD JUL 17
+PY 2017
+VL 700
+BP 481
+EP 486
+DI 10.1016/j.msea.2017.06.018
+UT WOS:000406564300055
+ER
+
+PT J
+AU Houdkova, S
+   Pala, Z
+   Smazalova, E
+   Vostfak, M
+   Cesanek, Z
+AF Houdkova, Sarka
+   Pala, Zdenek
+   Smazalova, Eva
+   Vostfak, Marek
+   Cesanek, Zdenek
+TI Microstructure and sliding wear properties of HVOF sprayed, laser
+   remelted and laser clad Stellite 6 coatings
+SO SURFACE & COATINGS TECHNOLOGY
+CT 7th International Meeting on Thermal Spraying (RIPT)
+CY DEC 09-11, 2015
+CL Limoges, FRANCE
+AB The microstructure and sliding wear, properties of Co-Cr-W alloy (Stellite 6) coatings were studied in the dependence on the deposition technology. The HVOF as-sprayed, laser remelted HVOF sprayed and laser clad coatings were evaluated by SEM, XRD and ASTM G-133 reciprocating sliding wear test. In dependence on used deposition technology, the microstructure of coating varied namely in terms of grain size and phase composition. The XRD analyses in the wear track revealed that the strain-induced fcc-to-hcp transformation is taking part during wear of laser remelted HVOF sprayed coatings. The difference of the phase composition, grain size and strain-induced fcc-to-hcp transformation was shown to be responsible for differences in the sliding wear behaviour. (C) 2016 Elsevier B.V. All rights reserved.
+RI Vostrak, Marek/C-1702-2016; Houdkova, Sarka/C-1244-2016; Pala,
+   Zdenek/C-8304-2014
+OI Vostrak, Marek/0000-0003-4159-5664; Houdkova, Sarka/0000-0002-7354-3888;
+   Pala, Zdenek/0000-0002-5849-3018
+SN 0257-8972
+PD MAY 25
+PY 2017
+VL 318
+BP 129
+EP 141
+DI 10.1016/j.surfcoat.2016.09.012
+UT WOS:000402356100016
+ER
+
+PT J
+AU Viat, A
+   Dreano, A
+   Fouvry, S
+   Bouchet, MID
+   Henne, JF
+AF Viat, Ariane
+   Dreano, Alixe
+   Fouvry, Siegfried
+   Bouchet, Maria-Isabel De Barros
+   Henne, Jean-Francois
+TI Fretting wear of pure cobalt chromium and nickel to identify the
+   distinct roles of HS25 alloying elements in high temperature glaze layer
+   formation
+SO WEAR
+AB HS25 cobalt-based superalloy was investigated between 100 and 600 degrees C under fretting wear (small amplitude reciprocating displacements) in a cross-cylinder contact. Tribological behavior was compared to pure cobalt, chromium and nickel tested under the same conditions and analyzed in terms of friction, wear, interface morphology and chemical composition by SEM-EDX and Raman spectroscopy. On HS25, the tribological tests resulted in the formation of a "glaze layer" of ground and compacted wear debris, which was protective against severe wear and high friction above 250 degrees C. Similar glaze layers were found for cobalt-cobalt (Co//Co) contacts, suggesting the determining role of cobalt in glaze layer formation whereas worn Cr//Cr and Ni//Ni interfaces exhibited poorly sintered debris and respectively adhesive and abrasive wear. To identify the role of alloying elements in glaze layer formation, the oxides formed in the interface were studied in terms of composition and thermal stability. As sintering appears to be a determining factor in glaze layer formation, the diffusion properties of cobalt and its oxides are emphasized. The strengthening and corrosion resistance properties of chromium and nickel in the alloy are also discussed. (C) 2017 Elsevier B.V. All rights reserved.
+OI Dreano, Alixe/0000-0002-9221-7703
+SN 0043-1648
+EI 1873-2577
+PD APR 15
+PY 2017
+VL 376
+BP 1043
+EP 1054
+DI 10.1016/j.wear.2017.01.049
+PN B
+UT WOS:000403902000015
+ER
+
+PT J
+AU Sumner, J
+   Potter, A
+   Simms, NJ
+   Oakey, JE
+AF Sumner, J.
+   Potter, A.
+   Simms, N. J.
+   Oakey, J. E.
+TI Modeling gas turbine materials' hot corrosion degradation in combustion
+   environments from H-2-rich syngas
+SO MATERIALS AND CORROSION-WERKSTOFFE UND KORROSION
+AB Components of gas turbines (such as blades, vanes, combustor cans) exposed to combustion environments at high temperature are susceptible to hot corrosion attack. To successfully plan maintenance and to determine whether to operate in novel combustion modes (e.g., in integrated gasification combined cycles that incorporate pre-combustion carbon capture) predictions of hot corrosion component life must be made. In this paper, hot corrosion datasets relating to two alloys, MarM 509 (a cobalt-based superalloy), and Rene 80 (a nickel-based superalloy) form the basis of hot corrosion predictive lifetime models. The model framework is based on the two stages of incubation and propagation, with the transitions from incubation to propagation around the samples being based on Weibull statistics. The impact of a range of temperatures (including 700 and 900 degrees C), gas compositions (simulating the combustion of natural gas, H-2-rich syngas, or partially cleaned syngas), and deposit chemistries/fluxes have been assessed. Predictions have been made including the expected damage spread for a range of different exposure conditions.
+OI Sumner, Joy/0000-0001-5435-200X
+SN 0947-5117
+EI 1521-4176
+PD FEB
+PY 2017
+VL 68
+IS 2
+BP 205
+EP 214
+DI 10.1002/maco.201508779
+UT WOS:000394663600010
+ER
+
+PT J
+AU Vacchieri, E
+   Costa, A
+   Roncallo, G
+   Cacciamani, G
+AF Vacchieri, E.
+   Costa, A.
+   Roncallo, G.
+   Cacciamani, G.
+TI Service induced fcc -> hcp martensitic transformation in a Co-based
+   superalloy
+SO MATERIALS SCIENCE AND TECHNOLOGY
+CT 9th International Charles Parsons Turbine and Generator Conference
+CY SEP, 2015
+CL Loughborough Univ, Loughborough, ENGLAND
+HO Loughborough Univ
+AB Co-based superalloy, ECY768, applied on gas turbine vanes, shows the presence of cracks after service. EBSD studies revealed hcp transformation in the base material near cracked regions. This phase arises from a martensitic transformation of fcc matrix and bestows high fragility. The phase transformation is related to temperature and loading distribution that characterises components in service. However, at the service temperatures, the hcp transformation is not expected for ECY768. An in-house thermodynamic database was developed using the Calphad approach and thermodynamic calculations were applied to the complicated alloy composition for phase stability range evaluation. Moreover, a testing campaign was planned to artificially create this martensitic transformation and to comprehend the influence of plastic strain on fcc-hcp transformation. The transformation mechanisms were understood and some methods were developed for hcp-phase removal through refurbishment heat treatment.
+RI Cacciamani, Gabriele/A-9643-2013
+OI Cacciamani, Gabriele/0000-0001-9686-277X; Vacchieri,
+   Erica/0000-0003-2726-6194
+SN 0267-0836
+EI 1743-2847
+PY 2017
+VL 33
+IS 9
+BP 1100
+EP 1107
+DI 10.1080/02670836.2016.1273866
+UT WOS:000400195200009
+ER
+
+PT B
+AU Cygan, R
+   Rokicki, P
+AF Cygan, Rafal
+   Rokicki, Pawel
+BE Gomes, JFS
+   Meguid, SA
+TI CHEMICAL COMPOSITION AND METALLURGICAL PURITY OF IN 713C SUPERALLOY
+   EFFECT ON TECHNOLOGICAL PARAMETERS FOR PRODUCTION OF AIRCRAFT ENGINE
+   CRITICAL COMPONENTS
+SO PROCEEDINGS OF THE 7TH INTERNATIONAL CONFERENCE ON MECHANICS AND
+   MATERIALS IN DESIGN (M2D2017)
+CT 7th International Conference on Mechanics and Materials in Design (M2D)
+CY JUN 11-15, 2017
+CL Albufeira, PORTUGAL
+SP Univ Porto, Fac Engn, Univ Toronto, Mech & Aerosp Design Lab, Univ Algarve, Inst Super Engn, Portuguese Assoc Expt Mech, European Soc Expt Mech, Amer Soc Expt Mech, Japanese Soc Mech Engn, Int Measurement Confederat, Assoc Francaise Mecanique, European Assoc Dynam Mat, Inst Ciencia & Inovacao Enga Mecanica & Enga Ind, Lab Biomecanica Porto, Fundacao Ciencia Technologia, ABREU, Profess Congress Organizer
+AB Aircraft engines components, including high and low pressure turbine blades and vanes, made of nickel and cobalt based superalloys, during long-term operation, are exposed to mass forces at elevated temperatures as well as corrosive agents. These conditions cause very high quality requirements for castings, both in terms of dimensional requirements, surface condition, as well as micro- and macrostructure. Quality of supplied charge materials is of fundamental importance for quality of castings, as all the bad qualities of the alloy transform naturally to the casting.
+BN 978-989-98832-7-7
+PY 2017
+BP 619
+EP 626
+UT WOS:000427886600109
+ER
+
+PT J
+AU Lu, X
+   Miki, T
+   Nagasaka, T
+AF Lu, Xin
+   Miki, Takahiro
+   Nagasaka, Tetsuya
+TI Activity coefficients of NiO and CoO in CaO-Al2O3-SiO2 slag and their
+   application to the recycling of Ni-Co-Fe-based end-of-life superalloys
+   via remelting
+SO INTERNATIONAL JOURNAL OF MINERALS METALLURGY AND MATERIALS
+AB To design optimal pyrometallurgical processes for nickel and cobalt recycling, and more particularly for the end-of-life process of Ni-Co-Fe-based end-of-life (EoL) superalloys, knowledge of their activity coefficients in slags is essential. In this study, the activity coefficients of NiO and CoO in CaO-Al2O3-SiO2 slag, a candidate slag used for the EoL superalloy remelting process, were measured using gas/slag/metal equilibrium experiments. These activity coefficients were then used to consider the recycling efficiency of nickel and cobalt by remelting EoL superalloys using CaO-Al2O3-SiO2 slag. The activity coefficients of NiO and CoO in CaO-Al2O3-SiO2 slag both show a positive deviation from Raoult's law, with values that vary from 1 to 5 depending on the change in basicity. The activity coefficients of NiO and CoO peak in the slag with a composition near B = (%CaO)/(%SiO2) = 1, where B is the basicity. We observed that controlling the slag composition at approximately B = 1 effectively reduces the cobalt and nickel oxidation losses and promotes the oxidation removal of iron during the remelting process of EoL superalloys.
+SN 1674-4799
+EI 1869-103X
+PD JAN
+PY 2017
+VL 24
+IS 1
+BP 25
+EP 36
+DI 10.1007/s12613-017-1375-8
+UT WOS:000393034800004
+ER
+
+PT J
+AU Liu, LF
+   Wu, SS
+   Dong, YB
+   Lu, SL
+AF Liu, Longfei
+   Wu, Shusen
+   Dong, Yunbo
+   Lu, Shulin
+TI Effects of alloyed Mn on oxidation behaviour of a Co-Ni-Cr-Fe alloy
+   between 1050 and 1250 degrees C
+SO CORROSION SCIENCE
+AB The effects of Mn content on the oxidation behaviour of a Co-base superalloy with compositions of Co-29Cr-21Ni-23Fe-2.2Nb-1.6Si-xMn (x=0, 0.5, 1, 2) (Co22 alloy for short, wt.%) have been studied. Isothermal oxidation behaviour was investigated, and it showed kinetics of the Mn-containing samples followed a two-stage parabolic law. In the absence of Mn, scales on Co22 alloys consisted mainly of Cr2O3 and SiO2, and small amounts of Fe-Cr, Ni-Cr spinel nodules formed on the surface. When Mn was added, a triple oxide layer could be observed, consisting of Mn-Cr spinel as outer layer, Cr2O3 as middle layer and SiO2 in the innermost layer. (C) 2015 Elsevier Ltd. All rights reserved.
+SN 0010-938X
+EI 1879-0496
+PD MAR
+PY 2016
+VL 104
+BP 236
+EP 247
+DI 10.1016/j.corsci.2015.12.016
+UT WOS:000370457500024
+ER
+
+PT J
+AU Yu, H
+   Ukai, S
+   Oono, N
+   Sasaki, T
+AF Yu, Hao
+   Ukai, Shigeharu
+   Oono, Naoko
+   Sasaki, Taisuke
+TI Microstructure characterization of Co-20Cr-(5,10)Al oxide dispersion
+   strengthened superalloys
+SO MATERIALS CHARACTERIZATION
+AB In order to develop Co-based oxide dispersion strengthened (ODS) superalloys with excellent mechanical properties and oxidation resistance at the temperature above 1000 degrees C, Co-20Cr-(5,10)Al ODS superalloys were designed and fabricated by mechanical alloying (MA), spark plasma sintering (SPS), hot rolling and the final annealing at 1200 degrees C. Two different phases were identified; the Co solid solution of a fcc structure, and the B2 phase highly enriched with Aluminum. Composition and volume fraction of both phases are almost consistent with the Co-Cr-Al ternary phase diagram computed with the Pandat software. Another coarse fcc phase with smaller content of oxide particles was also characterized. This phase was probably formed through an incipient melting at the initial stage of SPS process. Fine oxides particles are densely distributed inside both, the fcc solid solution and the B2 phase. Grain boundaries and phase boundaries are decorated with the oxide particles, which are beneficial to grains and phases stability at elevated temperature. The observed unique core-shell structure was characterized as Y2Hf7O17 type in a core and Y2Hf2O7 type at a periphery of the oxide particles. (C) 2015 Elsevier Inc. All rights reserved.
+RI YU, Hao/H-7228-2018
+SN 1044-5803
+EI 1873-4189
+PD FEB
+PY 2016
+VL 112
+BP 188
+EP 196
+DI 10.1016/j.matchar.2015.12.027
+UT WOS:000370109200023
+ER
+
+PT J
+AU Houdkova, S
+   Smazalova, E
+   Pala, Z
+AF Houdkova, Sarka
+   Smazalova, Eva
+   Pala, Zdenek
+TI Effect of Heat Treatment on the Microstructure and Properties of
+   HVOF-Sprayed Co-Cr-W Coating
+SO JOURNAL OF THERMAL SPRAY TECHNOLOGY
+AB Co-Cr-W HVOF-sprayed protective coatings are used for their high oxidation and wear resistance. Apart from the oxidation resistance, the stability of their mechanical properties in relation to thermal loading is crucial with respect to the most common high-temperature application areas. This work is focused mainly on evaluation of the heat-induced changes in the phase composition and related mechanical properties. It was shown that the original powder, composed fully from face-centered cubic Co-based alloy, partly changes its phase composition during spraying to a hexagonal close-packed (hcp) structure. The annealing further increases the ratio of the hcp phase in the structure. The heat-induced phase changes are accompanied by an increase in the coatings' hardness and cohesion strength. The abrasive and adhesive wear behavior was evaluated. While the coatings' heat treatment had a positive effect on the coefficient of friction, the abrasive and adhesive wear resistance of annealed coating was lower compared to as-sprayed coating.
+RI Houdkova, Sarka/C-1244-2016
+OI Houdkova, Sarka/0000-0002-7354-3888
+SN 1059-9630
+EI 1544-1016
+PD FEB
+PY 2016
+VL 25
+IS 3
+BP 546
+EP 557
+DI 10.1007/s11666-015-0365-5
+UT WOS:000374269200015
+ER
+
+PT J
+AU Makineni, SK
+   Samanta, A
+   Rojhirunsakool, T
+   Alam, T
+   Nithin, B
+   Singh, AK
+   Banerjee, R
+   Chattopadhyay, K
+AF Makineni, S. K.
+   Samanta, A.
+   Rojhirunsakool, T.
+   Alam, T.
+   Nithin, B.
+   Singh, A. K.
+   Banerjee, R.
+   Chattopadhyay, K.
+TI A new class of high strength high temperature Cobalt based gamma-gamma '
+   Co-Mo-Al alloys stabilized with Ta addition
+SO ACTA MATERIALIA
+AB The present paper reports a new class of Co based superalloys that has gamma-gamma' microstructure and exhibits much lower density compared to other commercially available Co superalloys including Co-Al-W based alloys. The basic composition is Co-10Al-5Mo (at%) with addition of 2 at% Ta for stabilization of gamma' phase. The gamma-gamma' microstructure evolves through solutionising and aging treatment. Using first principles calculations, we observe that Ta plays a crucial role in stabilizing gamma' phase. By addition of Ta in the basic stoichiometric composition Co-3(Al, Mo), the enthalpy of formation (Delta H-f) of L1(2) structure (gamma' phase) becomes more negative in comparison to DO19 structure. The All of the L12 structure becomes further more negative by the occupancy of Ni and Ti atoms in the lattice suggesting an increase in the stability of the gamma' precipitates. Among large number of alloys studied experimentally, the paper presents results of detailed investigations on Co-10Al-5Mo-2Ta, Co-30Ni-10Al-5Mo-2Ta and Co-30Ni-10Al-5Mo-2Ta-2Ti. To evaluate the role alloying elements, atom probe tomography investigations were carried out to obtain partition coefficients for the constituent elements. The results show strong partitioning of Ni, Al, Ta and Ti in ordered gamma' precipitates. 2015 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+RI Singh, Abhishek/C-2039-2009
+OI Singh, Abhishek/0000-0002-7631-6744; Samanta, Atanu/0000-0001-7918-2772;
+   Makineni, Surendra/0000-0002-4493-6498
+SN 1359-6454
+EI 1873-2453
+PD SEP 15
+PY 2015
+VL 97
+BP 29
+EP 40
+DI 10.1016/j.actamat.2015.06.034
+UT WOS:000359875800003
+ER
+
+PT J
+AU Terberger, PJ
+   Sebold, D
+   Webler, R
+   Ziener, M
+   Neumeier, S
+   Klein, L
+   Virtanen, S
+   Goken, M
+   Vassen, R
+AF Terberger, Philipp J.
+   Sebold, Doris
+   Webler, Ralf
+   Ziener, Marco
+   Neumeier, Steffen
+   Klein, Leonhard
+   Virtanen, Sannakaisa
+   Goeken, Mathias
+   Vassen, Robert
+TI Isothermal aging of a gamma '-strengthened Co-Al-W alloy coated with
+   vacuum plasma-sprayed MCrAlY bond coats
+SO SURFACE & COATINGS TECHNOLOGY
+AB Cobalt-based superalloys with a gamma/gamma' microstructure were discovered in 2006 and are currently being investigated as an alternative to nickel-based superalloys for high-temperature, high-load applications in gas turbine blades. They promise a better castability combined with a similar creep strength. Superalloy turbine blades are commonly coated with oxidation resistant bond coats. For this reason their compatibility needs to be studied. Co-9Al-9W specimens with a gamma/gamma' microstructure were coated with either a nickel-based or cobalt-based MCrAlY bond coat using vacuum plasma spraying. After aging at 900 degrees C in air for up to 500 h no decomposition of the gamma' phase was found in the bulk superalloy. The interdiffusion zone shows several different W-rich topologically close-packed phases arising from the dissolution of the gamma' phase in this region. The W-rich phases are identified to be mu phase for both bond coats and R phase for the nickel-based bond coat only. Their total volume is higher for the nickel-based bond coat. Therefore the cobalt-based bond coat is better suited for the Co-based superalloy substrate. Room temperature hardness and Young's modulus were measured using nanoindentation in the initial state and after heat treatment. A significantly higher Young's modulus was found for the cobalt-based bond coat (C) 2015 Elsevier B.V. All rights reserved.
+RI Neumeier, Steffen/F-7092-2017; Virtanen, Sannakaisa/N-3699-2015; Goken,
+   Mathias/F-7940-2015
+OI Neumeier, Steffen/0000-0001-7853-0368; Virtanen,
+   Sannakaisa/0000-0002-7179-7593; Goken, Mathias/0000-0002-3226-0304
+SN 0257-8972
+PD AUG 25
+PY 2015
+VL 276
+BP 360
+EP 367
+DI 10.1016/j.surfcoat.2015.06.048
+UT WOS:000360594600045
+ER
+
+PT J
+AU Tarasova, TV
+   Nazarov, AP
+   Prokof'ev, MV
+AF Tarasova, T. V.
+   Nazarov, A. P.
+   Prokof'ev, M. V.
+TI Effect of the regimes of selective laser melting on the structure and
+   physicomechanical properties of cobalt-base superalloys
+SO PHYSICS OF METALS AND METALLOGRAPHY
+AB In this article, we give a preferential regime of selective laser melting for the production of parts from a cobalt superalloy using a PTK-PS domestic machine, which can find application upon the production of components from various superalloys in the aviation and atomic industry and in the automobile industry. We have investigated the phase composition and determined the physicomechanical properties of the samples prepared under the preferential regime of selective laser melting. It has been established that the structure of the alloy obtained by selective laser melting consists of two supersaturated solid solutions based on the low-temperature hexagonal and high-temperature cubic cobalt modifications, which leads to an increase in the strength characteristics of the samples in comparison with the cast samples.
+SN 0031-918X
+EI 1555-6190
+PD JUN
+PY 2015
+VL 116
+IS 6
+BP 601
+EP 605
+DI 10.1134/S0031918X15060101
+UT WOS:000356378600010
+ER
+
+PT J
+AU Makineni, SK
+   Nithin, B
+   Chattopadhyay, K
+AF Makineni, S. K.
+   Nithin, B.
+   Chattopadhyay, K.
+TI A new tungsten-free gamma-gamma ' Co-Al-Mo-Nb-based superalloy
+SO SCRIPTA MATERIALIA
+AB We present the first report of a tungsten-free cobalt-based superalloy having a composition Co-10Al-5Mo-2Nb. The alloy is strengthened by cuboidal precipitates of metastable Co-3(Al,Mo,Nb) distributed throughout the microstructure. The precipitates are coherent with the face-centred cubic gamma-Co matrix and possess ordered Ll(2) structure. The microstructure is identical to the popular gamma-gamma' type nickel-based superalloys and that of recently reported Co-Al-W-based alloys. Being tungsten free, the reported alloy has higher specific proof stress compared to existing cobalt-based superalloys. (C) 2014 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+OI Makineni, Surendra/0000-0002-4493-6498
+SN 1359-6462
+PD MAR 15
+PY 2015
+VL 98
+BP 36
+EP 39
+DI 10.1016/j.scriptamat.2014.11.009
+UT WOS:000348965500010
+ER
+
+PT J
+AU Makineni, SK
+   Nithin, B
+   Chattopadhyay, K
+AF Makineni, S. K.
+   Nithin, B.
+   Chattopadhyay, K.
+TI Synthesis of a new tungsten-free gamma-gamma ' cobalt-based superalloy
+   by tuning alloying additions
+SO ACTA MATERIALIA
+AB The paper presents the synthesis of a new class of gamma-gamma' cobalt-based superalloy that is free of tungsten as an alloying addition. It has much lower density and higher specific strength than the existing cobalt-based superalloys. The current superalloys have a base composition of Co-10Al and are further tuned by the addition of a binary combination of molybdenum and niobium, with the optimum composition of Co-10Al-5Mo-2Nb. The solvus temperature of the alloy (866 degrees C) can be further enhanced above 950 C by the addition of Ni to give the form Co-xNi-10Al-5Mo-2Nb, where x can be from 0 to 30 at.%. After heat treatment, these alloys exhibit a duplex microstructure with coherent cuboidal L1(2)-ordered precipitates (gamma') throughout the face-centred cubic matrix (gamma), yielding a microstructure that is very similar to nickel-based superalloys as well as recently developed Co-Al-W-based alloys. We show that the stability of the gamma' phase improves significantly with the nickel addition, which can be attributed to the increase in solvus temperature. A very high specific 0.2% proof stress of 94.3 MPa g(-1) cm(-3) at room temperature and 63.8 MPa g(-1) cm(-3) at 870 degrees C were obtained for alloy Co-30Ni-10Al-5Mo-2Nb. The remarkably high specific strength of these alloys makes this class of alloy a promising material for use at high temperature, including gas turbine applications. (C) 2014 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+OI Makineni, Surendra/0000-0002-4493-6498
+SN 1359-6454
+EI 1873-2453
+PD FEB 15
+PY 2015
+VL 85
+BP 85
+EP 94
+DI 10.1016/j.actamat.2014.11.016
+UT WOS:000348956800009
+ER
+
+PT J
+AU Roa, JJ
+   Jimenez-Pique, E
+   Tarrago, JM
+   Zivcec, M
+   Broeckmann, C
+   Llanes, L
+AF Roa, J. J.
+   Jimenez-Pique, E.
+   Tarrago, J. M.
+   Zivcec, M.
+   Broeckmann, C.
+   Llanes, L.
+TI Berkovich nanoindentation and deformation mechanisms in a hardmetal
+   binder-like cobalt alloy
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+AB A cobalt-base solid solution is the most used binder for hardmetals (WC-Co cemented carbides) in a wide range of industrial applications. In the composite material such cobalt alloy is surrounded by hard carbides grains; thus, a direct evaluation of its intrinsic mechanical properties is not an easy task. In order to overcome this inconvenience, a model cobalt alloy with a composition similar to that exhibited by typical hardmetal binder (containing W and C in solid solution) was processed following a powder metallurgy route. Nanoindentation testing at different length scales has been performed to study the mechanical properties as well as to introduce plastic deformation in individual grains of the dilute face centered cubic (fcc) stabilized model Co-W-C alloy. It is found that it exhibits an isotropic mechanical response, without any evidence of indentation size effects. The main deformation mechanism activated during the indentation tests resulted to be deformation twinning, although combined with limited planar slip but with no evidence of stress-induced phase transformation. Such finding is related to the high W and C amounts dissolved in the model Co alloy studied, and its effect on stabilizing the fcc configuration and increasing the stacking fault energy. The effective use of small-length scale mechanical characterization protocols is finally discussed for understanding deformation response of binder-like alloys and optimizing microstructural design of hardmetals. (C) 2014 Elsevier B.V. All rights reserved.
+RI ROA, JOAN JOSEP/K-1656-2015; Llanes, Luis/H-9761-2015
+OI ROA, JOAN JOSEP/0000-0002-7440-0766; Llanes, Luis/0000-0003-1054-1073;
+   Jimenez-Pique, Emilio/0000-0002-6950-611X
+SN 0921-5093
+EI 1873-4936
+PD JAN 5
+PY 2015
+VL 621
+BP 128
+EP 132
+DI 10.1016/j.msea.2014.10.064
+UT WOS:000347590600016
+ER
+
+PT J
+AU Lass, EA
+   Williams, ME
+   Campbell, CE
+   Moon, KW
+   Kattner, UR
+AF Lass, Eric A.
+   Williams, Maureen E.
+   Campbell, Carelyn E.
+   Moon, Kil-Won
+   Kattner, Ursula R.
+TI gamma' Phase Stability and Phase Equilibrium in Ternary Co-Al-W at 900 A
+   degrees C
+SO JOURNAL OF PHASE EQUILIBRIA AND DIFFUSION
+AB Phase equilibria at 900 A degrees C in the Co-rich Co-Al-W ternary system are investigated through isothermal annealing of six alloy compositions for times up to 8000 h. The volume fraction of the L1(2)-gamma' phase co-existing with disordered FCC-gamma, B2 and D0(19) phases is found to steadily decrease with increasing annealing time indicating that it is unstable at 900 A degrees C. Additional heat treatments at 850 and 1000 A degrees C further suggest it is a nonequilibrium phase at all temperatures in the ternary system. The L1(2)-gamma' phase dissolves slowly with significant amounts remaining in some alloys after 8000 h at 900 A degrees C. However, the present work clearly indicates the microstructure is moving toward a three-phase equilibrium between gamma, D0(19), and B2. The collected compositional and phase equilibria information provide much needed data for improving the available thermodynamic assessments of the ternary Co-Al-W alloy system.
+RI Lass, Eric/AAE-9593-2019
+OI Lass, Eric/0000-0003-1428-3585
+SN 1547-7037
+EI 1863-7345
+PD DEC
+PY 2014
+VL 35
+IS 6
+BP 711
+EP 723
+DI 10.1007/s11669-014-0346-2
+UT WOS:000345281500007
+ER
+
+PT J
+AU Ren, W
+   Li, Q
+   Song, J
+   Xiao, C
+   Xu, Z
+   Cao, C
+AF Ren, W.
+   Li, Q.
+   Song, J.
+   Xiao, C.
+   Xu, Z.
+   Cao, C.
+TI Oxidation and microstructure evolution of cobalt aluminide coatings on
+   directionally solidified superalloys during long term exposure at 1000
+   degrees C
+SO MATERIALS RESEARCH INNOVATIONS
+AB Using low pressure chemical vapour deposition, cobalt aluminide coatings were deposited onto directionally solidified Ni based superalloys (DZ466 and DS GTD111). Isothermal oxidation testing of the coated specimens was performed at 1000 degrees C under atmospheric pressure for times up to 2500 h. Oxidation and interdiffusion behaviour of the coating superalloy systems was examined. It was observed that the oxide growth mode of both coating systems conformed to a staged parabolic law, with differences in the transient stage related to the growth of theta-Al2O3. Coating degradation and formation of chromium containing precipitates occurred during exposure because of severe interdiffusion between the coating and superalloy. The composition of the superalloy substrate played an important role in the microstructure evolution of the aluminide coating, and the corresponding mechanism is discussed.
+SN 1432-8917
+EI 1433-075X
+PD JUL
+PY 2014
+VL 18
+SU 4
+BP 945
+EP 951
+DI 10.1179/1432891714Z.000000000816
+UT WOS:000346178400194
+ER
+
+PT J
+AU Klein, L
+   von Bartenwerffer, B
+   Killian, MS
+   Schmuki, P
+   Virtanen, S
+AF Klein, L.
+   von Bartenwerffer, B.
+   Killian, M. S.
+   Schmuki, P.
+   Virtanen, S.
+TI The effect of grain boundaries on high temperature oxidation of new
+   gamma '-strengthened Co-Al-W-B superalloys
+SO CORROSION SCIENCE
+AB Isothermal oxidation in air was carried out on a gamma'-strengthened single crystalline Co-Al-W-B superalloy at 800, 900, and 1000 degrees C. The absence of grain boundaries leads to inferior oxidation properties at 800 and 900 degrees C, and improved properties at 1000 degrees C, compared to a polycrystalline alloy of the same composition. At lower temperatures, grain boundary diffusion is dominant and assumed to be the reason for enhanced B-accumulation in the inner oxide layer and enhanced formation of the protective inner Al2O3 layer. However, at 1000 degrees C superior oxidation resistance of the single crystalline superalloy can be observed. (C) 2013 Elsevier Ltd. All rights reserved.
+RI Schmuki, Patrik/B-9720-2008; Virtanen, Sannakaisa/N-3699-2015
+OI Virtanen, Sannakaisa/0000-0002-7179-7593; Killian,
+   Manuela/0000-0003-0892-4614
+SN 0010-938X
+EI 1879-0496
+PD FEB
+PY 2014
+VL 79
+BP 29
+EP 33
+DI 10.1016/j.corsci.2013.10.022
+UT WOS:000331672900005
+ER
+
+PT B
+AU Wei, XP
+   Gong, XF
+   Yang, GX
+   Wang, HW
+   Li, HS
+   Chen, XD
+   Gao, ZH
+   Xu, YF
+   Yang, M
+AF Wei, Xianping
+   Gong, Xiufang
+   Yang, Gongxian
+   Wang, Haiwei
+   Li, Haisong
+   Chen, Xueda
+   Gao, Zhenhuan
+   Xu, Yongfeng
+   Yang, Ming
+GP Chinese Soc Metals
+   Minerals Metals & Mat Soc
+TI COMPUTER AIDED DESIGN OF Ni-BASED SINGLE CRYSTAL SUPERALLOY FOR
+   INDUSTRIAL GAS TURBINE BLADES
+SO ENERGY MATERIALS CONFERENCE PROCEEDINGS 2014
+CT Conference on Energy Materials
+CY NOV 04-06, 2014
+CL Xian, PEOPLES R CHINA
+SP Chinese Soc Metals, Minerals Metals & Mat Soc
+AB The influence of molybdenum, tungsten and cobalt on stress-rupture properties of single crystal superalloy PWA1483 has been investigated using the simulated calculation of JMatPro software which has been widely used to develop single crystal superalloy, and the effect of alloying element on the stability of strengthening phase has been revealed by using the Thermo-Calc software. Those properties calculation results showed that the increasing of alloy content could facilitate the precipitation of TCP phases and increase the lattice misfit between gamma and gamma' phase, and the effect of molybdenum, tantalum was the strongest and that of cobalt was the weakest. Then the chemical composition was optimized, and the selected compositions showed excellent microstructure stability and stress-rupture properties by the confirmation of d-electrons concept and software calculation.
+BN 978-1-119-02794-2
+PY 2014
+BP 411
+EP 416
+UT WOS:000364592900048
+ER
+
+PT S
+AU Cheng, JB
+   Pang, SQ
+   Wang, XB
+   Yu, QX
+AF Cheng, Jianbing
+   Pang, Siqin
+   Wang, Xibin
+   Yu, Qixun
+BE Hu, Z
+TI Effect of grain refinement and composition on the wear of cemented
+   carbide cutting tools
+SO RESEARCH IN MECHANICAL ENGINEERING AND MATERIAL SCIENCE
+SE Applied Mechanics and Materials
+CT International Conference on Mechanical, Material Engineering (MME 2013)
+CY NOV 23-24, 2013
+CL Hubei Univ Automot Technol, Shiyan, PEOPLES R CHINA
+SP Hubei Univ Automot Technol, Hubei Univ Mech Engn, Univ Teesside, Wuhan Univ, Wuhan Univ Technol, Hubei Univ Technol
+HO Hubei Univ Automot Technol
+AB Tool life tests of continuous cutting superalloy GH2132 were carried out by WC/Co cemented carbide cutting inserts of different grain size and cobalt content, and flank surface wear morphology of the cutting inserts were observed by ZEISS continuous zoom stereo microscope and microphotograph system. The results show that grain size and cobalt content strongly influence the cutting tool life and tool wear, grain refinement and proper cobalt content are help to improve the tool life and the wear resistance of WC/Co cemented carbide. The wear mechanisms of different grain size and cobalt content of ultrafine cemented carbide tools were adhesion and notch, among them, adhesive was the main wear mechanism at higher cutting speeds.
+SN 1660-9336
+BN 978-3-03785-928-5
+PY 2014
+VL 456
+BP 507
+EP +
+DI 10.4028/www.scientific.net/AMM.456.507
+UT WOS:000336692600108
+ER
+
+PT J
+AU Sunulahpasic, R
+   Oruc, M
+   Hadzalic, M
+   Gigovic-Gekic, A
+AF Sunulahpasic, R.
+   Oruc, M.
+   Hadzalic, M.
+   Gigovic-Gekic, A.
+TI ANALYSIS OF THE INFLUENCE OF CHEMICAL COMPOSITION AND TEMPERATURE ON
+   MECHANICAL PROPERTIES OF SUPERALLOYS NIMONIC 80A
+SO METALURGIJA
+AB Superalloys Nimonic 80A is a wrought nickel base alloy (min. 65 % Ni) and chromium (20 %), with minor additions of carbon, cobalt and iron, as well as major alloying elements of aluminum (1 to 1,8%) and titanium (1,8 to 2,7 %). Chemical composition of the alloy Nimonic 80A has a dominant influence on its mechanical and technological properties. Increasing of the temperature also has a large influence on the mechanical properties of superalloy Nimonic 80A
+   Investigations which were carried out have included chemical testing and testing of mechanical properties of superalloy Nimonic 80A at room and higher temperatures. Regression analysis was done on the base of chemical analyses and results of mechanical properties. The results of regression analysis are equations by which on the basis of known chemical composition, ie content of main alloying elements Al, Ti and Co, the mechanical properties of materials at room and higher temperatures can be predicted.
+SN 0543-5846
+PD JAN-MAR
+PY 2014
+VL 53
+IS 1
+BP 13
+EP 16
+UT WOS:000320481400003
+ER
+
+PT J
+AU Palcut, M
+   Priputen, P
+   Kusy, M
+   Janovec, J
+AF Palcut, Marian
+   Priputen, Pavol
+   Kusy, Martin
+   Janovec, Jozef
+TI Corrosion behaviour of Al-29at%Co alloy in aqueous NaCl
+SO CORROSION SCIENCE
+AB Microstructure and corrosion behaviour of a binary Al-29 at%Co alloy have been studied. The alloy was prepared by arc-melting of Al and Co in high purity Ar and rapidly solidified on a water-cooled Cu mould. The alloy chemical composition and microstructure were characterized by scanning electron microscopy, energy dispersive X-ray spectroscopy and X-ray diffraction. Furthermore, the corrosion behaviour was studied by potentiodynamic polarization in aqueous NaCl (0.6 mol dm(-3)) at room temperature. The alloy was found to consist of three phases: hexagonal Al5Co2, Z-phase and AlCo (beta). The corrosion resistance of different intermetallic phases is characterized. The results are compared to previously published results of Al-TM (TM = transition metal) alloys. (C) 2013 Elsevier Ltd. All rights reserved.
+RI Priputen, Pavol/N-2250-2016; Janovec, Jozef/C-6904-2018; Palcut,
+   Marian/P-1660-2018; Kusy, Martin/I-9957-2016
+OI Priputen, Pavol/0000-0002-6259-5711; Janovec, Jozef/0000-0001-7526-0083;
+   Palcut, Marian/0000-0002-6241-0801; Kusy, Martin/0000-0002-5553-1680
+SN 0010-938X
+PD OCT
+PY 2013
+VL 75
+BP 461
+EP 466
+DI 10.1016/j.corsci.2013.06.031
+UT WOS:000323469800050
+ER
+
+PT J
+AU Binczyk, F
+   Gradon, P
+AF Binczyk, F.
+   Gradon, P.
+TI Analysis of Solidification Parameters and Macrostructure of IN-713C
+   Castings after Complex Modification
+SO ARCHIVES OF FOUNDRY ENGINEERING
+AB The paper presents a research results concerning impact of volume modification (ceramic filter containning cobalt aluminate and hafnium powder) and simultaneous surface and volume modification on solidification and stereological parameters of macrostructure of castings made from post-production scrap of nickel superalloy IN-713C. Research included investigation of the influence of chemical composition on the temperature T-liq i T-sol and evaluation of following macrostructure parameters: the number of grains per mm(2), average grain area and shape coefficient. Results indicate high influence of carbon content on T-liq. Macrostructure of sample castings indicate positive effect of surface and volume modification, however impact of surface modification is more pronounced.
+RI Gradon, Pawel/U-6645-2018
+OI Gradon, Pawel/0000-0002-7632-5122
+SN 1897-3310
+EI 2299-2944
+PD SEP
+PY 2013
+VL 13
+IS 3
+BP 5
+EP 8
+DI 10.2478/afe-2013-0049
+UT WOS:000215100800001
+ER
+
+PT J
+AU Bocchini, PJ
+   Lass, EA
+   Moon, KW
+   Williams, ME
+   Campbell, CE
+   Kattner, UR
+   Dunand, DC
+   Seidman, DN
+AF Bocchini, Peter J.
+   Lass, Eric A.
+   Moon, Kil-Won
+   Williams, Maureen E.
+   Campbell, Carelyn E.
+   Kattner, Ursula R.
+   Dunand, David C.
+   Seidman, David N.
+TI Atom-probe tomographic study of gamma/gamma ' interfaces and
+   compositions in an aged Co-Al-W superalloy
+SO SCRIPTA MATERIALIA
+AB Atom-probe tomography (APT) is utilized to investigate, in a Co-9.7Al-10.8W at.% alloy aged at 900 degrees C for similar to 1000 h, the phase compositions and partitioning behavior of the two-phase gamma(face-centered cubic)/gamma'(L1(2)) microstructure. The APT composition of the gamma-matrix (Co-8.97Al-5.69W at.%) agrees well with a previously reported measurement made by energy-dispersive X-ray spectroscopy; however, the composition of the gamma'(L1(2)) precipitates (Co-10.03Al-12.48W at.%) is slightly richer in W and Al, and leaner in Co. Partitioning coefficients and Al interfacial excesses are also calculated. (c) 2012 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+RI Lass, Eric A/B-4586-2014; Lass, Eric/AAE-9593-2019; Seidman,
+   David/B-6697-2009; Dunand, David C/B-7515-2009
+OI Lass, Eric A/0000-0003-1428-3585; Lass, Eric/0000-0003-1428-3585;
+   Dunand, David/0000-0001-5476-7379
+SN 1359-6462
+PD APR
+PY 2013
+VL 68
+IS 8
+BP 563
+EP 566
+DI 10.1016/j.scriptamat.2012.11.035
+UT WOS:000316042100005
+ER
+
+PT J
+AU Zhang, L
+   Qu, XH
+   He, XB
+   Din, RU
+   Liu, HS
+   Qin, ML
+   Zhu, HM
+AF Zhang, Lin
+   Qu, Xuanhui
+   He, Xinbo
+   Din, Rafi-ud
+   Liu, Hengsan
+   Qin, Mingli
+   Zhu, Hongmin
+TI Microstructural Characterization of Co-Based ODS Alloys
+SO JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE
+AB Co-based ODS alloys, strengthened by nanosized oxide dispersion and gamma' precipitates, are potential high-temperature structural materials. The characteristics of the mechanically alloyed powder and the microstructural evolution of the Co-based ODS alloys were investigated. The results revealed that mechanical alloying had induced the formation of supersaturated solid solution in immiscible Co-Al-W-based alloys, originating mainly from extensive grain boundary region, high dislocation density, and ample point defect. Chemical compositions of mechanically alloyed Co-Al-W-based ODS alloys easily deviate from the gamma/gamma' two-phase region, leading to the existence of Al (x) Co, Co3W, Co7W6, and W phases in addition to the gamma and gamma' phases. Nonuniform distribution of alloying elements brings about the differences in morphologies and sizes of gamma' precipitates. Microstructural formation process is impelled by spinodal decomposition mode, and spinodal decomposition behavior has been accelerated in the fine-grained alloy because of the presence of short-circuited diffusion paths for atomic movement.
+SN 1059-9495
+PD NOV
+PY 2012
+VL 21
+IS 11
+BP 2487
+EP 2494
+DI 10.1007/s11665-012-0206-3
+UT WOS:000310085800034
+ER
+
+PT J
+AU Klein, L
+   Virtanen, S
+AF Klein, L.
+   Virtanen, S.
+TI Electrochemical characterisation of novel gamma/gamma '-strengthened
+   Co-base superalloys
+SO ELECTROCHIMICA ACTA
+AB Electrochemical behaviour of a new gamma/gamma'-strengthened Co-base superalloy with the composition Co-9Al-9W-0.12B (in at%) was studied in comparison with pure Co at room temperature in 1 M Na2SO4 (pH 5.9) and 0.1 M NaOH (pH 12.8) aqueous solutions. Pure Co and the Co-base superalloy show passive behaviour in both solutions. Impedance spectra measured at the corrosion potential indicate comparable impedance values for the alloy and pure Co in neutral solution, but in alkaline solution the alloy shows a lower corrosion rate. Polarisation curves indicate a limited range of passivity for both materials in neutral solution. In alkaline solution, the alloy and pure Co show similar (albeit not identical) primary and secondary ranges of passivity, as previously described in the literature for pure Co. Furthermore, lower passive current densities are observed for the superalloy in the primary range of passivity. As the superalloy studied in this work is a promising material for high temperature applications, we moreover compared the corrosion behaviour of oxidised alloy surfaces with the bare alloy surface. For this, isothermal oxidation of the gamma/gamma'-strengthened Co-base superalloy was carried out in air at 800 degrees C and 900 degrees C for 24 h and 500 h. Compared to unoxidised Co-Al-W-B alloys and pure Co samples, the high temperature oxide scales provide orders of magnitude higher protection with good barrier properties in a potential range between -1 and +2V (vs. Ag/AgCl). In general, longer oxidation times and a higher oxidation temperature result in the formation of more protective oxide layers. The protective effect of the high temperature oxide layers is discussed in view of their thickness and chemical composition. (C) 2012 Elsevier Ltd. All rights reserved.
+RI Virtanen, Sannakaisa/N-3699-2015
+OI Virtanen, Sannakaisa/0000-0002-7179-7593
+SN 0013-4686
+PD AUG 1
+PY 2012
+VL 76
+BP 275
+EP 281
+DI 10.1016/j.electacta.2012.05.016
+UT WOS:000306621200036
+ER
+
+PT J
+AU MacKay, RA
+   Gabb, TP
+   Garg, A
+   Rogers, RB
+   Nathal, MV
+AF MacKay, R. A.
+   Gabb, T. P.
+   Garg, A.
+   Rogers, R. B.
+   Nathal, M. V.
+TI Influence of composition on microstructural parameters of single crystal
+   nickel-base superalloys
+SO MATERIALS CHARACTERIZATION
+AB Fourteen nickel-base superalloy single crystals containing a range of chromium (Cr), cobalt (Co), molybdenum (Mo), and rhenium (Re) levels, and fixed amounts of aluminum (Al) and tantalum (Ta), were examined to determine the effect of bulk composition on basic microstructural parameters, including gamma' solvus, gamma' volume fraction, topologically close-packed (TCP) phases, gamma and gamma' phase chemistries, and gamma-gamma' lattice mismatch. Regression models describing the influence of bulk alloy composition on each of the microstructural parameters were developed and compared to predictions by a commercially-available software tool that used computational thermodynamics Co produced the largest change in gamma' solvus over the wide compositional range explored and Mo produced the biggest effect on the gamma lattice parameter over its range, although Re had a very potent influence on all naicrostructural parameters investigated. Changing the Cr, Co, Mo, and Re contents in the bulk alloy had an impact on their concentrations in they gamma matrix and to a smaller extent in the gamma' phase. The software tool under-predicted gamma' solvus temperatures and gamma' volume fractions, and over-predicted TCP phase volume fractions at 982 degrees C. However, the statistical regression models provided excellent estimations of the microstructural parameters and demonstrated the usefulness of such fummlas. (C) 2012 Elsevier Inc. All rights reserved.
+SN 1044-5803
+EI 1873-4189
+PD AUG
+PY 2012
+VL 70
+BP 83
+EP 100
+DI 10.1016/j.matchar.2012.05.001
+UT WOS:000306766000013
+ER
+
+PT J
+AU Karunaratne, MSA
+   Di Martino, I
+   Ogden, SL
+   Oates, DL
+   Thomson, RC
+AF Karunaratne, M. S. A.
+   Di Martino, I.
+   Ogden, S. L.
+   Oates, D. L.
+   Thomson, R. C.
+TI Modeling of Microstructural Evolution in an MCrAlY Overlay Coating on
+   Different Superalloy Substrates
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+AB A multicomponent, one-dimensional diffusion model that was developed for simulating microstructure evolution in coated gas turbine blade systems has been used to compare the phase structures of three MCrAlY coated superalloy systems. The model is based on finite differences and incorporates oxidation and equilibrium thermodynamic computations. The superalloy substrates considered were the nickel-based superalloy CMSX-4, a high-Cr single-crystal superalloy, and a cobalt-based MAR-M509, and these were all coated with an MCrAlY bond coat of similar composition. The results predicted by the model have been compared with similar experimental systems. The model can predict many features observed experimentally and therefore can be expected to be a useful tool in lifetime prediction and microstructural assessment of turbine blade systems based on superalloys. The work also highlighted the fact that for a given coating, the phase evolution within system is dependent on the substrate material.
+RI Karunaratne, Mudith/J-2280-2017; Thomson, Rachel C/B-4217-2011
+OI Karunaratne, Mudith/0000-0003-4646-5316; Thomson, Rachel
+   C/0000-0002-3681-0107
+SN 1073-5623
+PD FEB
+PY 2012
+VL 43A
+IS 2
+BP 774
+EP 788
+DI 10.1007/s11661-011-0897-3
+UT WOS:000299332700039
+ER
+
+PT B
+AU Mazilin, IV
+   Drobot, DV
+AF Mazilin, I. V.
+   Drobot, D. V.
+BE German, KE
+   Myasoedov, BF
+   Kodina, GE
+   Maruk, AY
+   Troshkina, ID
+TI HETEROMETALLIC RHENIUM, NICKEL, COBALT-ALKOXIDES AS PRECURSORS FOR
+   FUNCTIONAL MATERIALS SYNTHESIS
+SO 7TH INTERNATIONAL SYMPOSIUM ON TECHNETIUM AND RHENIUM - SCIENCE AND
+   UTILIZATION
+CT 7th International Symposium on Technetium and Rhenium - Science and
+   Utilization
+CY JUL 04-08, 2011
+CL Moscow, RUSSIA
+SP RUSNANO, ISTC MHTU, PUROLITE, ROSATOM, Bruker, Diamed, APM Pharm, CEA, Univ Nevada Las Vegas, Amer Elements, Russian Acad Sci, IPCE RAS, MUCTR, ISTC, RFBR, ACADEMINVESTSERVICE, FMBC FMBA
+AB New technology to obtain Re, Ni, Co hydroxides, simple and complex oxides, fine and nanosized powders of metals and alloys has been developed. Mono- and heterometallic nickel, rhenium and cobalt alkoxides with adjustable metal content were used as precursors to produce final powders. Electrochemical and chemical techniques for synthesis of molecularly mixed precursor compounds were proposed. The said precursors were subjected to hydrolytic and thermal decomposition. By changing precursor composition and/or decomposition parameters, one can obtain powders of different size, chemical and phase composition. Ultrafine (D-50=501 nm) nickel-based alloy powder with rhenium and cobalt doping was obtained at as low as 350 degrees C.
+RI Дробот, Дмитрий/AAD-3711-2019
+BN 978-5-94691-473-4
+PY 2011
+BP 380
+EP 385
+UT WOS:000393813200119
+ER
+
+PT J
+AU Terada, M
+   Marques, RA
+   Magnani, M
+   Padilha, AF
+   Costa, I
+AF Terada, Maysa
+   Marques, Rogerio Albuquerque
+   Magnani, Marina
+   Padilha, Angelo Fernando
+   Costa, Isolda
+TI A Comparative Study of the Corrosion Resistance of Incoloy MA 956 and PM
+   2000 Superalloys
+SO MATERIALS RESEARCH-IBERO-AMERICAN JOURNAL OF MATERIALS
+AB Austenitic stainless steels, titanium and cobalt alloys are widely used as biomaterials. However, new medical devices require innovative materials with specific properties, depending on their application. The magnetic properties are among the properties of interest for some biomedical applications. However, due to the interaction of magnetic materials with Magnetic Resonance Image equipments they might used only as not fixed implants or for medical devices. The ferromagnetic superalloys, Incoloy MA 956 and PM 2000, produced by mechanical alloying, have similar chemical composition, high corrosion resistance and are used in high temperature applications. In this study, the corrosion resistance of these two ferritic superalloys was compared in a phosphate buffer solution. The electrochemical results showed that both superalloys are passive in this solution and the PM 2000 present a more protective passive film on it associated to higher impedances than the MA 956.
+RI Padilha, Angelo Fernando/D-9595-2016; Padilha, Angelo
+   Fernando/Q-4594-2019; Costa, Isolda/X-4487-2019; Costa,
+   Isolda/E-8506-2012; Terada, Maysa/D-3277-2012
+OI Padilha, Angelo Fernando/0000-0002-5494-9137; Costa,
+   Isolda/0000-0002-4987-3334; Costa, Isolda/0000-0002-4987-3334; Terada,
+   Maysa/0000-0002-2011-5759
+SN 1516-1439
+PD OCT-DEC
+PY 2010
+VL 13
+IS 4
+BP 425
+EP 429
+DI 10.1590/S1516-14392010000400002
+UT WOS:000287017400001
+ER
+
+PT S
+AU Mahapatra, R
+   Imam, MA
+   Lei, CS
+   Feng, CR
+AF Mahapatra, R.
+   Imam, M. A.
+   Lei, C. S.
+   Feng, C. R.
+BE Nie, JF
+   Morton, A
+TI Cobalt-Based Alloys for High Temperature Applications
+SO PRICM 7, PTS 1-3
+SE Materials Science Forum
+CT 7th Pacific Rim International Conference on Advanced Materials and
+   Processing
+CY AUG 02-06, 2010
+CL Cairns, AUSTRALIA
+SP Chinese Soc Metals, Japan Inst Metals, Korean Inst Metals & Mat, Mat Australia, Minerals, Met & Mat Soc
+AB The isothermal oxidation behavior and thermal stability of a cobalt base alloy was investigated up to a period of 312 hr in air from 1000 to 1200 degrees C. A comparison of oxidation behavior of this alloy with a conventional nickel-base superalloy (Inconel 713C) has been conducted in detail. This experimental alloy oxidizes by forming layers of Al2O3, Cr2O3, TiO2, CoO and traces of SiO2 with WO2 oxides on the surface of the specimen in contact with air. Scanning electron microscopy (SEM) was used to study the microstructure, morphology and compositions of oxides formed after the exposure. Thermal stability of the alloy after extended periods of exposures to air at 1000, 1100 and 1200 degrees C was studied using transmission electron microscopy (TEM).
+SN 0255-5476
+PY 2010
+VL 654-656
+BP 550
+EP +
+DI 10.4028/www.scientific.net/MSF.654-656.550
+PN 1-3
+UT WOS:000285374600134
+ER
+
+PT J
+AU Li, MW
+   Zeng, G
+   He, F
+   He, XD
+AF Li Mingwei
+   Zeng Gang
+   He Fei
+   He Xiaodong
+TI The isothermal oxidation behaviors of as-deposited and heat-treated
+   Ni-11.5Cr-4.5Co-0.5Al sheet by EB-PVD at 800 degrees C
+SO JOURNAL OF ALLOYS AND COMPOUNDS
+AB The isothermal oxidation behaviors for the as-deposited and heat-treated Ni-11.5Cr-4.5Co-0.5Al sheet by EB-PVD were investigated. The annealed of sheet was carried out at 800 degrees C for 16 h in 5 x 10(-3) Pa. The oxidation exposures were conducted on electrical resistance furnace in 1 atm of laboratory air at 800 degrees C up to 120 h. The mass gain during subsequent oxidation was measured using a microbalance with a resolution of 10(-5) g. Surfaces and cross-sections of the oxidized specimens were studied by scanning electron microscopy (SEMI). Phase identification of the oxide scale was performed by glancing angle X-ray diffraction (GAXRD) and Energy Dispersive Analysis of X-rays (EDAX). The results show the heat-treated sheet with identical composition exhibited much more stable oxidation behavior than the as-deposited sheet. At 800 degrees C after 96 h isothermal exposure, the oxide scales of as-deposited sheet consisted mainly of an external NiO layer, a middle NiO and NiCr2O4 mixed layer and internal rich-Cr2O3 contained cobalt oxide layer. But those of heat-treated sheet exhibits NiO and Cr2O3 mixed layer with <1 mu m thickness. (C) 2009 Elsevier B.V. All rights reserved.
+RI Xiaodong, He/B-9235-2012
+SN 0925-8388
+EI 1873-4669
+PD NOV 20
+PY 2009
+VL 488
+IS 1
+BP L30
+EP L34
+DI 10.1016/j.jallcom.2009.08.142
+UT WOS:000273709600008
+ER
+
+PT J
+AU Zeng, Q
+   Ma, SW
+   Zheng, YR
+   Liu, SZ
+   Zhai, T
+AF Zeng, Q.
+   Ma, S. W.
+   Zheng, Y. R.
+   Liu, S. Z.
+   Zhai, T.
+TI A study of Re and Al diffusion in Ni
+SO JOURNAL OF ALLOYS AND COMPOUNDS
+AB Alloy couples of Ni-1(wt.%)Re/Ni-4.8(wt.%)Re and Ni-x%Re/Ni-x%Re-5.3(wt.%)Al with x being 1, 2 and 3 were annealed at different temperatures to investigate the diffusion behavior of Re in Ni and the effect of Re on the diffusion behavior of Al in Ni. The composition profiles of these alloys were measured by electron probe microanalysis, and used to calculate the diffusion coefficients and activity energies of Re and Al. The results showed that the diffusion activation energy of Re in Ni was 412 kJ/mol and that of Al increased slightly from 230 kJ/mol to 256 kJ/mol with Re content being varied from 1% to 3% in Ni matrix. Published by Elsevier B.V.
+SN 0925-8388
+EI 1873-4669
+PD JUL 8
+PY 2009
+VL 480
+IS 2
+BP 987
+EP 990
+DI 10.1016/j.jallcom.2009.02.115
+UT WOS:000267798600171
+ER
+
+PT J
+AU Xiong, Z
+   Chen, GX
+   Zeng, XY
+AF Xiong, Zheng
+   Chen, Guang-xia
+   Zeng, Xiao-yan
+TI Effects of process variables on interfacial quality of laser cladding on
+   aeroengine blade material GH4133
+SO JOURNAL OF MATERIALS PROCESSING TECHNOLOGY
+AB Consecutive layer of a cobalt alloy, stelliteX-40, were deposited onto a GH4133 superalloy plate. The microstructure and mechanical properties of laser cladding were examined. An inappropriate combination of laser power, scanning velocity or pre-placed powder height can result in the formation of incomplete fusion interface between the cladding layer and substrate, or reheat cracking along the coarse grain boundary in the heat-affected zone (HAZ) after ageing treatment. The SEM and energy dispersive spectroscopy (EDS) show the absence of precipitate particles within the reheating crack with similar average compositions for the crack and the substrate. The plastic deformation due to residual thermal stress induced by thermal cycle of laser cladding process is concentrated on the coarse grain boundaries within the HAZ as grains are strengthened by precipitating particles during the aging process. This concentrated plastic deformation is mainly responsible for reheat cracking. The laser cladding layer with integrated melt interface and without reheat cracking can be obtained by optimizing laser power, scanning velocity and powder thickness. The experimental results of microhardness show the homogenous property distribution within the material after the ageing treatment. (C) 2008 Elsevier B.V. All rights reserved.
+SN 0924-0136
+PD JAN 19
+PY 2009
+VL 209
+IS 2
+BP 930
+EP 936
+DI 10.1016/j.jmatprotec.2008.03.004
+UT WOS:000262135900039
+ER
+
+PT B
+AU Waldorf, D
+   Liu, S
+   Stender, M
+   Norgan, D
+AF Waldorf, Daniel
+   Liu, Scott
+   Stender, Michael
+   Norgan, Daniel
+GP ASME
+TI ALTERNATIVE BINDER CARBIDE TOOLS FOR MACHINING SUPERALLOYS
+SO MSEC 2008: PROCEEDINGS OF THE ASME INTERNATIONAL MANUFACTURING SCIENCE
+   AND ENGINEERING CONFERENCE 2008, VOL 1
+CT ASME International Manufacturing Science and Engineering Conference
+CY OCT 07-10, 2008
+CL Evanston, IL
+SP ASME, Mfg Engn Div
+AB This study examines the performance of a new class of wear-resistant but economical cutting tools produced by varying the binder composition of standard cemented carbide composites. By replacing some or all of the cobalt binder with rhenium and nickel-based superalloy, a stronger composite tool results, potentially capable of machining heat-resistant superalloys at significantly higher cutting speeds. Sample tools with alternative binder were produced and compared to standard tools bound with cobalt only. Turning experiments on Inconel 718 were run to evaluate wear resistance and tool life for several grades. The experimentation also examined the effects of varying the relative proportions of each binder constituent as well as the overall binder percentage in the composite. Results show a clear advantage of the alternative binder tools as evidenced by a 150% increase in tool life or the equivalent of an 18% increase in cutting speed. Although increasing amounts of rhenium in the binder show a positive effect on performance, the effects of superalloy and overall binder % are inconclusive.
+BN 978-0-7918-4851-7
+PY 2009
+BP 417
+EP 425
+UT WOS:000266633200054
+ER
+
+PT J
+AU Sidhu, TS
+   Prakash, S
+   Agrawal, RD
+AF Sidhu, T. S.
+   Prakash, S.
+   Agrawal, R. D.
+TI Investigations on role of HVOF sprayed Co and Ni based coatings to
+   combat hot corrosion
+SO CORROSION ENGINEERING SCIENCE AND TECHNOLOGY
+AB This paper aims to investigate the hot corrosion resistance of high velocity oxy-fuel (HVOF) sprayed cobalt based (Stellite-6) and nickel based (Ni-20Cr) coatings deposited on the superalloy Superni-718 (Ni-19Cr-18.5Fe-5.13Ta-3.05Mo-0.9Ti-0.5Al-0.18Mn-0.18Si-0.15Cu0.04C) in the Na(2)SO(4)-60%V(2)O(5) salt environment at 900 degrees C under cyclic conditions. The X-ray diffractometry, scanning electron microscopy/energy dispersive analysis and electron probe microanalyser techniques were used to study the corrosion products with respect to their morphology, phase composition and element concentration. The thermogravimetric technique was used to establish the kinetics of corrosion. The bare alloy underwent severe hot corrosion attack. The Ni-20Cr coating shows excellent hot corrosion resistance with negligible spallation, whereas Stellite-6 coating reveals less hot corrosion resistance and more spallation. The hot corrosion resistance of Ni-20Cr coating has been attributed to the formation of oxides of chromium, nickel and spinel of nickel chromium. The oxides of silicon, chromium, cobalt and spinels of cobalt-chromium and nickel-chromium have contributed for hot corrosion resistance of Stellite-6 coatings.
+SN 1478-422X
+PD DEC
+PY 2008
+VL 43
+IS 4
+BP 335
+EP 342
+DI 10.1179/174327808X286446
+UT WOS:000262164200010
+ER
+
+PT J
+AU Ping, DH
+   Cui, CY
+   Gu, YF
+   Harada, H
+AF Ping, D. H.
+   Cui, C. Y.
+   Gu, Y. F.
+   Harada, H.
+TI Microstructure of a newly developed gamma ' strengthened Co-base
+   superalloy
+SO ULTRAMICROSCOPY
+CT Joint 50th International Field Emission Symposium/19th International
+   Vacuum Nanoelectronics Conference
+CY JUL 17-20, 2006
+CL Guilin, PEOPLES R CHINA
+SP Minist Sci & Technol China, Natl Nat Sci Fdn China, Sun Yat-sen Univ, IEEE Electron Devices Soc, Amer Vacuum Soc
+AB The microstructure of a newly developed Co-base superalloy with enhanced high-temperature strength has been investigated using transmission electron microscopy (TEM) and three-dimensional atom probe (3DAP) techniques. It mainly consists of a typical gamma/gamma' (FCC/L1(2)) structure and a plate-shaped AB(3)-type (Ni, Co, Cr)(3)(Ti, Al) intermetallic compound with hexagonal structure (a similar to 5.1 angstrom and c similar to 12.5 angstrom). gamma' is formed with a bimodal distribution and fine gamma' has a cuboidal morphology. Cr and Co are enriched in the gamma phase, while Ti, Al and Ni are enriched in the gamma' phase. W and Mo are more or less uniformly distributed in both gamma and gamma'. Chemical composition analysis by 3DAP suggests that the plate-shaped phase has a higher Ti and lower Al content compared to that of gamma' phase, and the concentration of Ti, Co and Ni has a periodic variation along c-axis with a period of 12.5 angstrom in the plate-shaped phase. (c) 2007 Elsevier B.V. All rights reserved.
+SN 0304-3991
+PD SEP
+PY 2007
+VL 107
+IS 9
+BP 791
+EP 795
+DI 10.1016/j.ultramic.2007.02.010
+UT WOS:000247770100017
+PM 17383098
+ER
+
+PT J
+AU Sidhu, TS
+   Prakash, S
+   Agrawal, RD
+AF Sidhu, T. S.
+   Prakash, S.
+   Agrawal, R. D.
+TI A comparative study of hot corrosion resistance of HVOF sprayed NiCrBSi
+   and Stellite-6 coated Ni-based superalloy at 900 degrees C
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+AB A comparative study was carried out to evaluate the hot corrosion resistance of NiCrBSi and Stellite-6 coated nickel-based superalloy Superni 600 (15.5Cr-lOFe-0.5Mn-0.2C-balance Ni) in the molten salt environment of Na2SO4-60%V2O5 salt mixture at 900 degrees C under cyclic conditions. Hot corrosion experiments were performed for 50 cycles, each cycle consisting of I h heating in the laboratory tube furnace followed by 20 min cooling in the open air. The thermogravimetric technique was used to establish the kinetics of corrosion. The morphology, phase composition and element concentration of the corrosion products were detected using the combined techniques of X-ray diffractometry (XRD), scanning electron microscopy/energy-dispersive analysis (SEMIEDAX) and electron probe micro analyzer (EPMA). The hot corrosion resistance of NiCrBSi coating has been found to be better than that of Stellite-6 coating. The hot corrosion resistance of both the coatings has been attributed to the formation of oxides of chromium, silicon and nickel along with spinels of nickel-chromium and cobalt-chromium. These oxides seal/plug the pores and splat boundaries, and act as diffusion barriers to the inward diffusion of corroding species. (c) 2006 Published by Elsevier B.V.
+SN 0921-5093
+PD FEB 15
+PY 2007
+VL 445
+BP 210
+EP 218
+DI 10.1016/j.msea.2006.09.015
+UT WOS:000244301500027
+ER
+
+PT J
+AU Li, HS
+   Li, MX
+   He, YZ
+   Yoon, JH
+   Shin, K
+AF Li, H. S.
+   Li, M. X.
+   He, Y. Z.
+   Yoon, J. H.
+   Shin, K.
+TI Microstructure of cobalt based alloy coatings produced by laser deposit
+   welding
+SO SCIENCE AND TECHNOLOGY OF WELDING AND JOINING
+AB Coatings of cobalt based alloy HMSP 2528, deposited on a nickel based superalloy using a transverse flow CO2 laser, are investigated. Sections of the coatings have been examined to reveal their microstructure and phase composition using an Olympus PME - 3 type optical microscope, scanning electron microscope, transmission electron microscope, and X-ray diffractometer. The results showed that primary phase (gamma-Co) and eutectic (gamma-Co+Cr23C6) were present in the coatings. Rapid directional solidification was found at the interface, where the growth direction was perpendicular to the interface. Multidirectional growth and growth parallel to the scanning direction were also found in the central region and near the top surface, respectively. At the remelted boundary between two tracks, a novel microstructure was found in which the crystallisation direction of the first track was transmitted to the second track. As more tracks were deposited, coarsening dendrites could be found at the interfaces.
+SN 1362-1718
+EI 1743-2936
+PD SEP
+PY 2006
+VL 11
+IS 5
+BP 567
+EP 571
+DI 10.1179/174329306X101427
+UT WOS:000243639700012
+ER
+
+PT J
+AU Li, MX
+   He, YZ
+   Yuan, XM
+AF Li, MX
+   He, YZ
+   Yuan, XM
+TI Effect of nano-Y2O3 on microstructure of laser cladding cobalt-based
+   alloy coatings
+SO APPLIED SURFACE SCIENCE
+AB Cobalt-based alloy coatings with and without nano-Y2O3 particles produced by a 5 kW CO2 laser on Ni-based superalloy were introduced. Solidified microstructure, phase compositions and distribution of nano-particles were investigated by using optical microscope, SEM, TEM and XRD. The results showed that metastable phases, such as gamma-Co and Cr23C6 existed in cobalt-based alloy coatings. Another two phases (Y2O3 and epsilon-Co) were found by adding nano-Y2O3. Without nano-Y2O3, rapid directional solidified microstructure of columnar dendrite appeared. Fine and short dendritic microstructure and columnar to equiaxed transition (CET) occurred by adding nano-Y2O3 particles. With the increase in amount of nano-Y2O3, fully equiaxed crystallization appeared and the formation mechanism was analyzed. The results also showed that the sub-microstructure of the coatings changed from dislocation to stacking fault by adding nano-Y2O3. (c) 2005 Elsevier B.V. All rights reserved.
+SN 0169-4332
+EI 1873-5584
+PD FEB 15
+PY 2006
+VL 252
+IS 8
+BP 2882
+EP 2887
+DI 10.1016/j.apsusc.2005.04.038
+UT WOS:000235721800028
+ER
+
+PT J
+AU Kobayashi, T
+   Harada, H
+   Osawa, M
+   Sato, A
+AF Kobayashi, T
+   Harada, H
+   Osawa, M
+   Sato, A
+TI Creep strength of Co-free Ni-base single crystal superalloys
+SO JOURNAL OF THE JAPAN INSTITUTE OF METALS
+AB The Pebble Bed Modular Reactor (PBMR) is a small atomic power reactor which can be used in areas where the electric power transmission network is not well developed. It generates electricity by gas-turbines that used He-gas as a coolant. Ni-based superalloys are the primary materials used in gas-turbines. However if conventional Ni-base superalloys are to be used for PBMR, turbine maintenances will be difficult due to Co, as it can produce Co-60 a recitative material that possesses a long half-life. Therefore, Co-free Ni-base superalloys are required for PBMR.
+   In this paper, a Co-free single-crystal (SC) superalloy, TMS-82 + (-Co), was developed; it was the same chemical composition as the 2(nd) generation SC superalloy, TMS-82+, except that it is Co-free creep tests were performed on the developed alloy, TMS-82 +, under three conditions; 900 degrees C/392 MPa, 1000 degrees C/245 MPa, and 1100 degrees C/137 MPa; CMSX-4, a popular SC alloy, was used as comparison.
+   TMS-82 + (-Co) displayed superior creep-rupture life in all creep tests; however, detrimental TCP were observed in the microstructure of the sample that underwent creep testing at 1100 degrees C/137 MPa. This, the developed Co-free SC alloy should be further modified for long-term microstructural stability. Elimination of phase formation will allow the alloy to be utilized in the PBMR.
+SN 0021-4876
+EI 1880-6880
+PD AUG
+PY 2005
+VL 69
+IS 8
+BP 707
+EP 710
+DI 10.2320/jinstmet.69.707
+UT WOS:000231763500027
+ER
+
+PT J
+AU Yang, DY
+   Zhang, X
+   Jin, T
+   Sun, XF
+   Guan, HR
+   Hu, ZQ
+AF Yang, DY
+   Zhang, X
+   Jin, T
+   Sun, XF
+   Guan, HR
+   Hu, ZQ
+TI The influence of cobalt, tungsten, and titanium on stress-rupture
+   properties of nickel-base single crystal superalloy
+SO RARE METAL MATERIALS AND ENGINEERING
+AB The influence of Cobalt, Tungsten, and Titanium on stress-rupture properties of Nickel-base single crystal superalloy has been investigated using orthogonal arrays experimental design. The compositions of alloy have been optimized by mathematical analysis. The results show that Ti content has the most important influence on persistent lives and it is followed by Co, W in the effects. The persistent life is long when the alloy contains 10wt%Co, 8wt%W and 0wt%Ti. This alloy also has high microstructure stability after long-term ageing.
+SN 1002-185X
+PD AUG
+PY 2005
+VL 34
+IS 8
+BP 1295
+EP 1298
+UT WOS:000231616500029
+ER
+
+PT J
+AU Yan, GZ
+   Peng, ZF
+AF Yan, GZ
+   Peng, ZF
+TI An optimization method for estimating phase compositions and amounts in
+   two-phase nickel base superalloys
+SO ACTA METALLURGICA SINICA
+AB An optimization method was established to predict phase compositions and amounts in two-phase nickel base superalloys. Based on the compositions of alloys and their gamma' phase, gamma phase compositions and gamma' phase amounts were calculated with the use of the layered multi objective optimization algorithmic approach with tolerance. The optimization process was realized by establishing two relating objective functions and the corresponding constrained conditions. The results verified the feasibility and the accuracy of the present method.
+SN 0412-1961
+PD APR 11
+PY 2005
+VL 41
+IS 4
+BP 363
+EP 368
+UT WOS:000228756900006
+ER
+
+PT J
+AU Yan, GZ
+   Peng, ZF
+AF Yan, GZ
+   Peng, ZF
+TI An optimization algorithm and its application for predicting elemental
+   concentrations of sublattices of gamma ' phase in Ni base superalloys
+SO ACTA METALLURGICA SINICA
+AB The effects of mismatch in atomic size and electronegativity of alloying elements on the elemental concentration of sublattices of gamma' phase in Ni base superalloys were investigated. The mathematic model of optimizations was established to predict the elemental concentration of sublattices of gamma' phase. Ranges of the selected values of concentration variables were determined by use of the iterative and substitutional method. Based on chemical compositions of the gamma' phase, the elemental content at the Ni and Al sites in the gamma' phase can be calculated with the layered multi-objective optimization algorithm with tolerance. Using the reported data on both the chemical compositions and the lattice parameters of gamma' phase, a comparison between the predicted and the reported values of lattice parameters was made through the application of the predicted values of the elemental concentrations of the gamma' sublattices to verify the feasibility and the accuracy of the present method.
+SN 0412-1961
+PD MAR 11
+PY 2005
+VL 41
+IS 3
+BP 251
+EP 254
+UT WOS:000228107800006
+ER
+
+PT J
+AU Fouilland, L
+   Iordache, L
+   El Mansori, M
+   Huguet, A
+AF Fouilland, L.
+   Iordache, L.
+   El Mansori, M.
+   Huguet, A.
+TI Metallurgical characterisation of cobalt-base weld hardfacings for hot
+   tooling: Influence of welding parameters
+SO MATERIAUX & TECHNIQUES
+AB Improving service life of tooling by welding high performance alloys on their surfaces is a current practice in hot forming. Cobalt-base or Nickel-base superalloys are often used as weld-deposited hardfacings for their outstanding strength, resistance to wear and oxidation at high temperatures (> 550 degrees C). This paper describes the procedure of welding Cobalt-base superalloy layers on steel substrate as well as their metallurgical properties according to the welding parameters. During the welding process, the first phase to form from the liquid state consists of cobalt-rich dendrites. The remaining liquid, rich in alloy elements, is solidified by an eutectic reaction into the interdendritic area. Indeed, the hardening elements such as Mo and Cr precipitate by forming carbides in the interdendritic region. The welding parameters are closely linked to the cooling speed which is responsible for variations in chemistry composition between the different welded layers or microstructural and mechanical changes able to impairing machinability of these weld-hardfacing deposits.
+SN 0032-6895
+EI 1778-3771
+PY 2005
+VL 93
+IS 5-6
+BP 163
+EP 169
+DI 10.1051/mattech:2005005
+UT WOS:000421448200009
+ER
+
+PT J
+AU Berthod, P
+   Raude, S
+   Chiaravalle, A
+   Renck, AS
+   Rapin, C
+   Podor, R
+AF Berthod, P
+   Raude, S
+   Chiaravalle, A
+   Renck, AS
+   Rapin, C
+   Podor, R
+TI Influence of the microstructure texture of nickel base and cobalt base
+   cast superalloys on their oxidation behaviour at high temperature
+SO REVUE DE METALLURGIE-CAHIERS D INFORMATIONS TECHNIQUES
+AB The high temperature oxidation behaviour of cast superalloys strengthened by carbides has been studied as a function of their grain fineness and their dendritic orientation near the surface. These microstructural features have both a significant influence on the oxidation kinetics. The effect depends on the nature of the base metal of the superalloy, on the overall chemical composition or on the types of carbides.
+RI Podor, Renaud/N-3746-2019
+OI Podor, Renaud/0000-0002-8103-1743
+SN 0035-1563
+PD DEC
+PY 2004
+VL 101
+IS 12
+BP 1031
+EP +
+UT WOS:000226943300004
+ER
+
+PT J
+AU Li, MX
+   He, YZ
+   Sun, GX
+AF Li, MX
+   He, YZ
+   Sun, GX
+TI Microstructure and wear resistance of laser clad cobalt-based alloy
+   multi-layer coatings
+SO APPLIED SURFACE SCIENCE
+AB Multi-layer Co-based alloy (HMSP 2537) were deposited on Ni-based superalloy plate with a TJ-TL-T5000 type CO2 laser. Sections of such coatings were examined to reveal their microstructure and phase composition using optical microscope, scanning electron microscope (SEM), and X-ray diffractometer (XRD). The hardness and wear resistance of the coatings were tested. The results showed that the prime phase (gamma-Co dendrite) and other phases, such as CrNi, Co7W6, and Cr23C6 existed in the coatings. Dendrite or cellular microstructures were observed perpendicular to the interface, and coarsening microstructures were obtained as more layers deposited. Dendrite paralleling to laser scan speed was also found near the top surface of the last layer. Fine microstructures of gamma-Co dendrite and lamellar eutectic in inter-dendritic regions strengthened the coatings. Microhardness and wear resistance of the coatings were much higher than that of substrate but slightly decreased with layers increased. (C) 2004 Elsevier B.V. All rights reserved.
+SN 0169-4332
+EI 1873-5584
+PD MAY 31
+PY 2004
+VL 230
+IS 1-4
+BP 201
+EP 206
+DI 10.1016/j.apsusc.2004.02.030
+UT WOS:000221968100025
+ER
+
+PT J
+AU Shirzadi, AA
+   Wallach, ER
+AF Shirzadi, AA
+   Wallach, ER
+TI New method to diffusion bond superalloys
+SO SCIENCE AND TECHNOLOGY OF WELDING AND JOINING
+CT Conference on Microstructure and Performance of Joints in High
+   Temperature Alloys
+CY NOV 20, 2002
+CL London, ENGLAND
+SP Inst Mat
+AB A new method for diffusion bonding nickel base and cobalt base superalloys has been developed, which is based on non-chemical oxide removal before the bonding process. Using this method, diffusion bonds were produced in nickel base and cobalt base superalloys with 'virtually invisible' bond interfaces and compositions very close to the bulk alloys. The bonding time required is about 1 h and the results of severe mechanical tests of the bonded samples, including directionally solidified (DS), single crystal and dissimilar superalloys, are very promising. The new oxide removal method is very rapid, does not require the use of any sophisticated equipment and is not a costly process. The high temperature properties of bonded samples are currently being investigated. European and USA patents have been applied for and the details of this new method are to be published in the future.
+OI Shirzadi, Amir A./0000-0002-2897-139X
+SN 1362-1718
+EI 1743-2936
+PD JAN
+PY 2004
+VL 9
+IS 1
+BP 37
+EP 40
+DI 10.1179/136217104225017125
+UT WOS:000220786700005
+ER
+
+PT J
+AU Michon, S
+   Berthod, P
+   Aranda, L
+   Rapin, C
+   Podor, R
+   Steinmetz, P
+AF Michon, S
+   Berthod, P
+   Aranda, L
+   Rapin, C
+   Podor, R
+   Steinmetz, P
+TI Application of thermodynamic calculations to study high temperature
+   behavior of TaC-strengthened Co-base superalloys
+SO CALPHAD-COMPUTER COUPLING OF PHASE DIAGRAMS AND THERMOCHEMISTRY
+AB A database for cobalt-base superalloys was built up by combing the binary and ternary thermodynamic descriptions available in the SSOL (SGTE) database and from the literature. Using this database, results of thermodynamic calculations for several cobalt-base superalloys were compared to the experimentally observed n-microstructure of the alloys after homogenization at high temperatures and quenching. Three examples are presented: prediction of phase equilibria versus temperature and composition; selection of highly refractory materials using isothermal sections; and evaluation of local melting temperature in the case of skin formation of Co-base alloy during air oxidation at 1300 degreesC. The agreement between calculated prediction and experimental observation is satisfactory. (C) 2004 Elsevier Ltd. All rights reserved.
+RI Podor, Renaud/N-3746-2019
+OI Podor, Renaud/0000-0002-8103-1743; BERTHOD, Patrice/0000-0002-8035-927X
+SN 0364-5916
+EI 1873-2984
+PD SEP
+PY 2003
+VL 27
+IS 3
+BP 289
+EP 294
+DI 10.1016/j.calphad.2003.12.003
+UT WOS:000220038100006
+ER
+
+PT J
+AU Lou, D
+   Hellman, J
+   Luhulima, D
+   Liimatainen, J
+   Lindroos, VK
+AF Lou, D
+   Hellman, J
+   Luhulima, D
+   Liimatainen, J
+   Lindroos, VK
+TI Interactions between tungsten carbide (WC) particulates and metal matrix
+   in WC-reinforced composites
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+AB A variety of experimental techniques have been used to investigate the interactions between tungsten carbide (WC-Co 88/12) particulates and the matrix in some new wear resistant cobalt-based superalloy and steel matrix composites produced by hot isostatic pressing. The results show that the chemical composition of the matrix has a strong influence on the interface reaction between WC and matrix and the structural stability of the WC particulates in the composite. Some characteristics of the interaction between matrix and reinforcement are explained by the calculation of diffusion kinetics. The three-body abrasion wear resistance of the composites has been examined based on the ASTM G65-91 standard procedure. The wear behavior of the best composites of this study shows great potential for wear protection applications. (C) 2002 Elsevier Science B.V. All rights reserved.
+SN 0921-5093
+PD JAN 15
+PY 2003
+VL 340
+IS 1-2
+BP 155
+EP 162
+AR PII S0921-5093(02)00173-9
+DI 10.1016/S0921-5093(02)00173-9
+UT WOS:000179261900016
+ER
+
+PT J
+AU Altin, O
+   Eser, S
+AF Altin, O
+   Eser, S
+TI Analysis of carboneceous deposits from thermal stressing of a JP-8 fuel
+   on superalloy foils in a flow reactor
+SO INDUSTRIAL & ENGINEERING CHEMISTRY RESEARCH
+AB A flow reactor study was carried out to investigate the carbon deposition on nickel-, cobalt-, molybdenum-, and iron-based alloy foils during thermal stressing of a JP-8 fuel at 500 degreesC wall temperature and 34 atm (500 psig), for 5 h at a fuel flow rate of 4 mL/min. Temperature-programmed oxidation (TPO) analysis and SEM examination showed that the amount and the nature of the carbonaceous deposits on the foils depend strongly on the chemical composition of the foil surface. The amount of carbon deposited on metal foils decreased in the order Inconel 600 > Havar > Fecralloy > Waspaloy > Hastelloy-C > MoRe > Inconel 718. The presence of minor components, such as Ti, Al, and Nb, in the alloys appears to be responsible for reducing carbon deposition from jet fuel thermal stressing. This effect can be attributed to the formation of a passive layer on alloy surfaces that limits the access of deposit precursors to base metals, Ni, Fe, and Co, that catalyze deposit formation.
+SN 0888-5885
+PD JAN 24
+PY 2001
+VL 40
+IS 2
+BP 589
+EP 595
+DI 10.1021/ie0004489
+UT WOS:000166528400012
+ER
+
+PT J
+AU Purvis, AL
+   Warnes, BM
+AF Purvis, AL
+   Warnes, BM
+TI A study of the diffusional response of refractory and other elements in
+   superalloy systems during diffusion coating
+SO SURFACE & COATINGS TECHNOLOGY
+CT 27th International Conference on Metallurgical Coatings and Thin Films
+CY APR 10-14, 2000
+CL SAN DIEGO, CALIFORNIA
+SP Amer Vacuum Soc, Adv Surface Engn Div
+AB Samples of commercially pure nickel and two common superalloys were prepared by electroplating a thin layer of platinum on the surface, then exposing the samples to temperatures of 950 degreesC and 1080 degreesC for periods of two and six hours. Using electron probe micro analysis (EMPA), elemental composition profiles were obtained from the samples following the diffusion steps. The relative diffusion coefficients for a number of elements were determined using a classical Boltzmann-Matano method. As expected, it was discovered that elements such as cobalt, chromium, titanium and tantalum displayed a significant diffusional response in this relatively short time, while tungsten, molybdenum and rhenium diffused to a lesser degree under these conditions. It was discovered that there is significant interaction between many of the alloying elements in these systems during the diffusion anneal. The limitations of the analytical technique are summarized. (C) 2000 Elsevier Science B.V. All rights reserved.
+SN 0257-8972
+PD NOV
+PY 2000
+VL 133
+BP 23
+EP 27
+DI 10.1016/S0257-8972(00)00890-2
+UT WOS:000165887500005
+ER
+
+PT J
+AU MURRAY, SF
+   CALABRESE, SJ
+AF MURRAY, SF
+   CALABRESE, SJ
+TI LOW-SPEED SLIDING BEHAVIOR OF METAL-CERAMIC COUPLES AT TEMPERATURES UP
+   TO 800-DEGREES-C
+SO LUBRICATION ENGINEERING
+AB The objective of this work was to select a small number of alloys with favorable tribological characteristics and suitable high temperature properties, and evaluate their sliding performance against ceramics as a function of temperature. Five candidate alloys were chosen. They included four alloys containing cobalt and molybdenum, or tungsten and a nickel-base superalloy with good high-temperature strength. All of these alloys are known to form oxide films that protect sliding surfaces from damage at high temperature. These metals were slid against five ceramic flats of different compositions in slow speed reciprocating sliding tests. The test geometry was a metal pin sliding against a ceramic flat. Coefficients of friction and wear rates were measured over a temperature range from 25-degrees to 800-degrees-C.
+   Material transfer from the metals to the ceramics played a major role in most of the results. In the low-to intermediate-temperature range, the transferred films (with the exception of silicon carbide) coated the ceramic surface and sliding was essentially metal vs. the transferred metal film. At higher temperatures, depending on the alloy composition, the transferred films oxidized and provided reasonably low friction and, in some instances, very low wear.
+SN 0024-7154
+PD MAY
+PY 1993
+VL 49
+IS 5
+BP 387
+EP 397
+UT WOS:A1993KZ36100005
+ER
+
+PT J
+AU TAKEDA, K
+   ITO, M
+   TAKEUCHI, S
+   SUDO, K
+   KOGA, M
+   KAZAMA, K
+AF TAKEDA, K
+   ITO, M
+   TAKEUCHI, S
+   SUDO, K
+   KOGA, M
+   KAZAMA, K
+TI EROSION RESISTANT COATING BY LOW-PRESSURE PLASMA SPRAYING
+SO ISIJ INTERNATIONAL
+AB Cavitation erosion and drain erosion are major causes of failure of mechanical devices in fluid handling systems. The authors investigated the application of plasma spraying technique to the formation of coatings with high resistance against the cavitation and drain erosion damage. By using low pressure plasma spraying, some coatings of cermet and metallic alloy materials were prepared and tested for the cavitation erosion behavior. Cobalt base alloy coating shows much more excellent resistance to the erosion than that of Stellite-6, which has been widely used as the wrought product to shield a steam turbine blade from the damage. In spite of the similar chemical composition of the Co alloy to that of Stellite-6, the erosion-performance is different. Microscopic characterization of the deposite reveals that the superiority of the coating is caused by the extended solid solubility of carbon resulted from the rapid solidification of the sprayed droplets.
+SN 0915-1559
+PY 1993
+VL 33
+IS 9
+BP 976
+EP 981
+DI 10.2355/isijinternational.33.976
+UT WOS:A1993LX48600010
+ER
+
+PT J
+AU NAKKALIL, R
+   RICHARDS, NL
+   CHATURVEDI, MC
+AF NAKKALIL, R
+   RICHARDS, NL
+   CHATURVEDI, MC
+TI A STUDY OF PRECIPITATES AND INSOLUBLES IN AN NI-FE-BASED SUPERALLOY BY
+   ANALYTICAL ELECTRON-MICROSCOPY
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+AB This contribution discusses the results of an analytical electron microscopy study of precipitates and insolubles in the Ni-Fe-based superalloy Incoloy 903. The large insolubles in the alloy are observed to be carbides and/or carbonitrides of niobium and titanium. During thermomechanical processing, fine carbides are observed to precipitate on grain boundaries and prior grain boundaries. Also observed to precipitate along the grain boundaries and prior grain boundaries are MN-type (M - Nb, Ti; N = Ni, Co, Fe) phosphides, a phase rich in niobium. The relative proportion of carbides to phosphides is observed to increase with an increase in the final solution treatment temperature, with complete phosphide dissolution at 975-degrees-C/1 h. The phosphides are observed to have an orthorhombic crystal structure with cell dimensions a = 5.99 angstrom, b = 3.35 angstrom and c = 7.06 angstrom. The chemical composition of the coarse carbides, fine carbides and phosphides has been determined. The chemical composition and lattice parameter indicates the phosphides to be based on NbCoP with iron and nickel substituting for some of the cobalt sites.
+SN 0921-5093
+PD SEP 1
+PY 1992
+VL 157
+IS 1
+BP 89
+EP 100
+DI 10.1016/0921-5093(92)90102-7
+UT WOS:A1992JM83000012
+ER
+
+PT J
+AU TRINCKAUF, K
+   NEMBACH, E
+AF TRINCKAUF, K
+   NEMBACH, E
+TI CONCENTRATION GRADIENTS AT THE PHASE-BOUNDARY BETWEEN A
+   GAMMA'-PRECIPITATE AND THE GAMMA-MATRIX OF A SUPERALLOY
+SO ACTA METALLURGICA ET MATERIALIA
+AB After subjecting the gamma'-precipitates in the nickel-base superalloy NIMONIC 105 to an Ostwald ripening treatment, the compositions of the gamma'-particles and of the gamma-matrix were determined by quantitative energy dispersive X-ray analysis (EDX). Next to the gamma-gamma'-phase boundaries, concentration gradients have been found in both phases. Those in the gamma'-precipitates were, however, much steeper than those in the gamma-matrix. The gamma'-layer next to the gamma-gamma'-phase boundary is relatively poor in nickel and aluminium and relatively rich in cobalt and chromium. In contrast to the basic assumptions of current models of Ostwald ripening, diffusion processes within the gamma'-particles are likely to govern their growth. The effects of the concentration gradients on gamma'-strengthening are discussed.
+SN 0956-7151
+PD DEC
+PY 1991
+VL 39
+IS 12
+BP 3057
+EP 3061
+DI 10.1016/0956-7151(91)90038-3
+UT WOS:A1991GU68400012
+ER
+
+EF

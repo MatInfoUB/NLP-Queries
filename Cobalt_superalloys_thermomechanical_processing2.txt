@@ -1,0 +1,3908 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Na, YS
+   Yeom, JT
+   Park, NK
+   Lee, JY
+TI Simulation of microstructures for Alloy 718 blade forging using 3D FEM
+   simulator
+SO JOURNAL OF MATERIALS PROCESSING TECHNOLOGY
+VL 141
+IS 3
+BP 337
+EP 342
+DI 10.1016/S0924-0136(03)00285-1
+PD NOV 1 2003
+PY 2003
+AB Mechanical properties of Ni-Cr-Fe-based Alloy 718 depend very much on
+   the grain size, as well as the presence of strengthening phases, gamma'
+   and gamma". The grain size of superalloy parts can be controlled by the
+   thermo-mechanical processes, including heating, forging and cooling
+   sequences. In order to predict the evolution of grain size in Alloy 718
+   blade forging, a series of constitutive equations for dynamic
+   recrystallization, meta-dynamic recrystallization and grain growth were
+   developed and implemented into a 3D FE simulator. The evolution of grain
+   structure in the process of two-step blade forging of Alloy 718 was
+   simulated using the 3D FE simulator combined with a microstructure
+   module. The microstructure prediction tool was validated by comparing
+   the simulated grain structure with that of the experimental blade-type
+   forging. (C) 2003 Elsevier Science B.V. All rights reserved.
+TC 66
+Z8 31
+ZS 0
+ZB 1
+ZR 0
+Z9 90
+SN 0924-0136
+UT CCC:000186284400006
+ER
+
+PT J
+AU Wang, B
+   Gong, J
+   Sun, C
+   Huang, RF
+   Wen, LS
+TI The behavior of MCrAlY coatings on Ni(3)Al-base superalloy
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 357
+IS 1-2
+BP 39
+EP 44
+DI 10.1016/S0921-5093(03)00254-5
+PD SEP 25 2003
+PY 2003
+AB This work is concerned with NiCrAlY and NiCoCrAlY coatings deposited on
+   the superalloy IC-6 (Ni(3)Al-base superalloy) by arc ion plating (AIP).
+   The results indicated that the presence of Al and Mo in alloy IC-6
+   impeded Cr atoms moving from coatings to substrates during the
+   deposition process. As a consequence, the distribution of Cr is well
+   proportioned in both NiCrAlY and NiCoCrAlY coatings. Vacuum heat
+   treatment drastically increased diffusivities and the coating became
+   more uniform. The interdiffusion also led to the phase transformation in
+   the coatings. Although gamma'-Ni3Al and gamma-Ni were still the major
+   phases in the coating, their lattice constant a(0) decreased. The
+   results of isothermal oxidation showed that the oxidation behavior of
+   coatings obeyed the parabolic rate law. The oxidation resistance was not
+   influenced very much by the presence of Co in the NiCrAlY coating at 900
+   degreesC static atmosphere. NiCoCrAlY coating had poorer oxidation
+   resistance than NiCrAlY coating when they were exposed at 1000 degreesC.
+   (C) 2003 Elsevier Science B.V. All rights reserved.
+ZR 0
+ZB 0
+ZS 0
+Z8 7
+TC 41
+Z9 45
+SN 0921-5093
+UT CCC:000184767100006
+ER
+
+PT J
+AU Yang, ZG
+   Weil, KS
+   Paxton, DM
+   Stevenson, JW
+TI Selection and evaluation of heat-resistant alloys for SOFC interconnect
+   applications
+SO JOURNAL OF THE ELECTROCHEMICAL SOCIETY
+VL 150
+IS 9
+BP A1188
+EP A1201
+DI 10.1149/1.1595659
+PD SEP 2003
+PY 2003
+AB Over the past several years, advances in the design and fabrication of
+   planar solid oxide fuel cells (SOFCs) have led to a steady reduction in
+   the temperatures necessary for their operation. Consequently, it appears
+   more realistic now to use low cost heat-resistant alloys for
+   interconnect components in the SOFC stack. However, no specific criteria
+   or inclusive study are available as a reference to help select and
+   evaluate suitable candidates from the hundreds of available
+   heat-resistant alloy compositions, which overall demonstrate oxidation
+   resistance at high temperatures. In this work, composition criteria have
+   been proposed for the preselection of heat-resistant compositions, such
+   as Ni-, Fe-, and Co-based superalloys, Cr-based alloys, and stainless
+   steels. The proposed criteria have been employed to establish a database
+   of heat-resistant alloys at Pacific Northwest National Laboratory, where
+   a systematic approach has been initiated to evaluate and modify and/or
+   develop alloys for SOFC interconnect applications. The preselected
+   compositions are further evaluated by referring in-house studies and
+   reference to published data. It appears that it would be difficult for
+   traditional alloys to fully satisfy the materials requirements for
+   long-term operation at temperatures higher than 700degreesC. However,
+   the applicability can be improved via surface/bulk modification and by
+   the implementation of novel stack designs. (C) 2003 The Electrochemical
+   Society.
+ZS 0
+ZR 0
+Z8 7
+ZB 0
+TC 291
+Z9 295
+SN 0013-4651
+UT CCC:000184673100007
+ER
+
+PT J
+AU Rao, GA
+   Kumar, M
+   Srinivas, M
+   Sarma, DS
+TI Effect of standard heat treatment on the microstructure and mechanical
+   properties of hot isostatically pressed superalloy inconel 718
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 355
+IS 1-2
+BP 114
+EP 125
+DI 10.1016/S0921-5093(03)00079-0
+PD AUG 25 2003
+PY 2003
+AB Ni-Fe base superalloy, Inconel 718, was processed through powder
+   metallurgy (P/M) hot isostatic pressing (HIP) route. In order to balance
+   the strength and ductility, the HIPed material was given the standard
+   heat treatment, viz. solution treatment at 980 degreesC for 1 h/water
+   quenched (WQ) to room temperature and a two-step ageing treatment
+   consisting of 720 degreesC for 8 h/furnace cooling (FC) at 55 degreesC
+   h(-1) to 620 degreesC and holding at 620 degreesC for 8 h before air
+   cooling (AC) to room temperature. Optical microscopy and scanning
+   electron microscopy (SEM) studies on the heat treated alloy have shown a
+   homogeneous microstructure with fine grain size (25 mum) along with the
+   presence of prior particle boundary (PPB) networks. Transmission
+   electron microscopy (TEM) on the heat treated material has revealed the
+   presence of oxides, MC carbides and delta-precipitates at the grain
+   boundaries and a uniform precipitation of fine gamma" and gamma'
+   strengthening phases in the matrix. Tensile and stress rupture tests
+   were performed on the heat treated material. While the yield strength
+   (YS) and ultimate tensile strength (UTS) of the HIPed and heat treated
+   alloy at room temperature and 650 degreesC were comparable to those of
+   conventionally processed wrought IN 718, its ductility was lower. The
+   stress rupture life of the HIPed alloy improved marginally due to heat
+   treatment and met the minimum specification requirement of life hours
+   but the rupture ductility was found to be inferior to that of the
+   wrought material. The fractography of the failed samples has revealed
+   the transgranular ductile mode of fracture in the as-solution treated
+   alloy, while intergranular mode of failure with the decohesion of PPBs
+   occurred more predominantly in the aged condition. This change of
+   fracture mode with ageing treatment shows the ductility dependence on
+   the relative strength of the matrix and PPBs. The TEM studies on the
+   deformed alloy have revealed that the brittle oxides and carbides at the
+   prior particle boundaries coupled with the fine gamma" and
+   gamma'-precipitates in the matrix are responsible for low ductility at
+   650 degreesC. The investigations of the present study have led to better
+   understanding of the structure-property relationships in HIP+heat
+   treated alloy 718 and suggest that the standard heat treatment
+   recommended for wrought IN 718 is not suitable for HIPed alloy and has
+   to be modified to realise optimum properties. (C) 2003 Elsevier Science
+   B.V.. All rights reserved.
+TC 154
+ZB 0
+Z8 35
+ZS 0
+ZR 0
+Z9 171
+SN 0921-5093
+UT CCC:000184208500015
+ER
+
+PT J
+AU Liu, LF
+   Tanaka, K
+   Hirose, A
+   Kobayashi, KF
+TI Experimental and numerical analyses of the mechanism for decreasing
+   hydrogen-embrittlement sensitivity of aged Inconel 718 by laser surface
+   annealing
+SO JOURNAL OF LASER APPLICATIONS
+VL 15
+IS 3
+BP 134
+EP 144
+DI 10.2351/1.1585080
+PD AUG 2003
+PY 2003
+AB Laser surface annealing (LSA) treatments were conducted to decrease the
+   hydrogen embrittlement (HE) sensitivity of Inconel 718. Hydrogen was
+   charged into the alloy by a cathodic-charging process. The LSA treatment
+   significantly reduced the strength loss of the hydrogen-precharged
+   notched specimen. Tensile tests and elasto-plastic simulations were
+   performed to study how LSA affects the HE sensitivity of the as-aged
+   Inconel 718. Various heat treatments were applied to the notched tensile
+   specimens to obtain different precipitation states of gamma". All
+   tensile tests were conducted in air at room temperature under identical
+   conditions. One specimen of each kind was free of hydrogen; another was
+   charged with hydrogen prior to the tensile test. A correlation between
+   the HE sensitivity and the precipitation state of the alloy was
+   confirmed by assessing the loss in the notch tensile strength due to
+   hydrogen pre-charging. The gamma" particles, especially those in the
+   surface layers, were proved to have deleterious effects on the HE
+   sensitivity of Inconel 718. Fractures originated from the surface
+   vicinity in the as-aged specimen when there was precharged hydrogen.
+   However, hydrogen-induced fractures in the LSA-treated specimen
+   originated in the deep region of the laser-annealed surface layer.
+   Stress concentration conditions at the notch roots were studied via
+   elasto-plastic finite element method simulations. The area of most
+   highly concentrated stress of the LSA-treated specimen was in deep layer
+   of the laser-annealed notch region where the material was partly
+   annealed. The formation of the annealed surface layer that has better HE
+   resistance than the as-aged alloy, and the migration of the fracture
+   origin to deeper layers were considered to be the mechanism for
+   decreasing the HE sensitivity by the LSA. Further, the partly annealed
+   raw alloys with strength comparable to the LSA-treated specimens were
+   found to have much higher HE sensitivities than the corresponding
+   LSA-treated specimens. Both the experimental results and the simulation
+   results suggested that the LSA caused the fracture origins to migrate
+   from surface to deep layers. It is possible to reduce the HE sensitivity
+   of Inconel 718 without sacrificing its strength by applying LSA to
+   produce locally annealed surface zones. (C) 2003 Laser Institute of
+   America.
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+TC 3
+Z9 3
+SN 1042-346X
+UT CCC:000184665800002
+ER
+
+PT J
+AU Chang, JC
+   Yun, YH
+   Choi, C
+   Kim, JC
+TI Development of microstructure and mechanical properties of a Ni-base
+   single-crystal superalloy by hot-isostatic pressing
+SO JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE
+VL 12
+IS 4
+BP 420
+EP 425
+DI 10.1361/105994903770342953
+PD AUG 2003
+PY 2003
+AB Effects of the hot-isostatic pressing (HIP) process on microstructures
+   and mechanical properties of Ni-base single crystal superalloy CMSX-4
+   were investigated. In the overall heat treatment process, the HIP
+   treatment remarkably induced the healing behavior of micropores and
+   decreased the pore size and porosity of superalloy CMSX-4 compared with
+   normally treated specimens. The microstructure of gamma' phase after the
+   HIP process showed rather a coarsening tendency and could be developed
+   by the partially solution and aging treatment. Consequently, the
+   elimination of cast micropores using the HIP step resulted in the
+   inhibition of crack initiation in microstructure and improved the
+   stress-rupture lives of Ni-base single crystal superalloy by 185%.
+Z8 6
+ZS 0
+ZB 0
+ZR 0
+TC 16
+Z9 19
+SN 1059-9495
+UT CCC:000184811600009
+ER
+
+PT J
+AU Liu, F
+   Wang, YC
+   Zhang, H
+   Ai, SH
+   Wang, ZG
+TI Evolutionary stress cycle behaviour and damage mechanisms in nickel
+   based superalloy under thermomechanical fatigue
+SO MATERIALS SCIENCE AND TECHNOLOGY
+VL 19
+IS 7
+BP 853
+EP 858
+DI 10.1179/026708303225010786
+PD JUL 2003
+PY 2003
+AB Both in phase and out of phase thermomechanical fatigue (TMF) tests were
+   conducted using a computer controlled, servohydraulic uniaxial fatigue
+   system. The TMF behaviour of nickel based superalloy K417 was
+   investigated. The experimental results show that, in comparison with
+   isothermal low cycle fatigue, both in phase and out of phase TMF lead to
+   much reduced fatigue lives, although there is a difference between the
+   in phase and out of phase cases. Creep and oxidation are the main
+   concerns in the lower fatigue life of in phase TMF. The cyclic hardening
+   at initial cycles results from the obstacle of gamma' precipitates to
+   the slipping dislocations and the increase in dislocation density owing
+   to deformation. Shearing of gamma' precipitates and loss of coherency of
+   gamma' precipitates with the matrix at high temperatures are the reasons
+   for cyclic softening at later stages of fatigue life.
+ZR 0
+TC 7
+Z8 1
+ZB 0
+ZS 0
+Z9 8
+SN 0267-0836
+UT CCC:000184340800003
+ER
+
+PT J
+AU Chen, LJ
+   Liaw, PK
+   McDaniels, RL
+   Klarstrom, DL
+TI The low-cycle fatigue and fatigue-crack-growth behavior of HAYNES (R)
+   HR-120 alloy
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+VL 34A
+IS 7
+BP 1451
+EP 1460
+DI 10.1007/s11661-003-0257-z
+PD JUL 2003
+PY 2003
+AB The low-cycle fatigue and fatigue-crack-growth behavior of the HAYNES
+   HR-120 alloy was investigated over the temperature range of 24 degreesC
+   to 980 degreesC in laboratory air. The result showed that increasing the
+   temperature usually led to a substantial decrease in the low-cycle
+   fatigue life. The reduction of fatigue life could be attributed to
+   oxidation and dynamic strain-aging (DSA) processes. The strain vs
+   fatigue-life data obtained at different temperatures were analyzed. It
+   was also found that the fatigue-crack-growth rate per cycle generally
+   increased with increasing temperature and R ratio (R =
+   sigma(min)/sigma(max), where sigma(min) and sigma(max) are the applied
+   minimum and maximum stresses, respectively). The relationship between
+   the stress-intensity-factor range and fatigue-crack-growth rate was
+   determined. Scanning-electron-microscopy (SEM) examinations of the
+   fracture surfaces revealed that the fatigue cracks initiated and
+   propagated predominantly in a transgranular mode.
+ZR 0
+ZS 0
+TC 11
+Z8 1
+ZB 0
+Z9 12
+SN 1073-5623
+UT CCC:000184051100005
+ER
+
+PT J
+AU Lindemann, J
+   Grossmann, K
+   Wagner, L
+TI Influence of mechanical surface treatments on the HCF performance of the
+   Ni-superalloy udimet 720 LI
+SO ZEITSCHRIFT FUR METALLKUNDE
+VL 94
+IS 6
+BP 711
+EP 715
+DI 10.3139/146.030711
+PD JUN 2003
+PY 2003
+AB Shot peening was performed on smooth (geometrical notch factor k(t) =
+   1.0) and circumferentially notched (k(t) = 2.3 and 3.5) specimens. In
+   addition, some notched (k(t) = 3.5) specimens were deep rolled. Axial
+   fatigue tests were done at room temperature and 650degreesC using a
+   stress ratio of R = 0.1. At ambient temperature, shot peening markedly
+   increased the high-cycle fatigue (HCF) strengths at R = 0.1 of smooth
+   and, particularly, notched specimens with respect to the electropolished
+   reference samples. In contrast, shot peening was found to decrease the
+   HCF strength of smooth samples at elevated temperature (650degreesC)
+   while the HCF strength of notched specimens was slightly increased. Best
+   elevated-temperature HCF strength of notched conditions was observed
+   after deep rolling.
+ZR 0
+TC 8
+Z8 0
+ZS 0
+ZB 0
+Z9 8
+SN 0044-3093
+UT CCC:000220697900011
+ER
+
+PT J
+AU Gomez, X
+   Echeberria, J
+TI Microstructure and mechanical properties of carbon steel A210-superalloy
+   Sanicro 28 bimetallic tubes
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 348
+IS 1-2
+BP 180
+EP 191
+DI 10.1016/S0921-5093(02)00686-X
+PD MAY 15 2003
+PY 2003
+AB The viability by hot co-extrusion of a new bimetallic tube: carbon steel
+   A-210-GdegreesAl/iron based superalloy Sanicro 28 (UNS N08028) both by
+   hot torsion tests and by diffusion bonding experiments using hipping has
+   been verified. An excellent metallurgical bond was obtained after the
+   industrial hot co-extrusion process. Both the interdiffusion of the
+   elements across the interface, and the microstructure have been analysed
+   by optical microscopy, SEM, TEM and EBSD (electron backscattered
+   diffraction). On the Sanicro 28 side a profuse precipitation of Cr/Mo
+   carbides was found in the region close to the interface. In the hipped
+   specimens and in the heat-treated bimetallic tubes, as result of the
+   nickel and chromium diffusion from the superalloy to the carbon steel,
+   austenite and martensite sub-bands were observed parallel to the
+   interface on the steel side. The optimum heat treatment performed on the
+   bimetallic tubes consisted of an austenitising-solution treatment at
+   1100 degreesC, and a stabilisation annealing at 900 degreesC, followed
+   by air cooling. (C) 2002 Elsevier Science B.V. All rights reserved.
+RI Gomez, Xabier/AAI-1493-2019; Gomez, Xabier/
+OI Gomez, Xabier/0000-0002-7493-7598
+ZR 0
+ZB 0
+TC 35
+Z8 12
+ZS 0
+Z9 45
+SN 0921-5093
+UT CCC:000181508700022
+ER
+
+PT J
+AU Muller, J
+   Neuschutz, D
+TI Efficiency of alpha-alumina as diffusion barrier between bond coat and
+   bulk material of gas turbine blades
+SO VACUUM
+VL 71
+IS 1-2
+BP 247
+EP 251
+DI 10.1016/S0042-207X(02)00746-7
+PD MAY 9 2003
+PY 2003
+AB Gas turbine blades are often covered with protective coatings to
+   withstand the high thermal and corrosive loads during operation. One of
+   the most effective coating systems used consists of a MCrAlY bond coat
+   and a YSZ thermal barrier coating. At high operating temperatures, a
+   depletion of aluminum in the bond coat occurs not only due to the
+   formation of thermally grown oxide (TGO), but also due to interdiffusion
+   between bond coat and substrate. Other elements, e.g. Ti, may diffuse
+   outwards and lead to spallation of TGO. Exclusion of these
+   interdiffusion effects could prevent premature coating failure.
+   a-alumina was deposited as a diffusion barrier by CVD on a nickel-based
+   superalloy (CMSX-4) and then coated with NiCoCrAlY and ZrO(2). The
+   thickness of the coatings was 3, 20 and 500 gm, respectively. The
+   samples were annealed at 1373 K for 100 h in argon atmosphere. All
+   samples were analyzed by XRD, SEM and WDX to investigate the efficiency
+   of the diffusion barrier. No delamination or cracks were observed except
+   vertical segmentation cracks in the TBC. The diffusion barrier remained
+   intact suppressing any noticeable interdiffusion, while the adhesion
+   still needs to be improved. (C) 2003 Elsevier Science Ltd. All rights
+   reserved.
+ZR 0
+ZB 1
+ZS 0
+Z8 15
+TC 73
+Z9 85
+SN 0042-207X
+UT CCC:000182621900042
+ER
+
+PT J
+AU Bruno, G
+   Pinto, HC
+TI Precipitation kinetics of gamma ' phase in nickel base superalloy SC16:
+   an in situ neutron diffraction study
+SO MATERIALS SCIENCE AND TECHNOLOGY
+VL 19
+IS 5
+BP 567
+EP 572
+DI 10.1179/026708303225002145
+PD MAY 2003
+PY 2003
+AB An in situ study of the kinetics of nucleation and growth of the gamma'
+   phase in the single crystal Ni base superalloy SC16 was carried out by
+   means of neutron diffraction. The investigation was aimed at a better
+   understanding of the fundamental kinetic phenomena, in view of the
+   optimisation of the heat treatments applied prior to the industrial use
+   of the alloy. On heating above the solvus point (1525 K) the gamma'
+   phase decomposes, and when cooling down back towards lower temperatures,
+   it reappears. Measuring superlattice reflections allows the different
+   stages of decomposition, nucleation, growth and concurrent coarsening to
+   be followed. Results show that at temperatures T less than or equal to
+   1490 K an increasing volume fraction of gamma' can be found with
+   decreasing temperature, until saturation occurs at around 1100 K.
+   Following classical kinetic theory, an Avrami like growth (time) law was
+   used at each aging temperature and the isothermal reaction rates
+   calculated. They show a maximum at around 1300 K, where the competing
+   nucleation and growth processes find equilibrium. Nucleation and growth
+   can be described with a modified Arrhenius law, analogous to that used
+   for eutectoid reactions. The reaction rate first increases with the
+   undercooling and then decreases. This implies a change in the character
+   of the reaction, which was found to be initially surface and then bulk
+   driven.
+RI Pinto, Haroldo/A-4174-2016; Bruno, Giovanni/E-2817-2013
+OI Pinto, Haroldo/0000-0002-8007-5832; Bruno, Giovanni/0000-0001-9632-3960
+ZR 0
+TC 5
+ZB 0
+Z8 0
+ZS 0
+Z9 5
+SN 0267-0836
+UT CCC:000183486800004
+ER
+
+PT J
+AU Kang, B
+   Liu, XB
+   Cisloiu, C
+   Chang, KM
+TI High temperature moire interferometry investigation of creep crack
+   growth of Inconel 783 - environment and beta-phase effects
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 347
+IS 1-2
+BP 205
+EP 213
+DI 10.1016/S0921-5093(02)00594-4
+PD APR 25 2003
+PY 2003
+AB The effect of beta-phase and environment on creep crack growth behavior
+   of Inconel 783, the newly developed low thermal expansion superalloy,
+   was investigated using high temperature moire interferometry. Results
+   show that oxygen partial pressure plays an important role on the creep
+   crack growth behaviors of the alloy. Stress assisted grain boundary
+   oxygen (SAGBO) embrittlement is the principal mechanism of the
+   environmental degradation of the alloy. beta-Phase network along the
+   grain boundaries of the alloy improves the resistance to creep crack
+   growth by improving the ductility of the alloy and preventing the
+   occurrence of SAGBO embrittlement. (C) 2002 Published by Elsevier
+   Science B.V.
+TC 16
+ZS 0
+Z8 3
+ZB 0
+ZR 0
+Z9 16
+SN 0921-5093
+UT CCC:000181116400024
+ER
+
+PT J
+AU Wilson, BC
+   Hickman, JA
+   Fuchs, GE
+TI The effect of solution heat treatment on a single-crystal Ni-based
+   superalloy
+SO JOM-JOURNAL OF THE MINERALS METALS & MATERIALS SOCIETY
+VL 55
+IS 3
+BP 35
+EP 40
+DI 10.1007/s11837-003-0158-z
+PD MAR 2003
+PY 2003
+AB Understanding of the solution heat treatment response of a second
+   generation, single-crystal nickel-based superalloy, CMSX-4, is necessary
+   before the process can be shortened in an effort to save money. The
+   current solution heat treatment used for CMSX-4 involves high
+   temperatures for long durations and can be quite expensive. This
+   investigation helps to characterize the heat-treatment process for this
+   alloy. The achieved microstructure is described for both the as-cast and
+   fully solution-annealed conditions. In addition, an alternate, less
+   expensive heat treatment was selected for its lower temperatures and
+   shorter overall duration. Microstructures and differential thermal
+   analysis are presented for all three conditions.
+Z8 11
+ZR 0
+ZS 0
+ZB 0
+TC 59
+Z9 65
+SN 1047-4838
+UT CCC:000181624500007
+ER
+
+PT J
+AU Tancret, F
+   Bhadeshia, HKDH
+TI Design of a creep resistant nickel base superalloy for power plant
+   applications - Part 2 - Phase diagram and segregation simulation
+SO MATERIALS SCIENCE AND TECHNOLOGY
+VL 19
+IS 3
+BP 291
+EP 295
+DI 10.1179/026708303225009797
+PD MAR 2003
+PY 2003
+AB Models have been developed and used as tools to design a new 'made to
+   measure' nickel base superalloy for power plant applications. In Part I
+   Gaussian processes were used to model the mechanical properties of
+   superalloys, and have been used as a basis for the design of a new
+   Ni-Cr-W-Al-Ti-Fe-Si-C-B superalloy with desirable properties. In this
+   part, an attempt has been made to design against the formation of
+   undesirable phases, and to calculate the solidification range, forging
+   window and heat treatment, using phase diagram calculations. The
+   potential for chemical segregation has also been estimated following
+   Scheil's assumptions, and remains acceptable.
+OI Tancret, Franck/0000-0001-8960-4406
+Z8 0
+ZR 0
+TC 15
+ZS 0
+ZB 0
+Z9 15
+SN 0267-0836
+UT CCC:000182841600003
+ER
+
+PT J
+AU Meurer, B
+   Spencer, PJ
+   Neuschutz, D
+TI Simulation of solidification and heat treatment of nickel-base
+   superalloy SC16
+SO ZEITSCHRIFT FUR METALLKUNDE
+VL 94
+IS 2
+BP 139
+EP 143
+DI 10.3139/146.030139
+PD FEB 2003
+PY 2003
+AB Thermodynamic equilibrium and Gulliver-Scheil as well as diffusion
+   calculations using the DICTRA program have been made to simulate
+   solidification and heat treatment of the nickel-base superalloy SC16.
+   These simulations were validated by comparing them with own and
+   literature experiments concerning directional solidification, heat
+   treatment and differential thermal analysis (DTA) cycles. Equilibrium
+   calculations predicted very well the element distribution in homogenized
+   samples. Gulliver-Scheil based on the CALPHAD method and modified to
+   serve multi-component systems proved to deliver sufficiently correct
+   data for the directional solidification of SC16. The element
+   distribution obtained after cooling below the solvus temperature and by
+   DTA heating and cooling cycles was, however, only described with
+   acceptable precision by applying the diffusion model. All these models
+   require a sound multicomponent thermodynamic data set. Since DICTRA
+   needs much more computing time than the other models it should only be
+   applied wherever its higher precision is actually asked for.
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 6
+Z9 6
+SN 0044-3093
+UT CCC:000220697500010
+ER
+
+PT J
+AU Selcuk, A
+   Atkinson, A
+TI The evolution of residual stress in the thermally grown oxide on Pt
+   diffusion bond coats in TBCs
+SO ACTA MATERIALIA
+VL 51
+IS 2
+BP 535
+EP 549
+DI 10.1016/S1359-6454(02)00436-6
+PD JAN 22 2003
+PY 2003
+AB The evolution of residual stress in the thermally grown oxide (TGO),
+   formed on bond coats (BC) produced by diffusion of Pt into a Ni-based
+   superalloy, has been studied as a function of thermal cycling using
+   photo-luminescence piezo-spectroscopy through the yttria-stabilised
+   zirconia (YSZ) thermal barrier coating. The luminescence spectra were
+   analysed in terms of a high stress and a low stress contribution to the
+   residual stress sampled at a single analysis point (approx. 20 mum in
+   size); the low stress contribution being caused by either local TGO
+   fractures or interfacial delamination The mean compressive residual
+   stress increases during the first two thirds of the lifetime due to
+   gradual stiffening of the non-planar TGO as it thickens and becomes more
+   resistant to bending. In the last third of life the mean stress tends to
+   decrease due to relaxation by increasingly numerous local damage events.
+   This is more pronounced as a dramatic increase in the parameters that
+   quantify the extent of the low stress contributions. Spatial mapping of
+   the low stress contributions shows that they are isolated at first, but
+   become more numerous towards the end of life and coalesce into larger
+   regions of damage a few hundred mum in size. Eventual spallation is by
+   unstable delamination at the BC/TGO interface and the stored elastic
+   energy released is between 40 and 80 J m(-2). The lifetime is governed
+   by the growth of the local damage regions until one (probably near an
+   edge) reaches a critical size above which it propagates in a highly
+   unstable way over most of the interface. (C) 2002 Acta Materialia Inc.
+   Published by Elsevier Science Ltd. All rights reserved.
+OI Atkinson, Alan/0000-0001-8892-0706
+ZB 0
+ZS 0
+Z8 7
+TC 54
+ZR 0
+Z9 58
+SN 1359-6454
+UT CCC:000180844800020
+ER
+
+PT J
+AU Liu, XB
+   Kang, B
+   Chang, KM
+TI The effect of hold-time on fatigue crack growth behaviors of WASPALOY
+   alloy at elevated temperature
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 340
+IS 1-2
+BP 8
+EP 14
+DI 10.1016/S0921-5093(02)00074-6
+PD JAN 15 2003
+PY 2003
+AB The effect of hold-time on fatigue crack growth behaviors of WASPALOY
+   alloy was investigated. It was found that the role of hold-time depends
+   on the competition between the harmful environmental effect and the
+   beneficial effect of creep. If temperature is not higher than 705
+   degreesC, fatigue crack growth rate of WASPALOY alloy increases with
+   hold-time. On the contrary, hold-time plays a beneficial role on steady
+   state fatigue crack growth of WASPALOY alloy at 760 degreesC and lower
+   stress intensity factor. The beneficial effect of hold-time was
+   attributed to the creep caused stress relaxation during the hold-time.
+   However, accumulated creep damages cause to cavity nucleation and growth
+   at the grain boundaries, and then accelerate fatigue crack growth.
+   Hold-time plays a harmful role during the final stage of fatigue crack
+   growth. Published by Elsevier Science B.V.
+ZR 0
+Z8 16
+ZS 0
+TC 25
+ZB 0
+Z9 36
+SN 0921-5093
+UT CCC:000179261900002
+ER
+
+PT J
+AU Hermann, W
+   Lacoze, J
+   Oquab, D
+TI Effect of different heat treatments on microstructure and segregation of
+   a nickel base alloy
+SO ADVANCED ENGINEERING MATERIALS
+VL 5
+IS 1-2
+BP 32
+EP 37
+DI 10.1002/adem.200390003
+PD JAN 2003
+PY 2003
+TC 4
+ZR 0
+Z8 1
+ZB 0
+ZS 0
+Z9 5
+SN 1438-1656
+UT CCC:000181250100008
+ER
+
+PT J
+AU Iyer, SK
+   Lissenden, CJ
+TI Multiaxial constitutive model accounting for the strength-differential
+   in Inconel 718
+SO INTERNATIONAL JOURNAL OF PLASTICITY
+VL 19
+IS 12
+BP 2055
+EP 2081
+DI 10.1016/S0749-6419(03)00059-7
+PD 2003
+PY 2003
+AB The nickel-base alloy Inconel 718 exhibits a strength-differential, that
+   is, a different plastic flow behavior in uniaxial tension and uniaxial
+   compression. A phenomenological viscoplastic model founded on
+   thermodynamics has been extended for material behavior that deviates
+   from classical metal plasticity by including all three stress invariants
+   in the threshold function. The model can predict plastic flow in
+   isotropic materials with or without a flow stress asymmetry as well as
+   with or without pressure dependence. Viscoplastic material parameters
+   have been fit to pure shear, uniaxial tension, and uniaxial compression
+   experimental results at 650degreesdegreesC. Threshold function material
+   parameters have been fit to the strength-differential. Four classes of
+   threshold functions have been considered and nonproportional loading of
+   hollow tubes, such as shear strain followed by axial strain, has been
+   used to select the most applicable class of threshold function for the
+   multiaxial model as applied to Inconel 718 at 650 degreesC. These
+   nonproportional load paths containing corners provide a rigorous test of
+   a plasticity model, whether it is time-dependent or not. A J(2)J(3)
+   class model, where J(2) and J(3) are the second and third effective
+   deviatoric stress invariants, was found to agree the best with the
+   experimental results. (C) 2003 Elsevier Ltd. All rights reserved.
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+TC 40
+Z9 40
+SN 0749-6419
+UT CCC:000185218900003
+ER
+
+PT J
+AU Bruno, G
+   Pinto, HC
+   Reimers, W
+TI gamma ' nucleation and growth in the nickel-base superalloy SC16
+SO APPLIED PHYSICS A-MATERIALS SCIENCE & PROCESSING
+VL 74
+BP S940
+EP S942
+DI 10.1007/s003390101165
+PN 2
+SU S
+PD DEC 2002
+PY 2002
+AB An in situ study of the kinetics of the nucleation and growth of the
+   gamma' phase in the single-crystal Ni-base superalloy SC16 was carried
+   out by means of neutron diffraction. This alloy has industrial
+   applications (turbine blades for power generation) and is of scientific
+   interest because of its modelling properties (small number of
+   components). Upon cooling after solutionising the gamma' phase at T(s) =
+   1250 degreesC (the solvus temperature), the gamma' precipitates
+   reappear. The different stages of the nucleation and growth of gamma',
+   as well as the successive (concurrent) coarsening, could be followed
+   using a superstructure reflection. Results show that at T less than or
+   equal to 1200 degreesC an increasing volume fraction of gamma' can be
+   found with decreasing temperature, saturation occurring around 800
+   degreesC. Holding the alloy at a constant temperature, an Avrami-like
+   growth law is applicable; the isothermal reaction rates have a maximum
+   around 1050degreesC, where the competing processes are in equilibrium.
+   This explains the pseudo-Arrhenius behaviour, which does not agree with
+   an Ostwald ripening (i.e. with a pure Lifschitz-Slyozov-Wagner
+   size-distribution law).
+RI Bruno, Giovanni/E-2817-2013; Pinto, Haroldo/A-4174-2016
+OI Bruno, Giovanni/0000-0001-9632-3960; Pinto, Haroldo/0000-0002-8007-5832
+TC 3
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+Z9 3
+SN 0947-8396
+UT CCC:000181219600003
+ER
+
+PT J
+AU Shirvani, K
+   Saremi, M
+   Nishikata, A
+   Tsuru, T
+TI The role of silicon on microstructure and high temperature performance
+   of aluminide coating on superalloy In-738LC
+SO MATERIALS TRANSACTIONS
+VL 43
+IS 10
+BP 2622
+EP 2628
+DI 10.2320/matertrans.43.2622
+PD OCT 2002
+PY 2002
+AB The microstructures of slurry Si-modified aluminide coatings on Ni-base
+   superalloy In-738LC have been investigated using SEM, TEM, EDS and XRD.
+   The corrosion performance of the coatings has been also investigated by
+   hot corrosion and cyclic oxidation tests. In order to evaluate the hot
+   corrosion performance, the anodic polarization curves were measured in
+   Na4SO4-25 mol%NaVO3-5 mol%NaCl at 1053 K. The cyclic oxidation test was
+   carried out by exposure to alternate conditions of air atmosphere at
+   1373 K and room temperature. The analyses of SEM, EDS and XRD were also
+   used to characterize attack morphologies of the coatings exposed to the
+   test conditions. The results showed that the heat-treated slurry
+   Si-modified aluminide coating was composed of beta-NiAl phase including
+   fine precipitates, which were found to be complex silicides. The results
+   of hot corrosion tests indicated that at least 10-13 mass%Si in the
+   coating layer is needed to improve the corrosion resistance of the
+   aluminide coating. The coatings that met this criterion also showed a
+   good cyclic oxidation resistance.
+RI Saremi, MOHSEN/W-3244-2018
+TC 19
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+Z9 19
+SN 1345-9678
+UT CCC:000179213300044
+ER
+
+PT J
+AU Preuss, M
+   Pang, JWL
+   Withers, PJ
+   Baxter, GJ
+TI Inertia welding nickel-based superalloy: Part II. Residual stress
+   characterization
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+VL 33
+IS 10
+BP 3227
+EP 3234
+DI 10.1007/s11661-002-0308-x
+PD OCT 2002
+PY 2002
+AB The next generation of Ni-based alloys for aeroengines are richer in
+   gamma' than existing alloys and are more difficult to weld by
+   conventional means. Inertia welding is Currently being developed as a
+   joining technique for these alloys. Steep microstructural gradients have
+   been observed in nickel-based superalloy RR1000 tube structures welded
+   by inertia friction welding, ([1]) and in this article, the concomitant
+   residual stresses are mapped at depth using neutron diffraction. One
+   tube in the as-welded and two in the postweld heat-treated (PWHT)
+   condition have been investigated. In the case of the as-welded specimen,
+   it was necessary to establish the variation of the stress-free lattice
+   parameter, a(0), across the weld line to infer elastic strain from
+   lattice spacing changes. A biaxial sin(2) psi measurement on thin slices
+   was used to determine an as a function of the axial position from the
+   weld line. This was in excellent agreement With the variation inferred
+   by imposing a stress balance on the axial measurements. The change of
+   a(0) across the weld line can be rationalized in terms of the observed
+   variation in the element partitioning effect between the matrix (gamma)
+   and the precipitates (gamma'). It was found that the residual stresses
+   in the weld and heat-affected zone generated by the welding process are
+   large, especially close to the inner diameter of the welded ring. The
+   experimental results have shown that, in order to relax the residual
+   stresses sufficiently, the heat-treatment temperature must be increased
+   by 50 degreesC over the conventional heat-treatment temperature. This is
+   due to the high gamma' content of RR1000.
+RI Preuss, Michael/D-5847-2016; Withers, Phil/A-6760-2009
+OI Preuss, Michael/0000-0003-3806-0415; Withers, Phil/0000-0002-1946-5647
+TC 39
+ZS 0
+ZR 0
+ZB 0
+Z8 2
+Z9 40
+SN 1073-5623
+UT CCC:000178508600017
+ER
+
+PT J
+AU Bruni, C
+   Forcellese, A
+   Gabrielli, F
+TI Hot workability and models for flow stress of NIMONIC 115 Ni-base
+   superalloy
+SO JOURNAL OF MATERIALS PROCESSING TECHNOLOGY
+VL 125
+SI SI
+BP 242
+EP 247
+DI 10.1016/S0924-0136(02)00302-3
+PD SEP 9 2002
+PY 2002
+AB The hot workability of the nickel-base alloy NIMONIC 115 has been
+   investigated by means of torsion testing in extended ranges of strain
+   rate (0.01-1 s(-1)) and temperature (1140-1180 degreesC). The flow
+   curves have shown, in general, an increase in equivalent stress up to a
+   peak value followed by a softening until rupture. At 1140 degreesC, for
+   strain rates varying between 0.01 and 1 s(-1), the peak in flow stress
+   is followed by a marked softening up to a steady state condition which
+   can be attributed to the occurrence of dynamic recrystallisation. The
+   hot ductility vs. true temperature, occurring during torsion tests, has
+   been analysed. Flow behaviour of NIMONIC 115 alloy vs. process
+   parameters has been modelled by means of an equation relating the
+   hyperbolic sine of flow stress to the temperature-modified strain rate.
+   The results have been analysed and discussed. (C) 2002 Elsevier Science
+   B.V. All rights reserved.
+OI Gabrielli, Filippo/0000-0003-3875-2809; Forcellese,
+   Archimede/0000-0003-1380-4596
+ZS 0
+Z8 18
+ZB 0
+ZR 0
+TC 38
+Z9 48
+SN 0924-0136
+UT CCC:000178405200033
+ER
+
+PT J
+AU Kobayashi, T
+   Koizumi, Y
+   Yokokawa, T
+   Harada, H
+TI Development of a 4th generation DS superalloy
+SO JOURNAL OF THE JAPAN INSTITUTE OF METALS
+VL 66
+IS 9
+BP 897
+EP 900
+DI 10.2320/jinstmet1952.66.9_897
+PD SEP 2002
+PY 2002
+AB Ni-base directionally solidified (DS) superalloys have the advantage of
+   production costs over the single crystal (SC) superalloys because of
+   better yield rate of casting and a simpler heat treatment compared with
+   SC superalloys. In our previous work, we developed a third generation DS
+   superalloy TMD-103 which exhibits good creep strength, equivalent with
+   second generation SC superalloys. In this study, we attempt to develop a
+   fourth generation DS superalloy that have better creep strength than
+   TMD-103. To strengthen the grain boundaries of the new DS alloys, C and
+   B were added to the fourth generation SC superalloy, TMS-138, that has
+   good phase stability and a long creep life by Ru and Mo addition. Creep
+   behavior of the as-cast and heat-treated new DS alloy is investigated.
+   As a result of creep tests at 1100 degrees centigrade under a load of
+   137 MPa, the creep time at 1% strain in the heat-treated alloy is twice
+   as long as that of TMD-103.
+TC 12
+ZR 0
+ZS 0
+ZB 0
+Z8 3
+Z9 14
+SN 0021-4876
+UT CCC:000178454200011
+ER
+
+PT J
+AU Yakuwa, H
+   Miyasaka, M
+   Nakahama, S
+   Ohno, T
+   Uehara, T
+   Nonomura, T
+   Narita, T
+TI Effect of titanium and aluminum contents on the grain-boundary
+   sulfidation of a nickel-based superalloy
+SO CORROSION
+VL 58
+IS 8
+BP 646
+EP 658
+DI 10.5006/1.3287693
+PD AUG 2002
+PY 2002
+AB The effect of grain-boundary carbides on grain-boundary sulfidation was
+   investigated on a Ni-based superalloy
+   (Ni-2096Cr-13.569Co-496Mo-1.596Ti-396Al), which was developed for the
+   fluid catalytic cracking (FCC) power recovery turbine rotor, and on UNS
+   N07001 (AISI 685) in a gas mixture of N(2)-H(2)-H(2)S
+   (nitrogen-hydrogen-hydrogen sulfide) (sulfur partial pressure [P(s2)] =
+   10(-3.6) Pa [10-7.4 psi]) at 873 K (600 degreesC [1.112degreesF]) for
+   345.6 ks under a stress of 588 MPa (85.3 ksi), as well as in unstressed
+   conditions. The specimens of various degrees of grain-boundary carbide
+   precipitation were tested by solution-treating them between 1,283 K
+   (1.010degreesC [1,850degreesF])m and 1.353 K (1,080degreesC
+   [1,976degreesF]) and then aging them or not. Since the solid-solution
+   temperature of the M(23)C(6) carbide in the high Al content alloy is
+   higher than in UNS N07001, the higher Al content alloys did not exhibit
+   continuous precipitation of the M(23)C(6) carbide on the alloy grain
+   boundaries when it was solution-treated below 1,313 K (1,040degreesC
+   [1,904degreesF]) and then aged. Therefore, the alloy suppressed the
+   preferential sulfidation of the carbide, and it caused less severe
+   grain-boundary sulfidation than UNS N07001.
+ZR 0
+ZS 0
+ZB 0
+Z8 0
+TC 0
+Z9 0
+SN 0010-9312
+UT CCC:000177420000003
+ER
+
+PT J
+AU Zhang, J
+   Singer, RF
+TI Effect of hafnium on the castability of directionally solidified
+   nickel-base superalloys
+SO ZEITSCHRIFT FUR METALLKUNDE
+VL 93
+IS 8
+BP 806
+EP 811
+DI 10.3139/146.020806
+PD AUG 2002
+PY 2002
+AB The effect of Hf additions on the solidification characteristics and
+   castability of the Ni-base superalloy IN792 has been studied. A
+   quenching technique was employed to freeze-in the microstructure during
+   solidification. The crack length in tube-shaped demonstration castings
+   was evaluated. Hf additions were found to reduce the hot-tearing
+   susceptibility significantly. Hf also caused a more gradual decrease of
+   the liquid fraction with temperature in the last stages of
+   solidification, which was observed to improve castability in other
+   alloys previously and which can be correlated with lower strains and
+   strain rates in the vulnerable period where hot tears form. It was also
+   found that the gamma/gamma' rosette structure, often referred to as
+   gamma/gamma' eutectic in the literature, actually forms by a
+   discontinuous precipitation mechanism from the solid. The amount of
+   gamma/gamma' observed in the interdendritic area, therefore, does not
+   reflect the amount of remaining liquid in the last stages of
+   solidification.
+ZR 0
+ZB 0
+TC 14
+ZS 0
+Z8 2
+Z9 14
+SN 0044-3093
+UT CCC:000178191900006
+ER
+
+PT J
+AU Zupanic, F
+   Boncina, T
+   Krizman, A
+   Tichelaar, FD
+TI Microstructural evolution on continuous casting of nickel based
+   superalloy Inconel*713C
+SO MATERIALS SCIENCE AND TECHNOLOGY
+VL 18
+IS 7
+BP 811
+EP 819
+DI 10.1179/026708302225003640
+PD JUL 2002
+PY 2002
+AB In the present work, the evolution of microstructure in the nickel based
+   superalloy Inconel 713C was investigated for the. vertical continuous
+   casting of small cross-section rods (10 mm dia.), using several
+   microstructural characterisation techniques. Microstructural evolution
+   was greatly affected by the mould design, average casting speed, and
+   distance from the rod surface, but the strongest influence was from the
+   alternating drawing mode consisting of the drawing stroke, the resting
+   period, and the reverse stroke, which caused periodic orientation
+   changes of columnar gamma crystal grains. Combined with other casting
+   parameters this determined the local solidification conditions,
+   influencing the formation and growth of gamma dendritic grains
+   and-primary and eutectic MC carbide, as well as the stress distribution
+   in the solidified shell, which caused shell deformation and the
+   appearance of the inverse segregation and, occasionally, hot tears. A
+   physical model is presented to explain the influence of casting
+   parameters on microstructural evolution on the continuous casting of
+   this alloy.
+RI Boncina, Tonica/A-9479-2012; Zupanic, Franc/A-7009-2009
+OI Zupanic, Franc/0000-0002-9402-2854
+ZS 0
+Z8 1
+TC 6
+ZB 0
+ZR 0
+Z9 6
+SN 0267-0836
+UT CCC:000177407500021
+ER
+
+PT J
+AU Mao, J
+   Chang, KM
+   Yang, WH
+   Furrer, DU
+   Ray, K
+   Vaze, SP
+TI Cooling precipitation and strengthening study in powder metallurgy
+   superalloy Rene88DT
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 332
+IS 1-2
+BP 318
+EP 329
+DI 10.1016/S0921-5093(01)01758-0
+PD JUL 2002
+PY 2002
+AB The relationship of heat treat quench process, microstructure, and
+   mechanical property in powder metallurgy superalloy Rene88DT had been
+   experimentally studied to initiate the numerical simulation of gamma'
+   precipitation and mechanical properties. Two novel cooling schemes were
+   applied to study the cooling gamma' precipitation behavior. One was
+   continuous cooling test carried out by linearly controlling cooling rate
+   during quenching, which was to study the effect of cooling rate on the
+   cooling gamma' precipitation and tensile strength. Another was
+   interrupted cooling, which is performed by interrupting a continuous
+   cooling test at the different intermediate temperatures. Interrupted
+   cooling test is aimed at studying the development of gamma' precipitates
+   during a quenching process, Strength response to the interrupt
+   temperature was also investigated. Cooling gamma' precipitates are
+   defined as those gamma' precipitates formed during the quenching after
+   supersolvus solution. It was found that the size of the gamma' cooling
+   precipitates increases with the decrease of cooling rate, which follows
+   a power law with an exponential being about 0.47. The as-quenched
+   strength increases with the increase of cooling rate. For a fixed
+   cooling rate. the sizes of cooling gamma' precipitate increases as a
+   linear function of interrupt temperature. However, a non-monotonic
+   decrease in strength was observed as the interrupt temperature
+   decreases. Aging treatment contributes to the final strength, with an
+   increase of about 10%. which is believed to be related to the continuous
+   growth of tiny gamma' during aging. (C) 2002 Published by Elsevier
+   Science B.V.
+Z8 37
+ZB 0
+ZS 0
+ZR 2
+TC 56
+Z9 80
+SN 0921-5093
+UT CCC:000176260800042
+ER
+
+PT J
+AU Beck, M
+   Lang, KH
+   Lohe, D
+TI Assessment of the influence of interdendritic shrinkage cavities on the
+   thermo-mechanical fatigue behaviour of the nickel-base superalloy
+   MAR-M247LC
+SO ZEITSCHRIFT FUR METALLKUNDE
+VL 93
+IS 7
+BP 627
+EP 634
+DI 10.3139/146.020627
+PD JUL 2002
+PY 2002
+AB Precision cast high-temperature components often contain specific
+   imperfections like micropores or microcavities. The influence of the
+   position, size and distribution of such micro cavities as well as of the
+   parameters of the thermo-mechanical fatigue loading on the lifetime
+   behaviour of the superalloy MAR-M247LC was investigated using two
+   specimen series, containing a high and a low amount of microcavities and
+   a state from which any microcavity was removed by hot isostatic
+   pressing. Thermo-mechanical fatigue (TMF) tests with zero ("in phase")
+   and -135degrees phase shift between temperature and mechanical strain
+   were performed. The different damage behaviour at in-phase and
+   -135degrees TMF requires different methods of the assessment of
+   microcavities. For the in-phase loading, they are regarded as cracks and
+   their effect on the local strain distribution is determined by the crack
+   opening displacement. This leads to very good results for both specimen
+   states investigated. For the -135degrees cycle, it is taken into account
+   that the microcavities in the core of the specimens increase the loading
+   in the microcavity-free shell of the specimen. This method corresponds
+   closely to the effective damage mechanism and yields good results for
+   both microcavity contents investigated.
+TC 1
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+Z9 1
+SN 0044-3093
+UT CCC:000177729000006
+ER
+
+PT J
+AU Carreon, H
+   Nagy, PB
+   Blodgett, MP
+TI Thermoelectric nondestructive evaluation of residual stress in
+   shot-peened metals
+SO RESEARCH IN NONDESTRUCTIVE EVALUATION
+VL 14
+IS 2
+BP 59
+EP 80
+DI 10.1007/s00164-002-0001-x
+PD JUN 2002
+PY 2002
+AB This paper presents a noncontacting thermoelectric method that can be
+   used to characterize the prevailing residual stress in shot-peened
+   specimens. This novel method is based on magnetic detection of local
+   thermoelectric currents in the compressed near-surface layer of metals
+   when a temperature gradient is established throughout the specimen.
+   Besides the primary residual stress effect, the thermoelectric method is
+   also sensitive to the secondary "material" effects of shot peening
+   (local texture, increased dislocation density, hardening), but it is
+   entirely insensitive to its "geometrical" by-product, i.e., the rough
+   surface topography. Our experimental results in copper indicate that the
+   developed method is more sensitive to residual stress effects than to
+   the secondary material effects, but unequivocal separation of residual
+   stress relaxation from the parallel decay of secondary cold-work effects
+   is generally not feasible. However, since the ratio of residual stress
+   to cold work is primarily determined by the material and the specific
+   surface treatment used, the thermoelectric method still offers the
+   unique capability of nondestructively monitoring thermomechanical
+   relaxation below the treated surface. Preliminary results on IN100
+   nickel-base superalloy are also presented to demonstrate that the
+   proposed method might be applicable to a wide range of alloys including
+   high-strength, high-temperature engine materials.
+RI Nagy, Peter B/O-5404-2016; CARREON, HECTOR/
+OI Nagy, Peter B/0000-0001-5715-2409; CARREON, HECTOR/0000-0002-4803-0650
+ZB 0
+ZR 0
+ZS 0
+TC 26
+Z8 0
+Z9 26
+SN 0934-9847
+UT CCC:000176474900001
+ER
+
+PT J
+AU Liu, ZQ
+   Dong, JX
+   Zhang, MC
+   Zhao, SQ
+   Xie, XS
+TI Structure stability of high strength and corrosion resisting Ni-Co-Cr
+   superalloy
+SO ACTA METALLURGICA SINICA
+VL 38
+IS 5
+BP 490
+EP 494
+PD MAY 2002
+PY 2002
+AB The structure stability of a new high temperature corrosion-resistance
+   superalloy was investigated at different temperatures (704. 750, 849
+   degreesC) for 1000 h long-term aging and 700 degreesC up to 5008 h using
+   SEM. TEM and X-ray diffraction analyses. The experimental results show
+   that gamma' phase remains relative stability, and TCP phase, such as
+   sigma phase. has not been detected. However, with increasing the aging
+   temperature to 750 degreesC, the coarsening rate of gamma' phase
+   increased rapidly, eta phases appeared, and an M(23)C(6) carbides
+   precipitation increased at some grain-boundaries. For 849 degreesC aging
+   to 1000 h. numerous eta phases were observed. Therefore, the tested
+   alloy has a good structure stability at 700 degreesC.
+TC 0
+Z8 5
+ZB 0
+ZS 0
+ZR 0
+Z9 5
+SN 0412-1961
+UT CCC:000175965200009
+ER
+
+PT J
+AU Xiong, YH
+   Li, PJ
+   Yang, AM
+   Yan, ED
+   Zeng, DB
+   Liu, L
+TI Effects of foundry variables and refiners on cast structures of
+   superalloy K4169I. Grain structures and grain refinement mechanisms
+SO ACTA METALLURGICA SINICA
+VL 38
+IS 5
+BP 529
+EP 533
+PD MAY 2002
+PY 2002
+AB Grain structures of cast superalloy K4169 have been investigated tinder
+   various casting conditions together with the addition of mixed
+   refiners'. It is found that lowering pouring temperature and adding
+   mixed refiners to the melt can lead to grain refinement of matrix and
+   improve the proportion of equiaxed grains at cross-section. While adding
+   mixed refiners, at a conventional pouring temperature of 1400 C. the
+   average size of equiaxed grains (r) could be refined to the order of
+   ASTM 1.7, the proportion of equiaxed grains at traverse cross-section
+   (p) could be improved from 56%, to 96% with the melt superheating
+   treatment. Furthermore, r could be refined to 0.1158 mm, i.e. to ASTM
+   3.2, and p has been increased to 99% without the melt superheating
+   treatment. When the pouring temperature is 1420 degreesC, r has been
+   refined to the order of ASTM M10.5, and p could be increased to 90% by
+   the addition of mixed refiners and the melt superheating treatment.
+   Additionally, the mechanisms of grain refinement were proposed and the
+   phenomenon that p was improved after grain refinement has been analyzed.
+ZR 0
+Z8 9
+ZB 0
+TC 8
+ZS 0
+Z9 14
+SN 0412-1961
+UT CCC:000175965200017
+ER
+
+PT J
+AU Xiong, YH
+   Li, PJ
+   Yang, AM
+   Yan, WD
+   Zeng, DB
+   Liu, L
+TI Effects of foundry variables and refiners on cast structures of
+   superalloy K4169II. Dendrite structures and granulation mechanisms
+SO ACTA METALLURGICA SINICA
+VL 38
+IS 5
+BP 534
+EP 538
+PD MAY 2002
+PY 2002
+AB The effects of foundry variables and refiners on dendrite structures.
+   micro segregation, inclusion and microporosity of cast superalloy 1 4169
+   have been studied. The results indicate that while keeping the other
+   rocessing parameters invariant. both the average principal axis length
+   of the primary dendrites (l(axis)) and the secondary dendrite arm
+   spacing (SDAS) reduce with decreasing the pouring temperature. At the
+   same pouring temperature. l(axis) shortened with the addition of
+   refiners but the SDAS keeps almost unchanged. Meanwhile the
+   microsegregation of main elements such as Fe, Cr. Nb,. Mo and Ti is
+   alleviated with the decrease in rain size. and the grains have
+   transformed from dendrite to granulation in fine-grained castings.
+   Furthermore. it is found that trace addition of refiners to the melt did
+   not form inclusion and change the phase constitution of the alloy. At
+   high pouring temperature. the amount of microporosity in samples with
+   the addition of refiners can be greatly reduced.
+Z8 15
+TC 5
+ZB 0
+ZR 0
+ZS 0
+Z9 17
+SN 0412-1961
+UT CCC:000175965200018
+ER
+
+PT J
+AU Zhu, JH
+   Liu, CT
+TI Intermediate-temperature mechanical properties of Ni-Si alloys: oxygen
+   embrittlement and its remedies
+SO INTERMETALLICS
+VL 10
+IS 4
+BP 309
+EP 316
+DI 10.1016/S0966-9795(01)00134-0
+PD APR 2002
+PY 2002
+AB With good corrosion resistance, reasonable room-temperature ductility,
+   and excellent strength up to temperatures of 700 degreesC, Ni(3)Si-based
+   alloys show considerable potential for structural applications. The
+   Ni-Si alloys used for acid-corrosion resistance suffer from a dynamic
+   environmental embrittlement when tested at intermediate temperatures
+   around 600 degreesC. To assess these Ni-Si alloys for
+   elevated-temperature structural application, the mechanical properties
+   of these alloys strengthened by Ni(3)Si precipitates were systematically
+   evaluated at different temperatures in various test environments. Oxygen
+   was identified as the embrittling species responsible for the low
+   ductility and premature fracture of the Ni-Si alloys. A strong
+   dependence of elongation and fracture mode on strain rate was observed.
+   Based on the understanding of the embrittlement mechanism, some unique
+   approaches for improving the intermediate-temperature ductility,
+   strength and fabricability of Ni-Ni(3)Si alloys were identified:
+   reactive element doping (such as Zr and Y) to change the grain boundary
+   chemistry; preoxidation to form adherent oxide layers; and
+   thermomechanical processing to tailor the grain structure/shape. Some
+   other properties such as creep resistance and weldability of these
+   alloys were also briefly evaluated and are discussed in this paper. (C)
+   2002 Published by Elsevier Science Ltd.
+ZS 0
+TC 23
+ZR 0
+ZB 0
+Z8 3
+Z9 25
+SN 0966-9795
+UT CCC:000174922500002
+ER
+
+PT J
+AU Razavi, SH
+   Mirdamadi, S
+   Szpunar, J
+   Arabi, H
+TI Improvement of age-hardening process of a nickel-base superalloy,
+   IN738LC, by induction aging
+SO JOURNAL OF MATERIALS SCIENCE
+VL 37
+IS 7
+BP 1461
+EP 1471
+DI 10.1023/A:1014561705233
+PD APR 1 2002
+PY 2002
+AB Influences of induction heating on the age-hardening process of a
+   Nickel-base cast superalloy, IN738LC, was investigated. In this study
+   cast specimens were undergone a solution treatment process in an argon
+   atmosphere controlled furnace at 1125degreesC for 2 hours. Then, they
+   were quenched in oil to room temperature to obtain supersaturated solid
+   solution. These samples then subjected to two types of aging with equal
+   heating rate, 30degreesC/Sec. One was induction aging and the other salt
+   bath aging. Effects of these types of aging on the structure were
+   analyzed and compared with normal aging having an average heating rate
+   of 400degreesC/hr. The age-hardening behavior and microstructural
+   characteristics were studied by hardness testing, scanning electron
+   microscopy (SEM), electron image analyzing, X-ray diffractometery (XRD)
+   and transmission electron microscopy (TEM) with replica method.
+   According to the results obtained by these experiments, although the
+   rate of heating of the specimens in induction and salt bath aging were
+   equal, the diffusion-control process of nucleation and growth of gamma'
+   precipitates in induction aging were considerably accelerated.
+   Furthermore, desirable characteristics of gamma' precipitates were
+   achieved in induction aging at lower time and temperature in comparison
+   with times and temperatures of other types of aging. Improvement of
+   microstructural characterization obtained in induction aging was related
+   to the existence of an external electromagnetic force produced by
+   induction heating. This electromagnetic force raised the effective
+   driving force necessary for age-hardening process and intensified the
+   nucleation and growth of gamma' precipitates remarkably. (C) 2002 Kluwer
+   Academic Publishers.
+RI Razavi, Seyed Hossein/S-6594-2018; Arabi, Hossein/
+OI Razavi, Seyed Hossein/0000-0001-8670-3855; Arabi,
+   Hossein/0000-0003-3110-4198
+TC 10
+Z8 2
+ZR 0
+ZB 0
+ZS 0
+Z9 11
+SN 0022-2461
+UT CCC:000174360400025
+ER
+
+PT J
+AU Lu, HJ
+   Jia, XC
+   Zhang, KF
+   Yao, CG
+TI Fine-grained pretreatment process and superplasticity for INCONEL718
+   superalloy
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 326
+IS 2
+BP 382
+EP 385
+DI 10.1016/S0921-5093(01)01521-0
+PD MAR 31 2002
+PY 2002
+AB A new method, superplastic forming (SPF) has been proposed for the
+   production of complex-shaped INCONEL(R) alloy 718 components. For SPF, a
+   microstructure with fine grain is one of the necessary factors. In this
+   paper, one fine-grained pretreatment process to obtain a microstructure
+   with fine grain (ASTM 11-12) for common INCONEL alloy 718 plate is
+   reported, and this processing route includes a solution treatment at
+   1050 degreesC for 0.5 h with successive water quenching, hot-rolling
+   (about 60%), cold-rolling (about 40%) and annealing treatment at 950
+   degreesC for 0.5 h. For the fine-grained INCONEL alloy 718, superplastic
+   properties such as strain rate sensitivity and total uniform elongation
+   are presented and discussed. The microstructural features such as grain
+   size stability and cavitations following superplastic deforming are also
+   presented. It is shown that the elongation to failure of the
+   fine-grained INCONEL alloy 718 varied from 180 to 368.2% when the alloy
+   was deformed at temperatures between 920 and 960 degreesC with initial
+   strain rates ranging from 6.1 x 10(-4) to 1.2 x 10(-2) s(-1), and the
+   elongation to failure increases with decreasing strain rate. The strain
+   rate sensitivity m of the alloy is always higher than 0.3. Dynamic grain
+   growth was present during superplastic deforming for the alloy, and
+   after superplastic deforming, cavities were found. (C) 2002 Elsevier
+   Science B.V. All rights reserved.
+ZS 0
+Z8 16
+ZB 0
+ZR 0
+TC 33
+Z9 46
+SN 0921-5093
+UT CCC:000174536700024
+ER
+
+PT J
+AU Angenete, J
+   Stiller, K
+TI Comparison of inward and outward grown Pt modified aluminide diffusion
+   coatings on a Ni based single crystal superalloy
+SO SURFACE & COATINGS TECHNOLOGY
+VL 150
+IS 2-3
+BP 107
+EP 118
+DI 10.1016/S0257-8972(01)01544-4
+PD FEB 15 2002
+PY 2002
+AB Two commercial Pt modified aluminide coatings (RT22 and MDC150L) on the
+   same single crystal Ni-based superalloy (CMSX-4) were studied by:
+   scanning electron microscopy; transmission electron microscopy; energy
+   dispersive X-ray spectrometry; and gravimetry. The RT22 coating is an
+   inward grown coating (high activity), while MDC150L is produced by
+   outward growth (low activity). Samples were oxidised in still laboratory
+   air at 1050 degreesC for various times up to 2000 h. It was found that
+   the outward grown coating produced a slower growing oxide that was more
+   spallation resistant. Several possible reasons for this were identified
+   including: coating purity; coating surface topography; and ductile to
+   brittle transition temperature. The microstructural differences between
+   the two coatings in the as-coated condition were investigated and the
+   development of their microstructure during heat treatment was described.
+   A model for coating growth during heat treatment was proposed. (C) 2002
+   Elsevier Science B.V. All rights reserved.
+ZR 0
+TC 69
+ZB 0
+Z8 1
+ZS 0
+Z9 69
+SN 0257-8972
+UT CCC:000173828500001
+ER
+
+PT J
+AU Brass, AM
+   Roux, D
+   Chene, J
+TI Role of secondary gamma ' precipitation and of hydrogen in the first
+   stage of the plastic deformation of the gamma matrix of a Ni base
+   superalloy single crystal
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 323
+IS 1-2
+BP 97
+EP 102
+DI 10.1016/S0921-5093(01)01349-1
+PD JAN 31 2002
+PY 2002
+AB A detailed analysis of the tensile properties at room temperature of
+   fully gamma AM3 nickel base superalloy single crystals was performed to
+   understand the mechanisms of plastic deformation of the gamma matrix of
+   the AM3 industrial gamma-gamma' superalloy. The nucleation of the small
+   gamma' precipitates after aging at 750degreesC of the fully gamma alloy
+   strongly increases the critical resolved shear stress of [001] oriented
+   single crystals and contributes to the observed coplanar dislocation
+   motion, Hydrogenated samples exhibit a different behavior depending on
+   the presence of gamma' microprecipitates: internal hydrogen increases
+   the critical resolved shear stress of fully gimel specimens whereas the
+   main effect of hydrogen on the first stage of the plastic deformation of
+   the aged samples is an enhancement of the localized plasticity. (C) 2002
+   Elsevier Science B.V. All rights reserved.
+ZR 0
+TC 19
+ZS 0
+Z8 2
+ZB 0
+Z9 20
+SN 0921-5093
+UT CCC:000173579800014
+ER
+
+PT J
+AU Watanabe, M
+   Mumm, DR
+   Chiras, S
+   Evans, AG
+TI Measurement of the residual stress in a Pt-aluminide bond coat
+SO SCRIPTA MATERIALIA
+VL 46
+IS 1
+BP 67
+EP 70
+DI 10.1016/S1359-6462(01)01198-8
+PD JAN 4 2002
+PY 2002
+AB The residual stress induced in a Pt-aluminide bond coat formed on a
+   single-crystal superalloy due to cooling from the manufacturing
+   temperature, has been measured with the "wafer" curvature method. This
+   approach revealed that the bond coat is in residual tension (about 140
+   MPa), consistent with the thermal expansion misfit. (C) 2002 Acta
+   Materialia Inc. Published by Elsevier Science Ltd. All rights reserved.
+RI Mumm, Daniel/A-8378-2013
+TC 28
+ZR 0
+Z8 3
+ZB 0
+ZS 0
+Z9 28
+SN 1359-6462
+UT CCC:000175333000012
+ER
+
+PT J
+AU Yaguchi, M
+   Yamamoto, M
+   Ogata, T
+TI A viscoplastic constitutive model for nickel-base superalloy, part 1:
+   kinematic hardening rule of anisotropic dynamic recovery
+SO INTERNATIONAL JOURNAL OF PLASTICITY
+VL 18
+IS 8
+BP 1083
+EP 1109
+DI 10.1016/S0749-6419(01)00029-8
+PD 2002
+PY 2002
+AB A series of deformation experiments was conducted on nickel-base
+   polycrystalline superalloy IN738LC at 850 degreesC. The material showed
+   distinct rate/time-dependent deformation, while cyclic hardening or
+   cyclic softening behavior was relatively small in general. In the case
+   of cyclic deformation with tensile or compressive strain holding time,
+   anomalous inelastic behavior was observed; a stress-strain hysteresis
+   loop continued to shift toward the opposite direction of the strain hold
+   with the increase in the number of cycles. Consequently, the mean stress
+   continued to increase significantly with cycles. Using conventional
+   kinematic hardening rules, the expression capability under the strain
+   hold waveform conditions was discussed through numerical calculations.
+   It seemed that adequate description of the evolutionary behavior of the
+   mean stress was difficult to achieve using the conventional hardening
+   rules because of the characteristics of the dynamic recovery term of
+   back stress. A kinematic hardening rule was proposed within a
+   viscoplasticity framework in order to describe the growth behavior of
+   the mean stress under the strain hold waveform conditions precisely. A
+   new internal variable that had influence on the dynamic recovery
+   property of the back stress was incorporated into the evolutionary
+   equation of the back stress. An evolutionary law of the proposed
+   internal variable was assumed to be a function of the static recovery
+   property of the back stress. Numerical simulations were conducted using
+   the proposed viscoplastic constitutive equations for various inelastic
+   behaviors of the IN738LC at 850 degreesC, such as monotonic tension,
+   stress relaxation, creep and cyclic deformation with/without the strain
+   holding period. It was demonstrated that the present viscoplastic
+   constitutive model can describe the inelastic behavior of the material
+   with sound accuracy, including the anomalous behavior observed under the
+   cyclic deformation with the strain holding period, i.e. the evolutionary
+   behavior of the mean stress with the increase of cycles. (C) 2002
+   Elsevier Science Ltd. All rights reserved.
+ZB 0
+ZR 0
+TC 51
+ZS 0
+Z8 2
+Z9 53
+SN 0749-6419
+UT CCC:000176394000007
+ER
+
+PT J
+AU Wang, B
+   Gong, J
+   Wang, AY
+   Sun, C
+   Huang, RF
+   Wen, LS
+TI Oxidation behaviour of NiCrAlY coatings on Ni-based superalloy
+SO SURFACE & COATINGS TECHNOLOGY
+VL 149
+IS 1
+BP 70
+EP 75
+DI 10.1016/S0257-8972(01)01427-X
+PD JAN 1 2002
+PY 2002
+AB NiCrAlY coatings were prepared on cast Ni-based IN100 superalloy using
+   are ion plating, leading to a dense structure. The surface became
+   smoother after vacuum heat treatment. The oxidation kinetic curves of
+   the IN100 alloy and the coating were obtained. The results indicate that
+   NiCrAlY coating gains more weight after cyclic than after isothermal
+   oxidation and no oxide spallation was evident. The oxidation resistance
+   of IN100 superalloy when exposed to either isothermal or cyclic
+   oxidation was markedly improved by coating with NiCrAlY. The oxide
+   scales mainly consisted of alpha-Al2O3 and Cr2O3, at 900degreesC. In the
+   initial oxidation stage at 1000degreesC, three kinds of oxides, NiO,
+   Cr2O3 and alpha-Al2O3, formed simultaneously. With further oxidation,
+   not only is the thickness of the oxide scale increased, but complex
+   reactions also occurred. (C) 2002 Elsevier Science B.V. All rights
+   reserved.
+ZR 0
+ZB 0
+TC 70
+ZS 0
+Z8 21
+Z9 83
+SN 0257-8972
+UT CCC:000173162700010
+ER
+
+PT J
+AU Starink, MJ
+   Thomson, RC
+TI The effect of high temperature exposure on dendritic segregation in a
+   conventionally cast Ni based superalloy
+SO JOURNAL OF MATERIALS SCIENCE
+VL 36
+IS 23
+BP 5603
+EP 5608
+DI 10.1023/A:1012513615622
+PD DEC 2001
+PY 2001
+AB Dendritic segregation in conventionally cast, commercially heat treated
+   and exposed MarM002 turbine blades has been investigated using scanning
+   electron microscopy (SEM) and energy dispersive X-ray spectroscopy
+   (EDS). During casting Cr, Co and W segregate to the dendrites and Hf, Ti
+   and Ta segregate to the eutectics. As a result of the dissolution of
+   gamma' precipitates in the dendrites and coarsening of gamma'
+   precipitates in the eutectics this segregation aggravates during
+   exposure at 1000 degreesC. At this high exposure temperature
+   homogenisation of dendritic segregation does not occur because it
+   involves long diffusion distances and a low driving force compared with
+   dissolution and coarsening of gamma' precipitates. (C) 2001 Kluwer
+   Academic Publishers.
+RI Thomson, Rachel C/B-4217-2011
+OI Thomson, Rachel C/0000-0002-3681-0107
+ZR 0
+Z8 2
+ZS 0
+ZB 0
+TC 11
+Z9 13
+SN 0022-2461
+UT CCC:000172012400013
+ER
+
+PT J
+AU Tong, J
+   Dalby, S
+   Byrne, J
+   Henderson, MB
+   Hardy, MC
+TI Creep, fatigue and oxidation in crack growth in advanced nickel base
+   superalloys
+SO INTERNATIONAL JOURNAL OF FATIGUE
+VL 23
+IS 10
+BP 897
+EP 902
+DI 10.1016/S0142-1123(01)00049-4
+PD NOV 2001
+PY 2001
+AB This paper presents some of our recent results from an on, going
+   collaborative research programme on creep-fatigue behaviour of two
+   advanced nickel base superalloys for turbine disc applications. The role
+   of creep, fatigue and oxidation in crack growth has been investigated at
+   650 degreesC under typical loading waveforms at selected loading
+   frequencies. Load-line deflections were monitored in selected tests
+   under static and long dwell loading conditions. Scanning electron
+   microscopy was adopted to identify the fracture mode and to facilitate
+   the evaluation of oxidation.
+   The results show that mixed time and cycle dependent crack growth seems
+   to be the predominant crack growth mode in the two PM nickel alloys
+   studied. Whilst limited creep may be present at the crack tip,
+   particularly under static and long dwell loading conditions, oxidation
+   appears to be the predominant mechanism for crack growth under the test
+   conditions examined. (C) 2001 Elsevier Science Ltd. All roghts reserved.
+TC 64
+ZR 0
+ZB 0
+ZS 0
+Z8 4
+Z9 68
+SN 0142-1123
+UT CCC:000171687300007
+ER
+
+PT J
+AU Fournier, L
+   Delafosse, D
+   Magnin, T
+TI Oxidation induced intergranular cracking and Portevin-Le Chatelier
+   effect in nickel base superalloy 718
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 316
+IS 1-2
+BP 166
+EP 173
+DI 10.1016/S0921-5093(01)01224-2
+PD OCT 15 2001
+PY 2001
+AB The mechanical behaviour of nickel base superalloy 718 was investigated
+   by means of constant extension rate tensile (CERT) tests performed at 5
+   x 10(-7) s(-1), in air and under secondary vacuum, in the temperature
+   range 400-600 degreesC. Below 470 degreesC, the Portevin-Le Chatelier
+   (PLC) effect occurs and leads to shear fracture. Above 500 degreesC, the
+   PLC effect disappears and oxidation-induced intergranular cracking takes
+   place. The transition from serrated flow to continuous plastic flow
+   occurs abruptly in a narrow temperature domain (470-500 degreesC) and
+   coincides with a transition from ductile to intergranular cracking.
+   Thus, the interactions between oxidation and plasticity at the crack tip
+   were investigated by means of a specific CERT test conducted at 500
+   degreesC up to 4% plastic strain and at 470 degreesC up to fracture in
+   air. Results show that the local plastic strain rate may control the
+   oxidation induced intergranular cracking process. (C) 2001 Elsevier
+   Science B.V. All rights reserved.
+RI Delafosse, David/D-5885-2013
+OI Delafosse, David/0000-0002-4915-9173
+Z8 2
+ZS 0
+TC 49
+ZB 0
+ZR 0
+Z9 49
+SN 0921-5093
+UT CCC:000171269200021
+ER
+
+PT J
+AU Ogawa, K
+   Shoji, T
+   Aoki, H
+   Fujita, N
+   Torigoe, T
+TI Mechanistic understanding for degraded thermal barrier coatings
+SO JSME INTERNATIONAL JOURNAL SERIES A-SOLID MECHANICS AND MATERIAL
+   ENGINEERING
+VL 44
+IS 4
+BP 507
+EP 513
+DI 10.1299/jsmea.44.507
+PD OCT 2001
+PY 2001
+AB A two-layer plasma sprayed thermal barrier coating on Ni base superalloy
+   substrate was characterized. The coating was comprised of an inner layer
+   of MCrAlY bond coating and an outer layer of 8 wt% yttria stabilized
+   zirconia (YSZ) thermal barrier coating (TBC). After aging, the thermally
+   grown oxide (TGO) layer at interface between YSZ and MCrAlY was
+   observed. The TGO layer had two different contrast layers in the SEM
+   images. The black one was closer to MCrAlY and the gray one was closer
+   to YSZ. The thickness of both layers increased with aging. Countless
+   porosities at the gray layer and microcrack at YSZ were also observed.
+   Most of the macrocrack grew through the porosities. From this point of
+   view one may say that the mechanism of macrocrack formation is a
+   deterioration of adhesion accompanied by an increase of number of the
+   porosities or the microcrack.
+TC 8
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+Z9 8
+SN 1344-7912
+UT CCC:000172430400009
+ER
+
+PT J
+AU Razavi, SH
+   Mirdamadi, S
+   Arabi, H
+   Szpunar, J
+TI Mathematical model of influence of rapid induction heating on nucleation
+   and growth of precipitates
+SO MATERIALS SCIENCE AND TECHNOLOGY
+VL 17
+IS 10
+BP 1205
+EP 1210
+DI 10.1179/026708301101509278
+PD OCT 2001
+PY 2001
+AB A mathematical model of the influence of rapid induction heating on the
+   nucleation and growth of secondary phases in diffusion controlled
+   processes has been developed. The total stress produced by the
+   electromagnetic field and acting on the volume V of a specimen was
+   derived and added to other external stresses applied to the system.
+   Then, the total effective stress was introduced into mathematical
+   equations of diffusion controlled nucleation and growth processes. In
+   addition, the effect of rapid induction heating on the age hardening
+   treatment of a selected cast nickel base superalloy, IN738LC, was
+   investigated experimentally. For this purpose, two types of rapid aging
+   with equal heating rates were applied: one treatment was induction aging
+   and the other was salt bath aging. Microstructural characteristics of
+   gamma' precipitates and hardening behaviour were studied by means of
+   scanning electron microscopy (SEM), electron image analysis,
+   transmission electron microscopy (TEM), and hardness testing. According
+   to the results obtained, although the rates of heating in induction and
+   salt bath aging were equal, the rates of nucleation and growth of gamma'
+   precipitates in induction aging were much faster than those obtained in
+   salt bath aging, especially in the first minutes of the aging process.
+   Furthermore, the characteristics of gamma' precipitates with induction
+   aging were more favorable than those with salt bath and normal aging. It
+   was observed that the growth rate of gamma' in induction aging deviated
+   considerably from the t(1/3) growth law of the standard modified
+   Lifshitz, Slyozov, and Wagner (MLSW) theory. The remarkable improvement
+   of microstructural characteristics obtained with induction aging can be
+   attributed to the existence of the external electromagnetic force
+   produced by rapid induction heating. (C) 2001 IoM Communications Ltd.
+RI Arabi, Hossein/T-3269-2018; Razavi, Seyed Hossein/S-6594-2018; Arabi, Hossein/
+OI Razavi, Seyed Hossein/0000-0001-8670-3855; Arabi,
+   Hossein/0000-0003-3110-4198
+ZB 0
+Z8 1
+ZR 0
+ZS 0
+TC 1
+Z9 2
+SN 0267-0836
+UT CCC:000171987200004
+ER
+
+PT J
+AU Fleury, E
+   Ha, JS
+TI Thermomechanical fatigue behaviour of nickel base superalloy IN738LC
+   Part 2 - Lifetime prediction
+SO MATERIALS SCIENCE AND TECHNOLOGY
+VL 17
+IS 9
+BP 1087
+EP 1092
+DI 10.1179/026708301101510997
+PD SEP 2001
+PY 2001
+AB An experimental programme was carried out to study the thermomechanical
+   fatigue life of the nickel base superalloy IN738LC used in gas turbines.
+   First, out of phase and in phase thermomechanical fatigue experiments
+   were performed on uncoated and air plasma spray coated materials. In the
+   temperature range investigated, it was observed that deposition of a
+   NiCrAlY coating did not affect the thermomechanical fatigue resistance.
+   A physically based life prediction model that takes into account the
+   contribution of different damage mechanisms was then applied. This model
+   successfully reflected the temperature and strain rate dependences of
+   isothermal cycling fatigue lifetimes, and the strain-temperature history
+   effect on thermomechanical fatigue lifetimes.
+RI Ha, Jeong Sook/F-6918-2013
+TC 9
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+Z9 9
+SN 0267-0836
+UT CCC:000171337400010
+ER
+
+PT J
+AU Wang, B
+   Huang, RF
+   Song, GH
+   Gong, J
+   Sun, C
+   Wen, LS
+   Han, YF
+TI Interdiffusion behavior of Ni-Cr-Al-Y coatings deposited by arc-ion
+   plating
+SO OXIDATION OF METALS
+VL 56
+IS 1-2
+BP 1
+EP 13
+DI 10.1023/A:1010302001326
+PD AUG 2001
+PY 2001
+AB Ni-Cr-Al-P coatings were deposited on the Ni3Al-base superalloys IC-6
+   and K17 by are-ion plating. The results indicated that a small amount of
+   substrate atoms, such as Co, Ti, Mo, etc., existed in the Ni-Cr-Al-Y
+   coatings near the substrates, probably due to "sputter" and
+   "antisputter." For the alloy K17, the impeding effect of Al was not
+   obvious, because the temperatures of the substrate and the coating were
+   high (420-480 degreesC) during the deposition process and interdiffusion
+   was accelerated. However, for alloy IC-6 which contains Al, as well as a
+   high concentration of Mo, the diffusion of Cr was impeded. Vacuum heat
+   treatment at 1050 degreesC drastically increased diffusivities and the
+   presence of Al and Mo was not enough to prevent some Cr diffusion. Thus,
+   the coating became mor e uniform and close to the desired composition.
+TC 29
+ZS 0
+ZB 2
+Z8 11
+ZR 0
+Z9 35
+SN 0030-770X
+UT CCC:000169423500001
+ER
+
+PT J
+AU Liu, F
+   Zhao, DW
+   Yang, GC
+TI Solidification of undercooled molten Ni-based alloys
+SO METALLURGICAL AND MATERIALS TRANSACTIONS B-PROCESS METALLURGY AND
+   MATERIALS PROCESSING SCIENCE
+VL 32
+IS 3
+BP 449
+EP 457
+DI 10.1007/s11663-001-0030-x
+PD JUN 2001
+PY 2001
+AB The effect of undercooling on grain structure is investigated in pure
+   nickel, Ni(75)Cu(25), and DD3 single-crystal superalloy by employing the
+   method of molten salt denucleating combined with thermal cycling.
+   Meanwhile, a comparison of factors that may be related to structure
+   formation is performed and the difference in the refined structure
+   between Ni75Cu25 alloy and DD3 single-crystal superalloy is explained.
+   Only one grain refinement occurs at the critical undercooling in pure
+   nickel, whereas two take place at both low and high undercoolings in
+   Ni(75)Cu(25) and DD3 single-crystal superalloy melts. The first grain
+   refinement at low undercoolings mainly originates from dendrite
+   remelting driven by the chemical superheating produced in recalescence,
+   and the second one at high undercoolings is due to the recrystallization
+   process as a result of the high stress provided in the rapid
+   solidification after high undercooling. Dislocation morphology evolution
+   in as-solidified structure is also provided by the transmission electron
+   microscopy (TEM) technique to further verify the recrystallization
+   mechanism.
+ZB 0
+ZR 0
+Z8 2
+TC 10
+ZS 0
+Z9 11
+SN 1073-5615
+UT CCC:000169180400009
+ER
+
+PT J
+AU Xu, S
+   Koul, AK
+   Dickson, JI
+TI Creep crack growth in the absence of grain boundary precipitates in
+   UDIMET 520
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+VL 32
+IS 3A
+BP 795
+EP 804
+DI 10.1007/s11661-001-0095-9
+PD MAR 2001
+PY 2001
+AB The effects of grain size and environment on creep crack growth (CCG) in
+   Ni-base superalloy, UDIMET 520, were studied through experiments at 540
+   degreesC. Specially designed solution and aging treatments were used to
+   produce gamma ' strengthened microstructures with different grain sizes
+   but without any M(23)C(6) grain boundary precipitates. Five grain sizes,
+   which fall into three groups (i.e., small, medium, and large), were
+   employed. The creep crack growth rates (CCGRs) in specimens with small
+   grain sizes were approximately 2.5 times lower than those with medium
+   and large grain sizes, as a result of crack branching and the presence
+   of some undissolved primary MC carbides at the grain boundaries.
+   Otherwise, the CCGRs were insensitive to the grain size. Fractographic
+   observations on the fracture surfaces and metallographic examinations on
+   the cross sections of the interrupted CCG specimen revealed
+   intergranular microcracks and a faceted intergranular mode of fracture
+   in both air and argon environments. The test results suggest that the
+   formation and propagation of intergranular cracks by grain boundary
+   sliding (GBS) is the main micromechanism responsible for CCG in both air
+   and argon environments at the relatively low test temperature employed.
+   Grain boundary oxidation attack in the air environment simply
+   accelerates the crack growth process. The present results are in
+   agreement with the theoretical predictions of the GBS-controlled CCG
+   model previously developed by the authors.
+ZR 0
+Z8 0
+ZS 0
+TC 8
+ZB 0
+Z9 8
+SN 1073-5623
+UT CCC:000167694700015
+ER
+
+PT J
+AU Smialek, JL
+TI The effect of hydrogen annealing on the impurity content of
+   alumina-forming alloys
+SO OXIDATION OF METALS
+VL 55
+IS 1-2
+BP 75
+EP 86
+DI 10.1023/A:1010325209121
+PD FEB 2001
+PY 2001
+AB Previously, the effect of hydrogen annealing on increasing the adhesion
+   of Al(2)O(3) scales had been related to the effective desulfurization
+   that occurred during this process. The simultaneous reduction of other
+   impurities has now been reexamined for up to 20 impurity elements, in
+   the case of five different alloys (NiCrAl, FeCrAl, PWA 1480, Rene 142,
+   and Rend N5). Hydrogen annealing produced measurable reductions in
+   elemental concentration for B, C, Na, Mg, Si, P, K, Sr, or Sn in varying
+   degrees for at least one and up to three of these alloys. However, no
+   single element was I educed by hydrogen annealing for all the alloys
+   except sulfur. In many cases spalling occurred at low levels of these
+   other impurity, while in other cases the scales were adherent at high
+   levels of the impurities. No impurity besides sulfur was strongly
+   correlated with adhesion.
+RI Smialek, James L./AAD-7588-2019
+OI Smialek, James L./0000-0003-4310-5569
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+TC 18
+Z9 18
+SN 0030-770X
+UT CCC:000168285100005
+ER
+
+PT J
+AU Liu, F
+   Yang, GC
+   Guo, XF
+TI Recrystallization mechanism for the grain refinement in undercooled DD3
+   single crystal superalloy
+SO ACTA METALLURGICA SINICA
+VL 37
+IS 1
+BP 13
+EP 18
+PD JAN 18 2001
+PY 2001
+AB The microstructure evolution of DD3 single crystal superalloy
+   undercooled to 210 K is systematically investigated by employing
+   compound molten salt purification combined with the thermal cycle in
+   high vacuum. When undercooling is beyond 153 K, the dendrite distortion
+   and disintegration take place, and then a kind of complete
+   quasi-spherical equiaxed crystal structure is obtained as the critical
+   undercooling DeltaT* (180 K) is reached. In connection with the
+   observation in the behavior of the crystalline defects, such as
+   dislocation, during the refinement process, it is consequently concluded
+   that the grain refinement above the critical undercooling can be
+   attributed to the recrystallization mechanism.
+ZS 0
+ZR 0
+TC 2
+ZB 0
+Z8 1
+Z9 2
+SN 0412-1961
+UT CCC:000172766100003
+ER
+
+PT J
+AU Murty, SVSN
+   Rao, BN
+   Kashyap, BP
+TI Hot working characteristics of powder metallurgy Nimonic AP-1 superalloy
+SO POWDER METALLURGY
+VL 44
+IS 3
+BP 267
+EP 273
+PD 2001
+PY 2001
+AB A simple instability condition based on the Ziegler's continuum
+   principles as applied to large plastic flow, is extended for delineating
+   the regions of unstable metal flow during hot deformation of Nimonic
+   AP-1 superalloy. The optimum hot working conditions for this material
+   are suggested. (C) 2001 loM Communications Ltd.
+OI S.V.S., Narayana Murty/0000-0001-5948-970X
+Z8 0
+TC 3
+ZS 0
+ZR 0
+ZB 0
+Z9 3
+SN 0032-5899
+UT CCC:000171850200029
+ER
+
+PT J
+AU Medeiros, SC
+   Prasad, YVRK
+   Frazier, WG
+   Srinivasan, R
+TI Microstructural modeling of metadynamic recrystallization in hot working
+   of IN 718 superalloy
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 293
+IS 1-2
+BP 198
+EP 207
+DI 10.1016/S0921-5093(00)01053-4
+PD NOV 30 2000
+PY 2000
+AB The hot deformation behavior of IN 718 superalloy has been characterized
+   in the temperature range 900-1100 degrees C and strain rate range
+   0.001-1.0 s(-1) using compression tests on process annealed material,
+   with a view to obtain a correlation between grain size and the process
+   parameters. At a strain rate of 0.001 s(-1,) the material exhibits
+   dynamic recrystallization (DRx) at 975 degrees C and superplasticity at
+   1100 degrees C, while metadynamic recrystallization (MDRx) occurs in the
+   temperature range 950-1100 degrees C and strain rate range 0.01-1.0
+   s(-1). Unlike in the DRx domain, the grain size (d) variation in the
+   MDRx regime could not be correlated with the standard Zener-Hollomon (Z)
+   parameter due to strong thermal effects during cooling after hot
+   deformation. However, it follows an equation of the type d = cexp(-
+   Q/RT), where c, p and R are constants, Q the activation energy for MDRx
+   and T the temperature. The value of p is very low (0.028) and the
+   apparent activation energy is about 275 kJ mole(-1), which is very close
+   to that for self-diffusion in pure nickel. The data obtained from
+   several investigators are in agreement with this equation. Such an
+   equation combines the mild dynamic effect in MDRx with a stronger
+   post-deformation cooling effect and may be used for predicting the grain
+   size of IN 718 hot forged in the MDRx regime. (C) 2000 Elsevier Science
+   S.A. All rights reserved.
+Z8 43
+ZB 0
+ZR 0
+TC 156
+ZS 0
+Z9 176
+SN 0921-5093
+UT CCC:000089488800025
+ER
+
+PT J
+AU Schubert, F
+   Fleury, G
+   Steinhaus, T
+TI Modelling of the mechanical behaviour of the single-crystal turbine
+   alloy CMSX-4 during thermomechanical loading
+SO MODELLING AND SIMULATION IN MATERIALS SCIENCE AND ENGINEERING
+VL 8
+IS 6
+BP 947
+EP 957
+DI 10.1088/0965-0393/8/6/313
+PD NOV 2000
+PY 2000
+AB Turbine blades in gas turbine engines are subjected during operation to
+   triaxial stress fields. For the description of the deformation behaviour
+   of anisotropic single-crystal blades, constitutive equations are
+   required which take account of modifications to the deformation
+   processes caused by evolution of the gamma/gamma' microstructure during
+   service (gamma' rafting). A microstructure-dependent, orthotropic Hills
+   potential, whose anisotropy coefficients are connected to the edge
+   length or gamma' particles, has been applied. The shape of gamma'
+   particles remains cubic below exposures at 700 degreesC. At high
+   temperatures (above 850 degreesC) the gamma' particles coalesce to
+   rafts, and the viscoplastic response of the superalloy is continuously
+   modified. This reduces the creep resistance of [001] orientated
+   specimen. After tensile loading of the [001]-orientated specimens at
+   1000 degreesC, the rafting of gamma' in the (100) plane was observed as
+   expected, whereas the [111] specimens did not reveal gamma' rafting.
+   Torsionally loaded specimens exhibited rafting only in the near
+   [001]-orientated surface regions of the specimen. The deformation in the
+   [111] tensile and [001] torsion specimens occurred by octahedral slip of
+   dislocations and not by cubic slip, as expected from theoretical
+   considerations. Rafting did not occur in the [111]-orientated specimens.
+   This anisotropy change is simulated successfully by the
+   microstructure-dependent model.
+TC 15
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+Z9 15
+SN 0965-0393
+UT CCC:000165911400014
+ER
+
+PT J
+AU Zitnansky, M
+   Martinkovic, M
+TI Infiltration of the metal through a bundle of continual fibers
+SO JOURNAL OF MATERIALS PROCESSING TECHNOLOGY
+VL 106
+IS 1-3
+BP 163
+EP 166
+DI 10.1016/S0924-0136(00)00609-9
+PD OCT 31 2000
+PY 2000
+AB In this paper an interesting technical problem is solved concerning, in
+   particular, composites with a metallic matrix and with continuous
+   strengthening fibres. The problem concerns the metal transport liquid
+   condition using a pressure-different inlet and outlet. An attempt to
+   analyse the bonding between the fibres and the metallic matrix is made.
+   A special heat treatment was applied to the composite with the aim of
+   decreasing the heterogeneity of the matrix. (C) 2000 Published by
+   Elsevier Science B.V.
+RI Martinkovic, Maros/F-3403-2017
+OI Martinkovic, Maros/0000-0002-5128-9786
+Z8 0
+ZB 0
+ZR 0
+TC 0
+ZS 0
+Z9 0
+SN 0924-0136
+UT CCC:000165173500028
+ER
+
+PT J
+AU Wang, RM
+   Song, YG
+   Han, YF
+TI Effect of rare earth on the microstructures and properties of a low
+   expansion superalloy
+SO JOURNAL OF ALLOYS AND COMPOUNDS
+VL 311
+IS 1
+BP 60
+EP 64
+DI 10.1016/S0925-8388(00)00862-8
+PD OCT 12 2000
+PY 2000
+AB A new Fe-Ni-Co-Nb-Ti-Si superalloy containing trace additions of
+   selective rare earths and having with combination of very low thermal
+   expansion coefficient, high resistance to stress accelerated grain
+   boundary oxygen embrittlement and fairly good notch-bar rupture strength
+   has been successfully developed. The resistance to oxidation for long
+   time exposure at high temperatures and the stress rupture life improves
+   significantly with trace yttrium additions. The microstructures of the
+   alloy have been studied by means of analytical electron microscopy and
+   chemical analysis techniques. The results reveal that the rare earth
+   element segregates in the strengthening phase of platelet morphology.
+   Further it helps in transforming A(3)B type epsilon phase into A(5)B
+   type H phase. The morphology and crystal structures of the grain
+   boundary phases also change with selective additions of rare earth
+   elements. The platelet precipitates become smaller and denser, and forms
+   within the grains and along the grain boundaries with the additions of
+   rare earth elements. The segregation of the platelet precipitates within
+   the grains is helpful in improving the strength of the alloy. In
+   addition its precipitation along the grain boundaries can improve the
+   resistance to stress accelerated grain boundary oxidation and stress
+   rupture property of the alloy and thereby contributed to its excellent
+   elevated temperature stability. (C) 2000 Elsevier Science S.A. All
+   rights reserved.
+RI Wang, Rongming/B-2163-2010
+OI Wang, Rongming/0000-0003-4075-6956
+ZB 0
+TC 29
+Z8 13
+ZR 0
+ZS 0
+Z9 35
+SN 0925-8388
+UT CCC:000089579600012
+ER
+
+PT J
+AU Serin, K
+   Eggeler, G
+TI Investigation of microstructural stability of single crystal nickel
+   based super alloys
+SO MATERIALWISSENSCHAFT UND WERKSTOFFTECHNIK
+VL 31
+IS 9
+BP 818
+EP 821
+DI 10.1002/1521-4052(200009)31:9<818::AID-MAWE818>3.0.CO;2-X
+PD SEP 2000
+PY 2000
+AB The present study investigates the kinetics of the widening of
+   gamma-channels in the single crystal superalloy CMSX-4 during high
+   temperature and low stress creep. Shear creep specimens subjected to
+   high resolution shear creep testing were investigated using scanning and
+   transmission electron microscopy (SEM and TEM) in combination with
+   quantitative image analysis. {011} <0 1 (1) over bar >-shear creep tests
+   were performed at a shear stress tau = 50 MPa and a temperature of
+   1080degreesC. For the macroscopic crystallographic shear system {011}
+   <01(1) over bar > it was found that gamma'-rafts form in an angle of
+   45degrees to the macroscopic shear direction. The kinetics of
+   gamma-channel widening can be described by a parabolic rate law.
+   Therefore it is concluded that the diffusion of atoms through the
+   gamma-channels of gamma/gamma'-microstructures is the rate controlling
+   process for rafting.
+RI Eggeler, Gunther/R-9833-2016
+OI Eggeler, Gunther/0000-0002-6671-4618
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+TC 1
+Z9 1
+SN 0933-5137
+UT CCC:000173489100003
+ER
+
+PT J
+AU Bi, XF
+   Xu, HB
+   Gong, SK
+TI Investigation of the failure mechanism of thermal barrier coatings
+   prepared by electron beam physical vapor deposition
+SO SURFACE & COATINGS TECHNOLOGY
+VL 130
+IS 1
+BP 122
+EP 127
+DI 10.1016/S0257-8972(00)00693-9
+PD AUG 1 2000
+PY 2000
+AB Two-layer structure thermal barrier coatings (TBCs) (NiCoCrAlY [bond
+   coat] + [6-8 wt.%] Y(2)O(3)-stabilized ZrO(2) [YSZ top coat]) were
+   deposited by electron beam physical vapor deposition (EB-PVD) on a
+   Ni-base superalloy. Pre-treatments were carried out in a vacuum to
+   improve the oxidation resistance of the bond coat, and the thermal
+   cyclic life of the TBC system was investigated through thermal cyclic
+   tests. It was found that the pre-treatments in the vacuum at 1273 K
+   increased the thermal cyclic life of the TBCs by improving the oxidation
+   resistance of the bond coat. The results of thermal cyclic tests
+   indicated that the TBCs prepared by EB-PVD were degraded mainly at the
+   interface between the bond coat and ceramic coat, due to the spallation
+   of the YSZ top coat from the bond coat. According to the results of
+   microstructure observation and composition analysis, the mechanism of
+   failure was proposed as follows: micro-cracks are first initiated in the
+   YSZ top coat along columnar boundaries, and then propagate through the
+   whole top coat. The cracks formed at the thermal growth oxide (TGO)
+   layer, due to the growing micro-cracks, are considered to cause abnormal
+   thermally-grown oxides of the bond coat beneath the cracks, and
+   consequently, the build-up stresses due to the volume increase, which
+   are significant in weakening the interface combination of the top coat
+   and bond coat. During the following cooling process, compressive
+   stresses are introduced, which tend to separate the YSZ top coat from
+   the bond coat, and finally cause the occurrence of the failure of TBC
+   system. (C) 2000 Elsevier Science S.A. All rights reserved.
+ZR 0
+TC 59
+Z8 23
+ZS 0
+ZB 0
+Z9 75
+SN 0257-8972
+UT CCC:000088191300021
+ER
+
+PT J
+AU Balikci, E
+   Raman, A
+TI Characteristics of the gamma ' precipitates at high temperatures in
+   Ni-base polycrystalline superalloy IN738LC
+SO JOURNAL OF MATERIALS SCIENCE
+VL 35
+IS 14
+BP 3593
+EP 3597
+DI 10.1023/A:1004869714854
+PD JUL 2000
+PY 2000
+AB IN738LC is a Ni-base cast superalloy used in land-base gas turbines and
+   aerospace applications. As in other superalloys gamma' precipitates
+   contribute to strengthening of this alloy at high temperatures. In this
+   study, the authors investigate the characteristics and mechanisms of
+   precipitate dissolution into the matrix solid solution. The precipitates
+   grow in cuboidal shape up to 1130 degrees C, above that a duplex-size
+   precipitate microstructure sets in upon quenching from the temperature
+   range 1140-1150 degrees C. The duplex-size precipitate microstructure
+   consists of two very distinct sizes of precipitates (fine and coarse).
+   Holding for longer times in the temperature range 1140-1150 degrees C
+   does not coarsen the fine precipitates of the duplex microstructure. The
+   source for the formation of the fine precipitates in the duplex
+   microstructure is the dissolution of the newly grown smaller-sized
+   precipitates when the agings start from fine size precipitates and the
+   "corner dissolution" of coarse precipitates when the starting
+   microstructure consists of the maximum-sized cuboidal precipitates. At
+   and above 1160 degrees C, the duplex as well as the coarse precipitate
+   microstructures dissolve to form a single-size fine precipitate
+   microstructure upon quenching from any temperature up to 1225 degrees C.
+   A single-phase solid solution with no precipitates is obtained only upon
+   quenching from 1235 degrees C or above. The dissolution of coarse
+   precipitates and formation of the fine ones are found to be very fast
+   processes in the corresponding temperature ranges. The fine precipitates
+   are postulated to form during quenching from the temperature range
+   1140-1225 degrees C and are considered to be of the "cooling" type. (C)
+   2000 Kluwer Academic Publishers.
+RI BALIKCI, ERCAN/M-9878-2014
+Z8 3
+TC 17
+ZR 0
+ZB 0
+ZS 0
+Z9 19
+SN 0022-2461
+UT CCC:000087869600020
+ER
+
+PT J
+AU Nagesha, A
+   Valsan, M
+   Rao, KBS
+   Mannan, SL
+TI Hold time effects on the low cycle fatigue behaviour of a Nimonic PE-16
+   superalloy
+SO TRANSACTIONS OF THE INDIAN INSTITUTE OF METALS
+VL 53
+IS 3
+SI SI
+BP 283
+EP 290
+PD JUN 2000
+PY 2000
+AB Creep-fatigue interaction behaviour of a Nimonic PE-16 superalloy has
+   been studied in solution-annealed condition and two double-aged
+   conditions (microstructures with gamma' of 18nm and 35nm diameters) at
+   923 K. Tests were carried out over various strain amplitudes with hold
+   times of 1 and 10 min. duration introduced in peak tension and
+   compression strain. The cyclic stress response of the alloy was
+   characterized by an initial hardening, a softening and a saturation
+   regime. Further, at 923 K, the cyclic stress response was found to
+   increase with increase in the duration of the hold. Tension hold was
+   observed to be more damaging than compression hold, and the fatigue life
+   decreased with increase in the duration of the hold in tension.
+   Accelerated intergranular crack initiation and propagation reduced
+   fatigue life under hold times in tension. Moreover, oxidation was found
+   to reduce fatigue life under long hold periods.
+Z8 0
+ZR 0
+ZB 0
+TC 3
+ZS 0
+Z9 3
+SN 0019-493X
+UT CCC:000090008100021
+ER
+
+PT J
+AU Kermanpur, A
+   Varahraam, N
+   Engilehei, E
+   Mohammadzadeh, M
+   Davami, P
+TI Directional solidification of Ni base superalloy IN738LC to improve
+   creep properties
+SO MATERIALS SCIENCE AND TECHNOLOGY
+VL 16
+IS 5
+BP 579
+EP 586
+DI 10.1179/026708300101508117
+PD MAY 2000
+PY 2000
+AB The high Cr, Ni base superalloy IN738LC has been directionally
+   solidified on both laboratory and industrial scales using Bridgman and
+   liquid metal cooling (LMC) methods respectively. In the Bridgman
+   experiments, cylindrical rods were grown using a graphite chill with
+   temperature gradient G = 5.0 K mm(-1) and a water cooled copper chill
+   with G = 8(.)5 K mm(-1) and a wide range of withdrawal rates of R = 60,
+   120, 240, 600, and 1200 mm h(-1). In the LMC rigs, several turbine
+   blades were grown using a wide range of withdrawal rates of R = 120,
+   225, 330, 420, and 630 mm h(-1). Grain and dendritic structures in both
+   cylindrical and turbine blade specimens were evaluated in longitudinal
+   and transverse directions, Dendritic segregation of rods was determined
+   with SEM as a function of processing parameters. Some specimens were
+   given a two stage heat treatment followed by tension tests at 25 and 650
+   degrees C and creep tests at 152 MPa and 982 degrees C, 340 MPa and 850
+   degrees C, and 586 MPa and 760 degrees C. It was shown that at R = 600
+   mm h(-1) with water cooled copper chill, directionally solidified rods
+   with a well orientated dendritic structure and better segregation
+   pattern gives higher tensile properties at 25 degrees C and creep
+   properties at 340 MPa and 850 degrees C. Tension and creep tests of
+   turbine blades showed that although the yield and tensile strength of
+   directionally solidified specimens are in the range of conventionally
+   cast ones, the creep properties of the blades have been significantly
+   improved using the LMC process.
+ZR 0
+TC 29
+Z8 8
+ZS 0
+ZB 0
+Z9 34
+SN 0267-0836
+UT CCC:000087211800018
+ER
+
+PT J
+AU Wu, RI
+   Perepezko, JH
+TI Liquidus temperature determination in multicomponent alloys by thermal
+   analysis
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+VL 31
+IS 2
+BP 497
+EP 501
+DI 10.1007/s11661-000-0285-x
+PD FEB 2000
+PY 2000
+AB Thermal analysis is often used to determine equilibrium phase boundary
+   temperatures such as the liquidus. Accurate measurements require proper
+   calibration procedures, which are standard for given instruments. In
+   multicomponent alloys such as RENE N5 and PWA1484 superalloys, a complex
+   melting behavior associated with the solidification structure was
+   exposed by examining the melting response at different heating rates.
+   The observed variability in the melting signal is related to the sample
+   processing history and is not addressed by the various standard
+   calibration methods or supplemental procedures for different heating
+   rates. The liquidus temperature can be determined under conditions
+   approaching full compositional equilibrium by the application of an
+   interrupted-heating thermal analysis protocol. The approach provides a
+   new strategy for the reliable determination of phase boundary
+   temperatures by thermal analysis.
+ZB 0
+TC 37
+Z8 6
+ZS 1
+ZR 0
+Z9 39
+SN 1073-5623
+UT CCC:000085248700018
+ER
+
+PT J
+AU Murty, SVSN
+   Rao, BN
+   Kashyap, BP
+TI Instability criteria for hot deformation of materials
+SO INTERNATIONAL MATERIALS REVIEWS
+VL 45
+IS 1
+BP 15
+EP 26
+DI 10.1179/095066000771048782
+PD 2000
+PY 2000
+AB Forming and forging processes are among the oldest and most important
+   materials related technologies. New materials technologies centre on the
+   development and widespread use of thermomechanical processing,
+   particularly for aerospace alloys and concepts of metal workability and
+   formability. Workability refers to the relative ease with which a metal
+   can be shaped through plastic deformation. The term workability is often
+   used interchangeably with the term formability, which is preferred for
+   the shaping of sheet metal parts. However, workability is usually used
+   to refer to the shaping of materials by such bulk deformation processes
+   as forging, extrusion, and rolling. The characterisation of mechanical
+   behaviour of a material by tension testing measures two different types
+   of mechanical property: strength properties (such as yield strength and
+   ultimate tensile strength) and ductility properties (such as percentage
+   elongation and reduction in area). Similarly, the evaluation of
+   workability involves both the measurement of the resistance to
+   deformation (strength) and determination of the extent of possible
+   plastic deformation before fracture (ductility). Therefore, a complete
+   description of the workability of a material is specified by its flow
+   stress dependence on processing variables (for example strain, strain
+   rate, preheat temperature, and die temperature), its failure behaviour,
+   and the metallurgical transformations that characterise the alloy system
+   to which it belongs. However, the major emphasis in workability is on
+   measurement and prediction of limit of deformation before fracture.
+   Therefore, the emphasis in the present review article is on methods for
+   determining the extent of deformation a metal can withstand before
+   cracking or fracture occurs. Flow stress data are essential in the
+   development of constitutive equations and processing maps. One of the
+   requirements for process modelling is a knowledge of the material flow
+   behaviour for defining the deformation maps that delineate 'safe' and
+   'non-safe' hot working conditions. These maps show in the processing
+   space (that is on axes of temperature T and strain rate (epsilon) over
+   dot) the processing conditions for stable and unstable deformation. The
+   range of T and (epsilon) over dot for stable material flow useful in the
+   development of process control algorithms should be obtained from
+   physical quantities, which can be evaluated from the test data. As such
+   there is no unique instability theory existing to delineate the regions
+   of unstable flow during hot deformation which is applicable for all the
+   materials. The designer has to establish a suitable theory on the basis
+   of microstructural observations of the flow localisation in the intended
+   materials. Various existing theories are reviewed for identification of
+   flow instabilities (such as adiabatic shear banding, intercrystalline
+   cracking, prior particle boundary cracking in powder compacts, wedge
+   cracking) during hot deformation of materials, and these theories are
+   verified by considering the flow stress data of IN 718 and the reported
+   microstructural observations from different sources.
+RI Boggarapu, Nageswara Rao/P-8771-2015; S.V.S., Narayana Murty/
+OI Boggarapu, Nageswara Rao/0000-0003-1620-6188; S.V.S., Narayana
+   Murty/0000-0001-5948-970X
+ZS 1
+TC 102
+ZB 0
+ZR 0
+Z8 31
+Z9 116
+SN 0950-6608
+UT CCC:000088410700002
+ER
+
+PT J
+AU Dandre, CA
+   Roberts, SM
+   Evans, RW
+   Reed, RC
+TI Microstructural evolution of Inconel* 718 during ingot breakdown:
+   process modelling and validation
+SO MATERIALS SCIENCE AND TECHNOLOGY
+VL 16
+IS 1
+BP 14
+EP 25
+DI 10.1179/026708300773002627
+PD JAN 2000
+PY 2000
+AB A computer model is presented that describes microstructural evolution
+   during the ingot breakdown of nickel base superalloy Inconel 718 via the
+   open die cogging operation, To support the development of the model, a
+   compression testing programme has been carried out which covers the
+   ranges of temperatures, strains, and strain rates experienced during
+   thermomechanical processing. Analysis of the flow curves has allowed the
+   identification of the regimes in which the various deformation
+   mechanisms take place. Logic based rules have been incorporated into the
+   model, and this has allowed predictions of the microstructural
+   e-volution to be made. Where possible, the results have been compared
+   with the available experimental data and it is shown that theory and
+   experiment are in reasonable agreement, A number of computational
+   experiments have been carried out, to study the effects of changing the
+   forging procedure. MST/4426.
+ZR 0
+TC 52
+ZB 0
+ZS 0
+Z8 4
+Z9 54
+SN 0267-0836
+UT CCC:000085095100004
+ER
+
+PT J
+AU Shaji, EM
+   Kalidindi, SR
+   Doherty, RD
+TI Influence of cold-work and aging heat treatment on strength and
+   ductility of MP35N
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 272
+IS 2
+BP 371
+EP 379
+DI 10.1016/S0921-5093(99)00502-X
+PD NOV 30 1999
+PY 1999
+AB MP35N (35% Co, 35% Ni, 20% Cr, and 10% Mo) is a superalloy that exhibits
+   a remarkable combination of high strength and high fracture toughness.
+   This alloy derives its strength mainly from two processes - cold work
+   and a subsequent aging heat treatment. This study examines the influence
+   of the amount of cold-work, imposed in the drawing and the rolling
+   processes, and the subsequent aging heat treatment on the strength and
+   ductility (which is also an indicator of toughness) of this alloy. It
+   was found that high levels of cold-work followed by the aging heat
+   treatments resulted in a drastic drop in the ductility of the alloy.
+   This drastic loss of ductility was correlated with appearance of
+   macro-scale shear bands in the samples. The physical origin of these
+   localized shear bands is investigated in this paper. Furthermore, this
+   study established a processing window for MP35N (in cold-drawing and
+   cold-rolling processes) where the aging heat treatment provides the
+   desired increase in the strength without adversely influencing the
+   ductility of the alloy. (C) 1999 Elsevier Science S.A. All rights
+   reserved.
+RI Kalidindi, Surya/A-1024-2007; Kalidindi, Surya R./O-1484-2019
+OI Kalidindi, Surya R./0000-0001-6909-7507
+Z8 3
+ZB 0
+ZR 0
+ZS 0
+TC 15
+Z9 18
+SN 0921-5093
+UT CCC:000083785900017
+ER
+
+PT J
+AU Gaumann, M
+   Henry, S
+   Cleton, F
+   Wagniere, JD
+   Kurz, W
+TI Epitaxial laser metal forming: analysis of microstructure formation
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 271
+IS 1-2
+BP 232
+EP 241
+DI 10.1016/S0921-5093(99)00202-6
+PD NOV 1 1999
+PY 1999
+AB Epitaxial laser metal forming (E-LMF) is presented as a new cladding
+   technique which combines the advantage of near-net-shape manufacturing
+   with a close control of the solidification microstructure. E-LMF is a
+   process where metal powder is injected into a molten pool formed by
+   controlled laser heating. Laser surface treatment has the advantage that
+   heat input is very localised, thus leading to large temperature
+   gradients. This is used, in unison with closely controlled
+   solidification velocities, to stabilise the columnar dendritic growth,
+   thereby avoiding nucleation and growth of equiaxed grains in the laser
+   clad. It is possible with this technique to deposit a single crystal
+   clad by epitaxial growth onto a single crystal substrate. In this paper,
+   the microstructure obtained by E-LMF is analysed by scanning electron
+   microscopy (SEM), optical microscopy (OM) and indexing electron
+   backscattered diffraction (EBSD) patterns. In particular, the grain
+   structure formation in the deposit during the process and the influence
+   of a subsequent heat treatment on precipitation and recrystallisation is
+   characteriscd. (C) 1999 Elsevier Science S.A. All rights reserved.
+ZB 2
+ZR 0
+ZS 1
+Z8 58
+TC 233
+Z9 269
+SN 0921-5093
+UT CCC:000083647800031
+ER
+
+PT J
+AU Dandre, CA
+   Roberts, SM
+   Evans, RW
+   Reed, RC
+TI A model describing microstructural evolution for Ni-base superalloy
+   forgings during the cogging process
+SO JOURNAL DE PHYSIQUE IV
+VL 9
+IS P9
+BP 33
+EP 42
+DI 10.1051/jp4:1999904
+PD SEP 1999
+PY 1999
+AB In this paper we consider the development of a computer modelling tool
+   for the thermomechanical cogging of alloy Inconel(R) 718. The cogging
+   process is used widely by suppliers of aerospace materials, to break
+   down the as-cast ingot microstructure to an acceptable level of
+   refinement prior to disc forging. The commercially available
+   viscoplastic finite element software Forge3(R) has been employed to
+   simulate the cogging process and to calculate the variables such as
+   temperature, strain-rate and effective strain. In addition, a
+   microstructural model has been incorporated into the code, which relates
+   the volume fraction of recrystallised material and the associated grain
+   size, to the state variables. Since dynamic and static recrystallisation
+   phenomena govern microstructural evolution in this alloy the logic
+   relating the recrystallisation regimes has also been incorporated into
+   the code. In order to validate the process model, results are compared
+   to maps of observed microstructure in the as-cogged billet.
+ZB 0
+Z8 0
+TC 2
+ZR 0
+ZS 0
+Z9 2
+SN 1155-4339
+UT CCC:000085012700005
+ER
+
+PT J
+AU Zhang, YH
+   Withers, PJ
+   Fox, MD
+   Knowles, DM
+TI Damage mechanisms of coated systems under thermomechanical fatigue
+SO MATERIALS SCIENCE AND TECHNOLOGY
+VL 15
+IS 9
+BP 1031
+EP 1036
+DI 10.1179/026708399101506896
+PD SEP 1999
+PY 1999
+AB The damage mechanisms of several kinds of coatings on a single crystal
+   nickel base superalloy under thermomechanical fatigue (TMF) are
+   described. The systems investigated were diffusion platinum aluminide
+   coatings, Co-Ni-Cr-Al-Y overlay coatings, and thermal barrier coatings
+   (TBCs). The TMF experiments were carried out on hollow specimens over a
+   temperature range from 300 to 1050 degrees C, at strain ranges Delta
+   epsilon = 0.5 and 0.7%, and at a strain ratio R = -infinity. No coating
+   cracking was found for the platinum aluminide coating. Instead,
+   specimens failed owing to oxidation induced crack initiation from the
+   uncoated inner surface of the hollow testpieces, although coating
+   surface roughening caused by non-homogeneous oxidation was observed. For
+   the overlay coating, roughening in terms of coating rumpling and coating
+   cracking occurred, resulting in reduced TMF life, For TBC-specimens with
+   a thin ceramic coating processed by electron beam-physical vapour
+   deposition (EB-PVD), TMF life was compatible with that of specimens with
+   the overlay coating. Failure once again occurred owing to Co-Ni-Cr-Al-Y
+   bond coat cracking and propagation into the substrate. In this system,
+   some bond coat cracks penetrated through the top ceramic coat although
+   others did not. In contrast with specimens coated with the overlay
+   alone, no significant rumpling on the bond coat surface was observed and
+   the crack density was low. MST/4233.
+RI Withers, Phil/A-6760-2009
+OI Withers, Phil/0000-0002-1946-5647
+ZB 1
+TC 38
+Z8 3
+ZS 0
+ZR 0
+Z9 41
+SN 0267-0836
+UT CCC:000082720800009
+ER
+
+PT J
+AU Somoza, A
+   Santos, G
+   Ges, A
+   Versaci, R
+   Plazaola, F
+TI Age-hardening and precipitation phenomena in the Inconel-713C superalloy
+   studied by means of positron lifetime spectroscopy
+SO PHYSICA STATUS SOLIDI A-APPLICATIONS AND MATERIALS SCIENCE
+VL 174
+IS 1
+BP 189
+EP 198
+DI 10.1002/(SICI)1521-396X(199907)174:1<189::AID-PSSA189>3.3.CO;2-P
+PD JUL 16 1999
+PY 1999
+AB Specimens of the commercial superalloy Inconel-713C were heat treated by
+   using isothermal artificial ageing treatments in order to obtain
+   information on the process of precipitation of the gamma'-phase which is
+   an intermetallic compound with a composition of Ni(3)(Al, Ti) having a
+   Lit-ordered structure. The experimental information was basically
+   obtained by means of positron lifetime spectroscopy and Vickers
+   microhardness. In some specific cases, transmission electron microscopy
+   was also used. From the positron results it was possible to analyze the
+   influence of the homogenization and quenching procedures on the
+   microstructure and to follow the coarsening of the smallest
+   gamma'-particles during the very early stage of artificial ageing at 950
+   degrees C. For long ageing times, when the over-ageing condition of the
+   superalloy was clearly observed by a hardness decrease, the positron
+   lifetime evolution reaches a stable maximum value and different
+   annihilation mechanisms were discussed.
+OI Somoza, Alberto/0000-0002-0025-1999; Plazaola Muguruza,
+   Fernando/0000-0002-0081-8131
+ZR 0
+ZS 0
+ZB 0
+Z8 1
+TC 10
+Z9 10
+SN 1862-6300
+UT CCC:000081733800027
+ER
+
+PT J
+AU Fujii, H
+   MacKay, DJC
+   Bhadeshia, HKDH
+   Harada, H
+   Nogi, K
+TI Prediction of creep rupture life in nickel-base superalloys using
+   Bayesian neural network
+SO JOURNAL OF THE JAPAN INSTITUTE OF METALS
+VL 63
+IS 7
+BP 905
+EP 911
+DI 10.2320/jinstmet1952.63.7_905
+PD JUL 1999
+PY 1999
+AB The creep rupture life of nickel-base superalloys has been predicted
+   using a neural network model within a Bayesian framework. The rupture
+   life was modelled as a function of some 42 variables, including
+   temperature, chemical composition: Cr, Co, C, Si, Mn, P, S, Mo, Cu, Ti,
+   Al, B, N, Nb, Ta, Zr, Fe, W, V, Hf, Re, Mg, ThO2, La, four steps of heat
+   treatment (each has its own temperature, duration and cooling rate),
+   sample shape, solidification method, yield strength, ultimate tensile
+   strength and elongation. The Bayesian method puts error bars on the
+   predicted value of the rupture life and allows the significance of each
+   individual factor to be estimated. The scale of the error bars changes
+   with the accuracy of the prediction: it is large when the prediction is
+   uncertain, indicating that the whole prediction system is reliable.
+OI Fujii, Hidetoshi/0000-0002-5023-3844
+ZR 0
+Z8 0
+TC 11
+ZS 0
+ZB 0
+Z9 11
+SN 0021-4876
+UT CCC:000082083300014
+ER
+
+PT J
+AU Huang, XB
+   Zhang, Y
+   Hu, ZQ
+TI Effect of small amounts of nitrogen on properties of a Ni-based
+   superalloy
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+VL 30
+IS 7
+BP 1755
+EP 1761
+DI 10.1007/s11661-999-0174-x
+PD JUL 1999
+PY 1999
+AB The microstructural, tensile, and stress-rupture lives of conventionally
+   and directionally solidified (DS) cast specimens of a nickel-based
+   superalloy have been investigated using materials of normal commercial
+   composition and two melts with additions of 22 and 30 ppm nitrogen. It
+   was found that the ductility, tensile life, and stress-rupture life of
+   the conventional castings dramatically decreased with the increase of
+   nitrogen content, but, in the longitudinal direction of DS samples,
+   these properties were independent of nitrogen within the contents
+   studied. The transverse tensile rupture life of DS castings had no
+   significant change with nitrogen, except for some decrease in elongation
+   of the sample containing 30 ppm N. The stress-rupture life and
+   elongation in the transverse direction of the DS samples were improved
+   at the 22 ppm nitrogen level, which might be attributed to the dendrite
+   refining. Increasing the nitrogen content resulted in a change in
+   carbide morphology from that of a "Chinese script" to a blocky form and
+   a change in microporosity formation, especially in the conventional
+   castings. The increased nitrogen content resulted in a significant
+   reduction in the volume fraction of eutectic microconstituents and the
+   in dendrite refinement in DS samples, but nitrogen content did not
+   affect the morphology of gamma' precipitates in the heat-treated alloys.
+TC 15
+Z8 9
+ZS 0
+ZR 1
+ZB 0
+Z9 22
+SN 1073-5623
+UT CCC:000081605300006
+ER
+
+PT J
+AU Lu, SQ
+   Shang, BZ
+   Luo, ZJ
+   Zeng, FC
+TI Establishment of the constitutive relationship for MP159 alloy
+SO JOURNAL OF MATERIALS SCIENCE & TECHNOLOGY
+VL 15
+IS 3
+BP 239
+EP 244
+PD MAY 1999
+PY 1999
+AB The constitutive relationship for MP159 alloy, a kind of high strength
+   cobalt-base superalloy, was studied based on the experimental results of
+   compression tests carried out in the THERMECMASTER-Z hot work simulating
+   test machine. The constitutive relationship model using Zener-Hollomon
+   parameter as primary variable is proposed, and the constitutive equation
+   for MP159 alloy is firstly formulized. This equation well represents the
+   relationship of flow stress with thermomechanical,parameters, i.e.
+   strain, strain rate and temperature, in a large deformation (a true
+   strain of 1.10) and a wide range of deformation temperatures and strain
+   rates, it can be used for the finite element simulation of plastic
+   forming process and the dissipative structure theory and dynamic
+   material modeling.
+ZB 0
+TC 1
+ZS 0
+ZR 0
+Z8 2
+Z9 2
+SN 1005-0302
+UT CCC:000080601900011
+ER
+
+PT J
+AU Zhang, JM
+   Gao, ZY
+   Zhuang, JY
+   Zhong, ZY
+TI Modeling of grain size in superalloy IN718 during hot deformation
+SO JOURNAL OF MATERIALS PROCESSING TECHNOLOGY
+VL 88
+IS 1-3
+BP 244
+EP 250
+DI 10.1016/S0924-0136(98)00401-4
+PD APR 15 1999
+PY 1999
+AB The microstructure and mechanical properties of IN718 forgings are
+   highly sensitive to metallurgical technology and thermomechanical
+   processing. To obtain the most favorable mechanical properties and
+   microstructures in IN718 forgings, it is necessary to further understand
+   the microstructure variation behavior and to be able to predict the
+   grain size of superalloy IN718 during hot deformation. On the basis of
+   isothermal constant-speed compression tests conducted using a
+   computer-controlled MTS machine at temperatures from 960-1040 degrees C,
+   with initial strain rates from 0.001-1.0 s(-1), to engineering strains
+   from 0.1-0.7, the microstructure variation behavior of superalloy IN718
+   has been studied. Two different types of microstructures were found at
+   deformation temperatures below and above 1000 degrees C. The effect of
+   hot-deformation parameters on the microstructures was analyzed and a
+   model was developed to describe the duplex microstructure and to express
+   the relationship between the grain size and the hot-deformation
+   parameters. (C) 1999 Elsevier Science S.A. All rights reserved.
+TC 21
+ZS 0
+ZR 0
+Z8 6
+ZB 0
+Z9 23
+SN 0924-0136
+UT CCC:000080410100029
+ER
+
+PT J
+AU Kawagoishi, N
+   Chen, Q
+   Kondo, E
+   Goto, M
+   Nisitani, H
+TI Influence of cubic boron nitride grinding on the fatigue strengths of
+   carbon steels and a nickel-base superalloy
+SO JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE
+VL 8
+IS 2
+BP 152
+EP 158
+DI 10.1361/105994999770346981
+PD APR 1999
+PY 1999
+AB The influence of cubic boron nitride (CBN) grinding on fatigue strength
+   was investigated on an annealed carbon steel, a quenched and tempered
+   carbon steel at room temperature, and a nickel-base superalloy, Inconel
+   718, at room temperature and 500 degrees C, The results were discussed
+   from several, viewpoints! including surface roughness, residual stress,
+   and work hardening or softening due to CBN grinding. The fatigue
+   strength increased upon CBN grinding at room temperature. primarily
+   because of the generation of compressive residual stress in the surface
+   region. Hen-ever, in the case of Inconel 718, this marked increase in
+   the fatigue strength tended to disappear at the elevated temperature due
+   to the release of compressive residual stress and the decrease of crack
+   growth resistance at an elevated temperature.
+ZR 0
+ZS 0
+ZB 0
+TC 10
+Z8 2
+Z9 10
+SN 1059-9495
+UT CCC:000079885500003
+ER
+
+PT J
+AU Ogawa, K
+   Minkov, D
+   Shoji, T
+   Sato, M
+   Hashimoto, H
+TI NDE of degradation of thermal barrier coating by means of impedance
+   spectroscopy
+SO NDT & E INTERNATIONAL
+VL 32
+IS 3
+BP 177
+EP 185
+DI 10.1016/S0963-8695(98)00069-3
+PD APR 1999
+PY 1999
+AB Nondestructive evaluation of thermal barrier coating (TBC) degradation
+   during service operation has received a wide attention for service life
+   prediction of advanced gas turbines. In this work, TBC on nickel base
+   superalloy degraded at various degrees by thermal aging is investigated.
+   Particularly, TBC and Metal-Chromium-Aluminum-Yttrium alloy (MCrAlY) (M
+   indicates iron (Fe), cobalt (Co), nickel (Ni) or these combinations)
+   bond coating interface where a detrimental reaction takes place and
+   forms various reaction products during thermal aging, is studied in
+   detail. Formation kinetics and physical properties of the reaction layer
+   are evaluated by means of Impedance Spectroscopy (IS). Specimens aged at
+   higher temperature and a longer aging time shows larger impedance. The
+   impedance behavior of TBC and bond coating is found to be markedly
+   changed by the formation of the reaction layer. Physical properties and
+   thickness of the reaction layer are evaluated using the change of the
+   impedance. A mechanistic interpretation of the cause of change in the
+   physical properties and IS behavior are described. (C) 1999 Elsevier
+   Science Ltd. All rights reserved.
+ZS 0
+ZR 0
+TC 57
+Z8 6
+ZB 0
+Z9 60
+SN 0963-8695
+UT CCC:000078821900009
+ER
+
+PT J
+AU Gale, WF
+   Guan, Y
+TI Microstructure and mechanical properties of transient liquid phase bonds
+   between NiAl and a nickel-base superalloy
+SO JOURNAL OF MATERIALS SCIENCE
+VL 34
+IS 5
+BP 1061
+EP 1071
+DI 10.1023/A:1004504330294
+PD MAR 1 1999
+PY 1999
+AB An investigation of microstructural development in transient liquid
+   phase bonds between the B2 type intermetallic compound NiAl and a
+   nickel-base superalloy MM-247 is presented in this paper. The bonds
+   discussed in the paper employed pure copper interlayers. Based on
+   edge-on transmission electron microscopy investigations, the paper
+   examines both microstructural development at the bond-line and the
+   influence of bonding on the adjacent substrates. The paper considers the
+   epitaxial growth of the B2 type beta (nominally NiAl) phase into the
+   joint and the formation of non-epitaxial beta-phase layers. The paper
+   also examines the formation of second-phases, including the L1(2) type
+   gamma'-phase (nominally Ni(3)(Al, Ti)), MX type carbides, sigma-phase
+   intermetallics and elemental chromium and tungsten.
+   Bond-line and adjacent substrate microstructures for the NiAl/Cu/MM-247
+   bonds are correlated with joint mechanical properties determined by
+   room-temperature shear testing. The paper compares the microstructure
+   and mechanical properties of NiAl/Cu/MM-247 bonds with those of
+   NiAl/Cu/Ni joints. (C) 1999 Kluwer Academic Publishers.
+ZS 0
+TC 11
+ZR 0
+Z8 1
+ZB 0
+Z9 11
+SN 0022-2461
+UT CCC:000079647800023
+ER
+
+PT J
+AU Balikci, E
+   Mirshams, RA
+   Raman, A
+TI Microstructure evolution in polycrystalline IN738LC in the range 1120 to
+   1250 degrees C
+SO ZEITSCHRIFT FUR METALLKUNDE
+VL 90
+IS 2
+BP 132
+EP 140
+PD FEB 1999
+PY 1999
+AB The evolution of different microstructural features in the superalloy
+   IN738LC, held in the temperature range 1120 to 1250 degrees C and water
+   quenched, is investigated in this study. The gamma' precipitate formed
+   in IN738LC grows continuously in cuboidal shape at temperatures up to
+   1130 degrees C, but a distinct duplex-size (very fine + coarse)
+   precipitate morphology develops when the alloy is water quenched from
+   the range 1140 to 1150 degrees C. Quenching from 1160 to 1225 degrees C
+   produces a single fine-size precipitate microstructure, while analogous
+   quenching from 1235 degrees C and 1250 degrees C produces no precipitate
+   at all. Very fine precipitates (similar to 40 nm size) are formed after
+   a short time dwell in the duplex-size range and they grow to the size of
+   the normal fine precipitates (similar to 70 nm) obtained upon quenching
+   from the range 1160 to 1225 degrees C. The fine ones do not grow beyond
+   about 70 nm size in the duplex-size microstructure or in the single
+   fine-size precipitate microstructure, even after very long time holding
+   at the respective temperature range. Two different heat treatments were
+   used to study the mechanism of precipitation leading to the duplex-size
+   and the single fine-size precipitates. In Treatment I, fine gamma'
+   precipitates (similar to 70 nm in size) obtained after 1200 degrees C/4
+   h/WQ (water quenching to room temperature) solution treatment were
+   subsequently allowed to coarsen in the temperature range 1140 to 1160
+   degrees C. In the second treatment, coarsest gamma' precipitates
+   (average size of similar to 700 nm) were first obtained by aging the
+   above solution-treated alloy samples at 1120 degrees C/24 h/FC (furnace
+   cooling to room temperature) and their dissolution and subsequent fine
+   precipitate formation were later studied in the range 1140 to 1250
+   degrees C. In the first treatment, duplex-size precipitate distribution
+   after quenching from the range 1140 to 1150 degrees C was first observed
+   with the SEM after about 30 min of soaking time, after the initial
+   coarsening of the fine precipitates and partial dissolution of some of
+   them.
+   Thereafter, at 1140 degrees C, the coarse precipitates of the duplex
+   microstructure were found to have kept on coarsening in the cuboidal
+   mode up to about 4 hours of aging, while the very fine ones coarsened
+   independently up to the fine size level. On the contrary, the coarse
+   precipitates of the duplex-size microstructure were found to dissolve
+   more easily at 1150 degrees C after reaching a certain maximum size.
+   Dissolution starting from the corner was observed and the cuboidal
+   morphology changed to near spheroidal through such dissolution. The
+   latter morphology also was realized through particle agglomeration in
+   this temperature range. Coarse precipitates obtained first at 1120
+   degrees C started to dissolve faster and fine precipitates could be
+   obtained within five minutes of dwell at 1140 degrees C. The fine
+   precipitates are presumably of the "cooling" type and apparently gain
+   shape during the quenching process. It is proposed, however, that their
+   embryos, rich in solute content, should have been formed at the solution
+   treating temperature in the range 1140 to 1225 degrees C, through
+   possibly a spinodal-type transformation, since the fine precipitates
+   cannot grow to the size of similar to 70 nm during vary rapid cooling
+   under which they have been obtained. Activation energy for the
+   coarsening of precipitates (in Treatment I) and for size reduction of
+   the coarse precipitates by dissolution (in Treatment II) were calculated
+   using the average sizes of coarse precipitates after agings for various
+   time periods in this temperature range and quenching to room
+   temperature. The values obtained indicate very high activation energy
+   (685 +/- 15 kJ/mol) requirement for the coarsening of precipitates in
+   the duplex-size precipitate formation zone (1140 to 1150 degrees C), but
+   a very low activation energy (85 +/- 20 kJ/mol) is found to be
+   sufficient for the coarse precipitate dissolution in this range of
+   temperature.
+RI BALIKCI, ERCAN/M-9878-2014
+TC 14
+ZR 0
+ZB 0
+Z8 0
+ZS 0
+Z9 14
+SN 0044-3093
+UT CCC:000079069300006
+ER
+
+PT J
+AU Jones, RMF
+   Jackman, LA
+TI The structural evolution of superalloy ingots during hot working
+SO JOM-JOURNAL OF THE MINERALS METALS & MATERIALS SOCIETY
+VL 51
+IS 1
+BP 27
+EP 31
+DI 10.1007/s11837-999-0007-9
+PD JAN 1999
+PY 1999
+AB This article provides an overview of structural changes that occur
+   during the hot working of superalloys and provides insight into the use
+   of precipitated particles and other thermomechanical factors to achieve
+   desired structures. Examples will focus primarily on alloys 718 and 720,
+   which are iron-nickel and nickel-based alloys, respectively. The
+   availability of a second phase to control grain size is a characteristic
+   of some iron-nickel- and nickel-based superalloys that is not usually
+   available to cobalt-based superalloys; processing with and without the
+   use of a precipitated phase that influences microstructures will be
+   illustrated by the use of these examples.
+ZS 1
+Z8 5
+TC 38
+ZR 0
+ZB 0
+Z9 41
+SN 1047-4838
+UT CCC:000078076600004
+ER
+
+PT J
+AU Jeutter, A
+   Schutze, M
+TI The role of HCl-impurities in the environment and Y for the high
+   temperature corrosion of CoNiCrAl(Y)-coatings on a Ni-base-superalloy
+   under complex loading conditions
+SO MATERIALS AT HIGH TEMPERATURES
+VL 16
+IS 2
+BP 71
+EP 86
+DI 10.3184/096034099783641209
+PD 1999
+PY 1999
+AB The influence of small concentrations of HCl in synthetic air on the
+   high-temperature corrosion of an Y-free and an Y-modified
+   CoNiCrAl-coating on the directly solidified Ni-base superalloy CM247LC
+   DS was investigated at 1,000 degrees C under isothermal and thermocyclic
+   conditions, accompanied by acoustic emission measurements. Furthermore,
+   thermomechanical fatigue tests were carried out. Both coatings formed an
+   Al2O3-layer. Y had a positive influence on the scale adherence and
+   changed the growth direction of the Al2O3-scale. Y-modified coatings
+   showed substantial internal oxidation. Pore formation at the oxide/metal
+   interface took place in the case of the Y-free coating during oxidation
+   in synthetic air as well during oxidation in HCl-containing atmospheres
+   leading to a decrease of scale adherance. No crack closure by oxidation
+   was observed under thermomechanical fatigue conditions in the case of
+   Y-modified coatings on the alloy CM247LC DS. For the Y-free coating in
+   HCl-containing atmospheres scale damage could be detected by accoustic
+   emission measurements even under isothermal oxidation.
+RI Schutze, Michael/Z-3655-2019
+ZR 0
+TC 0
+Z8 0
+ZB 0
+ZS 0
+Z9 0
+SN 0960-3409
+UT CCC:000084125500002
+ER
+
+PT J
+AU Wong, FMG
+   Mitchell, NA
+   Kato, T
+   Nakajima, H
+   Randall, R
+   Morra, M
+TI Characterization of incoloy 908 and avoidance of stress accelerated
+   grain boundary oxidation (SAGBO) during ITER Model Coil fabrication
+SO FUSION TECHNOLOGY
+VL 34
+IS 3
+BP 815
+EP 821
+PN 2
+PD NOV 1998
+PY 1998
+AB Incoloy 908, an iron-nickel base superalloy that was developed as a
+   Nb(3)Sn jacket material for Cable-In-Conduit Conductors, has been
+   selected as the jacket material for the International Thermonuclear
+   Experimental Reactor (ITER) Toroidal Field (TF) and Central Solenoid
+   (CS) coils. It has a coefficient of expansion matching Nb3Sn (to
+   minimise Je and Tc degradation due to differential contraction after the
+   reaction heat treatment). The alloy exhibits a characteristic of
+   iron-nickel base superalloys: oxygen embrittlement along grain
+   boundaries as a result of heating in an oxygen atmosphere when tensile
+   surface stresses are present. For applications using Incoloy 908,.
+   techniques are required to control levels of either oxygen or tensile
+   surface stresses during heat treatment. R & D results performed to
+   develop and qualify such techniques for industrial applications are
+   presented. The work has concentrated on establishing the lowest
+   achievable oxygen levels inside the cable space during the reaction heat
+   treatment and determining the conditions that can be tolerated inside
+   and outside the jacket before SAGBO occurs. The results were applied in
+   the ITER Model Coil programmes, in which about 5.5 km of conductor have
+   been successfully heat treated.
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+TC 4
+Z9 4
+SN 0748-1896
+UT CCC:000077384500087
+ER
+
+PT J
+AU Murty, SVSN
+   Rao, BN
+TI On the development of instability criteria during hotworking with
+   reference to IN 718
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 254
+IS 1-2
+BP 76
+EP 82
+DI 10.1016/S0921-5093(98)00764-3
+PD OCT 15 1998
+PY 1998
+AB A simple instability condition based on the Ziegler's continuum
+   principles as applied to large plastic Bow, is developed for delineating
+   the regions of unstable metal flow during hot deformation. It can be
+   used for any type of the Bow stress versus strain rate curve. This
+   criterion has been validated using the flow stress data of IN 718 with
+   microstructural observations. The optimum hat working conditions for the
+   superalloy IT 718 are suggested based on the instability map. (C) 1998
+   Elsevier Science S.A. All rights reserved.
+OI S.V.S., Narayana Murty/0000-0001-5948-970X
+ZB 0
+Z8 26
+ZR 0
+ZS 0
+TC 135
+Z9 143
+SN 0921-5093
+UT CCC:000076521300008
+ER
+
+PT J
+AU Mujahid, M
+   Gater, CA
+   Martin, JW
+TI Microstructural study of a mechanically alloyed ODS superalloy
+SO JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE
+VL 7
+IS 4
+BP 524
+EP 532
+DI 10.1361/105994998770347684
+PD AUG 1998
+PY 1998
+AB Extruded bars of oxide-dispersion-strengthened (ODS) alloy MA-6000 have
+   been annealed isothermally as well as in temperature gradients. The
+   temperatures used for annealing produced secondary recrystallization in
+   all the samples, although the final grain aspect ratio was different for
+   each annealing process. Interrupted gradient anneal experiments showed a
+   curved secondary recrystallization front, with the surface
+   recrystallizing at a lower temperature than the interior. It is believed
+   this is caused indirectly by the strain gradients arising during
+   extrusion. Grain-orientation analysis of recrystallized material
+   revealed that a <110> fiber texture is present, A progressive grain
+   reorientation toward <110> has been measured behind the
+   recrystallization front using microbeam electron diffraction. In
+   addition, changes in the distribution, size, and morphology of different
+   types of precipitates and particles occurring during various stages of
+   annealing have also been studied, Grain-boundary pinning by the stable
+   oxide particles plays an important role in determining the grain growth
+   behavior at high temperatures.
+RI Mujahid, Mohammad/A-6542-2012; Gater, Catherine/
+OI Mujahid, Mohammad/0000-0002-3454-0713; Gater,
+   Catherine/0000-0003-0534-741X
+ZB 0
+ZR 0
+Z8 0
+TC 3
+ZS 0
+Z9 3
+SN 1059-9495
+UT CCC:000075115500012
+ER
+
+PT J
+AU Zitnansky, M
+   Zrnik, J
+   Martinkovic, M
+TI Developing processes of property improvement of nickel base superalloys
+SO JOURNAL OF MATERIALS PROCESSING TECHNOLOGY
+VL 78
+IS 1-3
+BP 204
+EP 209
+DI 10.1016/S0924-0136(97)00484-6
+PD JUN 1 1998
+PY 1998
+AB In this paper, an interesting technical problem is to be solved
+   concerning in particular composites with a metallic matrix and with
+   continual strengthening fibres. The problem concerns metal transport in
+   the liquid condition, using different pressure inlets and outlets of the
+   form. The attempt to analyse the bonding among the fibres and metallic
+   matrix is described. Analysis of the problem of bonding between the
+   fibres and metallic matrix solved. Continuous fibre-reinforced metal
+   matrix composites as a technological process is very interesting.
+   Casting of continuous fibres is an especially appropriate fabrication
+   technology when these materials are to be used in complex-shaped parts,
+   or the components of an internal combustion engine. It is also an
+   excellent method for producing these materials in thick section or in
+   sections containing a variety of fibre orientations. However, casting in
+   ambient atmosphere is not as well suited to the fabrication of thin,
+   flat sheets, because of the difficulty in feeding molten metal over long
+   distances through thin cross sections. If the pouring process is used in
+   a high vacuum, we should expect very good or excellent results. In
+   preparing the fibre preform, the arrangement of the fibres into the
+   orientation, packing density and size desired in the finished part must
+   be maintained. However, in both preform preparation and casting,
+   significant modifications to the standard procedures must be made when
+   casting metal composites. (C) 1998 Published by Elsevier Science S.A.
+   All rights reserved.
+RI Martinkovic, Maros/F-3403-2017
+OI Martinkovic, Maros/0000-0002-5128-9786
+TC 3
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+Z9 3
+SN 0924-0136
+UT CCC:000074643900032
+ER
+
+PT J
+AU Asthana, R
+   Tewari, SN
+   Draper, SL
+TI Strength degradation of sapphire fibers during pressure casting of a
+   sapphire-reinforced Ni-base superalloy
+SO METALLURGICAL AND MATERIALS TRANSACTIONS A-PHYSICAL METALLURGY AND
+   MATERIALS SCIENCE
+VL 29
+IS 5
+BP 1527
+EP 1530
+DI 10.1007/s11661-998-0370-0
+PD MAY 1998
+PY 1998
+Z8 0
+ZR 1
+TC 11
+ZS 0
+ZB 0
+Z9 12
+SN 1073-5623
+UT CCC:000073931000020
+ER
+
+PT J
+AU Somani, MC
+   Muraleedharan, K
+   Prasad, YVRK
+   Singh, V
+TI Mechanical processing and microstructural control in hot working of hot
+   isostatically pressed P/M IN-100 superalloy
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+VL 245
+IS 1
+BP 88
+EP 99
+DI 10.1016/S0921-5093(97)00698-9
+PD APR 30 1998
+PY 1998
+AB The hot deformation behavior of hot isostatically pressed (HIPd) P/M
+   IN-100 superalloy has been studied in the temperature range 1000-1200
+   degrees C and strain rate range 0.0003-10 s(-1) using hot compression
+   testing. A processing map has been developed on the basis of these data
+   and using the principles of dynamic materials modelling. The map
+   exhibited three domains: one at 1050 degrees C and 0.01 s(-1), with a
+   peak efficiency of power dissipation of approximate to 32%, the second
+   at 1150 degrees C and 10 s(-1), with a peak efficiency of approximate to
+   36% and the third at 1200 degrees C and 0.1 s(-1), with a similar
+   efficiency. On the basis of optical and electron microscopic
+   observations, the first domain was interpreted to represent dynamic
+   recovery of the gamma phase, the second domain represents dynamic
+   recrystallization (DRX) of gamma in the presence of softer gamma', while
+   the third domain represents DRX of the gamma phase only. The gamma'
+   phase is stable upto 1150 degrees C, gets deformed below this
+   temperature and the chunky gamma' accumulates dislocations, which at
+   larger strains cause cracking of this phase. At temperatures lower than
+   1080 degrees C and strain rates higher than 0.1 s(-1), the material
+   exhibits flow instability, manifested in the form of adiabatic shear
+   bands. The material may be subjected to mechanical processing without
+   cracking or instabilities at 1200 degrees C and 0.1 s(-1), which are the
+   conditions for DRX of the gamma phase. (C) 1998 Elsevier Science S.A.
+   All rights reserved.
+RI Singh, Vakil/F-6689-2014; Nath, S Shashi/B-5115-2009
+OI Singh, Vakil/0000-0003-4111-8016; 
+ZB 0
+Z8 10
+ZS 0
+TC 57
+ZR 0
+Z9 60
+SN 0921-5093
+UT CCC:000073504100011
+ER
+
+PT J
+AU Yoshiba, M
+   Wada, K
+   Harada, Y
+TI Creep failure analysis of some plasma spray coating systems subjected to
+   hot corrosion
+SO JOURNAL OF THE JAPAN INSTITUTE OF METALS
+VL 62
+IS 4
+BP 333
+EP 342
+DI 10.2320/jinstmet1952.62.4_333
+PD APR 1998
+PY 1998
+AB Creep rupture properties and creep failure behavior in the hot corrosive
+   environment by means of adopting molten salt were investigated of the
+   plasma spray coated Ni-base superalloy systems with different spraying
+   conditions, including the thermal barrier coating (TBC) system with the
+   Y2O8-stabilized ZrO2 ceramic top-coat.
+   Characteristic manners of the coating failure were observed in the
+   different coating systems. The most significant creep rupture property
+   degradation was found to occur in the air plasma sprayed (APS) NiCrAlY
+   coating system (NA) in accidental and brittle manners, although thermal
+   cycle susceptibility of the corrosion-induced premature rupture is
+   rather mitigated. On the other hand, the TBC system (NVZ) was confirmed
+   to minimize the corrosion-induced strength degradation mainly by virtue
+   of effective protection of the coating layer against a general
+   corrosion. In this TBC system, however, the existing top-coat defect
+   associated with a segmentation structure was revealed to cause an
+   extremely localized coating failure because of introducing the localized
+   and intensive attack to the NiCrAlY under-coat layer just below the
+   top-coat crack-opened.
+   A possible failure mechanism and its affecting factors for the coating
+   system failure were discussed mainly from the viewpoint of simultaneous
+   stress-corrosion effect.
+ZS 0
+Z8 0
+ZB 0
+TC 2
+ZR 0
+Z9 2
+SN 0021-4876
+UT CCC:000074140500005
+ER
+
+PT J
+AU Jovanovic, MT
+   Miskovic, Z
+   Lukic, B
+TI Microstructure and stress-rupture life of polycrystal, directionally
+   solidified, and single crystal castings of nickel-based IN 939
+   superalloy
+SO MATERIALS CHARACTERIZATION
+VL 40
+IS 4-5
+BP 261
+EP 268
+DI 10.1016/S1044-5803(98)00013-8
+PD APR-JUN 1998
+PY 1998
+AB A comparative investigation of microstructural and mechanical properties
+   (stress-rupture life) in conventionally cast, directionally solidified,
+   and single crystal IN 939 superalloy has been undertaken. Directional
+   castings possess only a few columnar grains, all oriented in the < 100 >
+   crystallographic direction, whereas only one grain is present in a
+   single crystal. Single crystals are characterized by the highest values
+   of stress-rupture life, much higher than those of directionally
+   solidified and, especially, polycrystal castings, which is accounted for
+   by the absence of grain boundaries. (C) Elsevier Science Inc., 1998.
+ZB 0
+Z8 2
+ZS 0
+ZR 1
+TC 18
+Z9 19
+SN 1044-5803
+UT CCC:000075113100006
+ER
+
+PT J
+AU Valles, JL
+   Arrell, DJ
+TI Simulation of precipitate coalescence in the solidification structures
+   of superalloys
+SO COMPUTATIONAL MATERIALS SCIENCE
+VL 9
+IS 1-2
+BP 218
+EP 228
+DI 10.1016/S0927-0256(97)00077-3
+PD DEC 1997
+PY 1997
+AB A recently published criterion to predict anisotropic coarsening in
+   single crystal nickel-base superalloys under multiaxial stress
+   conditions, based on the interfacial mismatch dislocations between the
+   two phases present in these materials has been incorporated into an
+   anisotropic lattice gas employed in a Monte Carlo simulation. This has
+   been used to simulate the effect of residual stresses within the casting
+   mesostructure on the anisotropy coalescence of precipitates within the
+   commercial alloy SRR99 under thermal and thermo-mechanical treatment. A
+   series of lattice configurations reproducing a sequence of cross
+   sections through the casting structure are presented. Modelling results
+   are Pound to compare well with experimental data. (C) 1997 Elsevier
+   Science B.V.
+TC 0
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+Z9 0
+SN 0927-0256
+UT CCC:000071348200025
+ER
+
+PT J
+AU Su, CY
+   Chou, CP
+   Wu, BC
+   Lih, WC
+TI Plasma transferred are repair welding of the nickel-base superalloy
+   IN-738LC
+SO JOURNAL OF MATERIALS ENGINEERING AND PERFORMANCE
+VL 6
+IS 5
+BP 619
+EP 627
+DI 10.1007/s11665-997-0055-7
+PD OCT 1997
+PY 1997
+AB Plasma transferred are welding (PTA) has been considered a promising
+   process t
+   The objective of this investigation was to study the effect of PTA
+   welding on the repairing of IN-738LC superalloy components, Tensile
+   tests were conducted on specimens welded with various combinations of
+   parameters, Room temperature, 760 degrees C, and 980 degrees C were
+   selected Its tensile test temperatures, High-temperature phase
+   transformed, during solidification, were identified by differential
+   thermal analysis (DTA), The weld-pool shapes and microstructures of
+   welded specimens prepared by various welding parameters were evaluated
+   by optical metallography (OM), a scanning electron microscope (SEM)
+   equipped with energy dispersive x-ray spectrometer (EDS), and
+   microhardness testing.
+   Results of this study showed that PTA welded specimens exhibited 96%
+   nominal tensile strength of IN-738LC base materials, Specimen failure
+   was observed predominantly in the base materials instead of in the
+   heat-affected zone (HAZ) for gas tungsten are weld (GTAW) repair
+   weldments, IN-738LC is considered susceptible to weld cracking during
+   fusion welding; however, using a low-input heat repair welding process
+   (PTA), cracking susceptibility could be minimized by the optimized
+   welding parameters.
+ZR 0
+TC 27
+ZB 0
+Z8 3
+ZS 1
+Z9 29
+SN 1059-9495
+UT CCC:A1997XY94800011
+ER
+
+PT J
+AU NASH, P
+   WU, SH
+   UR, SC
+   DOLLAR, M
+TI DESIGN OF DISPERSION-STRENGTHENED NIAL
+SO MATERIALS TRANSACTIONS JIM
+VL 36
+IS 2
+BP 351
+EP 356
+DI 10.2320/matertrans1989.36.351
+PD FEB 1995
+PY 1995
+AB Recent work on the development of mechanically alloyed, dispersion
+   strengthened NiAl is reviewed. The alloy design approach used in our
+   research group to address the shortcomings of monolithic, cast NiAl are
+   outlined. Significant progress has been made in establishing the
+   thermomechanical processing steps necessary to produce a large grain
+   aspect ratio microstructure without substantial dispersoid coarsening.
+   Some new results on the creep resistance of AIN dispersion strengthened
+   NiA1 are presented. Finally, possible directions for continued
+   development of this material are discussed.
+OI Nash, Philip/0000-0003-2975-8512
+ZB 0
+ZR 0
+TC 8
+ZS 0
+Z8 3
+Z9 11
+SN 0916-1821
+UT CCC:A1995QW62600033
+ER
+
+EF
